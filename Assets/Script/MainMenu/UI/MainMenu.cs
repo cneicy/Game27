@@ -1,4 +1,5 @@
 using System.Collections;
+using Script.Init;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -21,6 +22,8 @@ namespace Script.MainMenu.UI
         private IEnumerator Load()
         {
             yield return new WaitForSeconds(1);
+            //选关 以及加载玩家数据位置 传入中间页
+            Init.Init.InitScene(Loader.Scene.Level1);
             SceneManager.LoadScene("Init");
         }
         
