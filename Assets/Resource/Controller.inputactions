@@ -1,0 +1,84 @@
+{
+    "name": "Controller",
+    "maps": [
+        {
+            "name": "Game",
+            "id": "ba9fa5e5-e921-4dc1-8154-8b490ebca57d",
+            "actions": [
+                {
+                    "name": "Player",
+                    "type": "Value",
+                    "id": "79178a2d-c983-4b36-96fd-a6688b88d231",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "WASD",
+                    "id": "ca36b329-9f7d-4a2f-a100-57e3c67293e1",
+                    "path": "2DVector",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Player",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "up",
+                    "id": "3340b1d2-c2bb-498a-b349-fbf698f8ead2",
+                    "path": "<Keyboard>/w",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Normal",
+                    "action": "Player",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "down",
+                    "id": "d88b2146-4ffa-4cec-a4d6-fcea3a15d733",
+                    "path": "<Keyboard>/s",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Normal",
+                    "action": "Player",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "left",
+                    "id": "4b16063f-65e0-4fca-a51b-36add34f63c6",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Normal",
+                    "action": "Player",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "right",
+                    "id": "6bb91fd9-26ab-4f3e-b036-cde49340716b",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Normal",
+                    "action": "Player",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "Normal",
+            "bindingGroup": "Normal",
+            "devices": []
+        }
+    ]
+}
