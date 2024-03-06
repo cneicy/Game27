@@ -21,7 +21,7 @@ namespace Script.Game.Object
             var current = gameObject.transform.position;
             var target = _lookPosition.transform.position;
 
-            _tempLookPosition = Vector3.SmoothDamp(current, target, ref _cameraSpeed, 0.5f);
+            _tempLookPosition = Vector3.SmoothDamp(current, target, ref _cameraSpeed, 0.2f);
             _tempLookPosition.z = -10;
             transform.position = _tempLookPosition;
         }
