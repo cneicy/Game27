@@ -1,18 +1,13 @@
-using System;
-using System.Collections;
 using Script.Data;
-using Script.Game.Getter;
-using Unity.VisualScripting;
+using Script.Game.Object.Player.Action;
 using UnityEngine;
-using UnityEngine.Serialization;
 
-namespace Script.Game.Object
+namespace Script.Game.Object.Player
 {
     public class Player : MonoBehaviour
     {
-        [SerializeField] public float playerSpeed;
         private Rigidbody2D _rigidBody2D;
-        private Quaternion _tempY;
+
         private int _hp;
         public static PlayerData PlayerData;
         public bool jumping;
@@ -23,25 +18,28 @@ namespace Script.Game.Object
         public float buttonPressWindow;
         private bool _canJump;
         private bool _isCoyoteTimeEnable;
+        private bool _isPreJumpEnable;
         private float _coyoteTime;
+        private float _preJumpTime;
+        private Dash _dash;
+        [SerializeField] private float preJumpTimeMax;
         [SerializeField] private float coyoteTimeMax;
-        [SerializeField] private AudioSource walkingSource;
-        [SerializeField] private AudioSource runningSource;
+
         [SerializeField] private AudioSource jumpingSource;
 
         [SerializeField] private float rayStart;
+
         /*[SerializeField] private BoxCollider2D leftCollider;
         [SerializeField] private BoxCollider2D rightCollider;*/
         private bool _leftWallJump;
         private bool _rightWallJump;
-        private EdgeCollider2D _wall;
 
-        
-        
+
         private void Awake()
         {
+            _dash = GetComponent<Dash>();
             _rigidBody2D = GetComponent<Rigidbody2D>();
-            _wall = GameObject.FindGameObjectWithTag("Wall").GetComponent<EdgeCollider2D>();
+            _rigidBody2D.freezeRotation = true;
         }
 
         //保存数据用Trigger方法
@@ -54,32 +52,16 @@ namespace Script.Game.Object
 
         private void JumpTime()
         {
+            if (!_canJump && Input.GetKeyDown(KeyCode.K) && !_isPreJumpEnable)
+            {
+                _isPreJumpEnable = true;
+            }
+
             if (_canJump || _leftWallJump || _rightWallJump)
             {
-                if (Input.GetKeyDown(KeyCode.Space))
+                if (Input.GetKeyDown(KeyCode.K))
                 {
-                    jumpingSource.Play();
-                    _canJump = false;
-                    _isCoyoteTimeEnable = false;
-                    if (_leftWallJump)
-                    {
-                        _rigidBody2D.AddForce(Vector2.right*800f);
-                        _rigidBody2D.AddForce(Vector2.up*100);
-                        _rigidBody2D.gravityScale = gravityScale;
-                    }
-                    if (_rightWallJump)
-                    {
-                        _rigidBody2D.AddForce(Vector2.left*800f);
-                        _rigidBody2D.AddForce(Vector2.up*100);
-                        _rigidBody2D.gravityScale = gravityScale;
-                    }
-                    _coyoteTime = 0;
-                    _rigidBody2D.gravityScale = gravityScale;
-                    var jumpForce = Mathf.Sqrt(jumpHeight * (Physics2D.gravity.y * _rigidBody2D.gravityScale) * -2) *
-                                    _rigidBody2D.mass;
-                    _rigidBody2D.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-                    jumping = true;
-                    buttonPressTime = 0; //重置
+                    Jump();
                 }
             }
 
@@ -87,7 +69,7 @@ namespace Script.Game.Object
             buttonPressTime += Time.deltaTime; //开始计时
 
             //在上升过程中松开按键
-            if (buttonPressTime < buttonPressWindow && Input.GetKeyUp(KeyCode.Space))
+            if (buttonPressTime < buttonPressWindow && Input.GetKeyUp(KeyCode.K))
             {
                 _rigidBody2D.gravityScale = fallGravityScale;
             }
@@ -98,11 +80,46 @@ namespace Script.Game.Object
             _rigidBody2D.gravityScale = fallGravityScale;
         }
 
+        private void Jump()
+        {
+            jumpingSource.Play();
+            _canJump = false;
+            _isCoyoteTimeEnable = false;
+            var jumpForce = Mathf.Sqrt(jumpHeight * (Physics2D.gravity.y * _rigidBody2D.gravityScale) * -2) *
+                            _rigidBody2D.mass;
+            if (_leftWallJump)
+            {
+                _rigidBody2D.AddForce(Vector2.right * 1200f);
+                _rigidBody2D.AddForce(Vector2.up * jumpForce / 1.5f);
+                _rigidBody2D.gravityScale = gravityScale;
+            }
+
+            if (_rightWallJump)
+            {
+                _rigidBody2D.AddForce(Vector2.left * 1200);
+                _rigidBody2D.AddForce(Vector2.up * jumpForce / 1.5f);
+                _rigidBody2D.gravityScale = gravityScale;
+            }
+
+            _coyoteTime = 0;
+            _rigidBody2D.gravityScale = gravityScale;
+
+            _rigidBody2D.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            jumping = true;
+            buttonPressTime = 0; //重置
+        }
+
         private void OnTriggerEnter2D(Collider2D other)
         {
             if (other.gameObject.tag.Equals("Wall"))
             {
+                if (_preJumpTime < preJumpTimeMax && _isPreJumpEnable && !_leftWallJump && !_rightWallJump)
+                {
+                    Jump();
+                }
+
                 _isCoyoteTimeEnable = false;
+                _isPreJumpEnable = false;
                 _canJump = true;
             }
         }
@@ -110,11 +127,13 @@ namespace Script.Game.Object
         private void OnTriggerStay2D(Collider2D other)
         {
             _coyoteTime = 0;
+            _preJumpTime = 0;
             if (other.gameObject.tag.Equals("Wall"))
             {
                 _canJump = true;
             }
         }
+
 
         //当玩家离地自动启用土狼时间 允许玩家跳跃一次 土狼时间为10fixUpdate 如果玩家在10fixUpdate内跳跃过则禁用土狼时间
         private void OnTriggerExit2D(Collider2D other)
@@ -125,25 +144,21 @@ namespace Script.Game.Object
             }
         }
 
-        private void PlayerMove() //不能直接*KeyGetter.PlayerDir 会起飞
+
+        private void SpeedLimit()
         {
-            if (KeyGetter.PlayerDir.x != 0)
+            var temp = _rigidBody2D.velocity;
+            //玩家冲刺限速
+            if (_dash.isDashing)
             {
-                walkingSource.Play();
-                runningSource.PlayDelayed(0.5f);
-                _rigidBody2D.AddForce(Vector2.right * (KeyGetter.PlayerDir.x * playerSpeed));
-                var temp = _rigidBody2D.velocity;
-                temp.x = Mathf.Clamp(temp.x, -7, 7);
-                _rigidBody2D.velocity = temp;
+                temp.x = Mathf.Clamp(temp.x, -50, 50);
             }
             else
             {
-                walkingSource.Pause();
-                runningSource.Pause();
-                var temp = _rigidBody2D.velocity;
-                temp.x = Mathf.Lerp(temp.x, 0f, 0.02f);
-                _rigidBody2D.velocity = temp;
+                temp.x = Mathf.Clamp(temp.x, -7, 7);
             }
+
+            _rigidBody2D.velocity = temp;
         }
 
         private void CoyoteTime()
@@ -155,16 +170,7 @@ namespace Script.Game.Object
         }
 
         //玩家转身
-        private void Turn()
-        {
-            _tempY.y = KeyGetter.PlayerDir.x switch
-            {
-                < 0 => 180,
-                > 0 => 0,
-                _ => _tempY.y
-            };
-            transform.rotation = _tempY;
-        }
+
 
         private void FixedUpdate()
         {
@@ -172,20 +178,25 @@ namespace Script.Game.Object
             {
                 _coyoteTime += Time.fixedDeltaTime;
             }
+
+            if (_isPreJumpEnable)
+            {
+                _preJumpTime += Time.fixedDeltaTime;
+            }
         }
 
         private void ClimbJump()
         {
-            var leftTemp = transform.position + Vector3.left * rayStart + Vector3.up * 0.5f;
-            
+            var leftTemp = transform.position + Vector3.left * rayStart + Vector3.up * 0.3f;
+
             var leftRay = Physics2D.Raycast(leftTemp, Vector2.left, 0.1f);
-            
-            var rightTemp = transform.position + Vector3.right * rayStart + Vector3.up * 0.5f;
-            
+
+            var rightTemp = transform.position + Vector3.right * rayStart + Vector3.up * 0.3f;
+
             var rightRay = Physics2D.Raycast(rightTemp, Vector2.right, 0.1f);
-            Debug.DrawRay(leftTemp,Vector2.left,Color.cyan,0.1f);
-            Debug.DrawRay(rightTemp,Vector2.right,Color.blue,0.1f);
-            //Debug.DrawLine(transform.position,);
+            Debug.DrawRay(leftTemp, Vector2.left, Color.cyan, 0.1f);
+            Debug.DrawRay(rightTemp, Vector2.right, Color.blue, 0.1f);
+
             if (leftRay.collider is not null)
             {
                 if (leftRay.collider.tag.Equals("Wall"))
@@ -197,7 +208,7 @@ namespace Script.Game.Object
             {
                 _leftWallJump = false;
             }
-            
+
             if (rightRay.collider is not null)
             {
                 if (rightRay.collider.tag.Equals("Wall"))
@@ -213,10 +224,9 @@ namespace Script.Game.Object
 
         private void Update()
         {
+            SpeedLimit();
             ClimbJump();
             CoyoteTime();
-            PlayerMove();
-            Turn();
             JumpTime();
         }
     }

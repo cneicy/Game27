@@ -1,6 +1,6 @@
 ﻿using System.IO;
 using Script.Data;
-using Script.Game.Object;
+using Script.Game.Object.Player;
 using UnityEngine;
 
 namespace Script.Game

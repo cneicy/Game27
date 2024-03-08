@@ -19,7 +19,7 @@ namespace Script.Init.UI
         //随机加载tip
         private void Start()
         {
-            _tipText.text = _tips[Random.Range(0, _tips.Count)];
+            _tipText.text = "Tips: "+_tips[Random.Range(0, _tips.Count)];
         }
     }
 }

@@ -6,6 +6,7 @@ TagManager:
   tags:
   - LookPosition
   - Wall
+  - VAttack
   layers:
   - Default
   - TransparentFX
