@@ -10,7 +10,6 @@ namespace Script
         private void Awake()
         {
             _mainCamera = Camera.main;
-
             var windowAspect = Screen.width / (float)Screen.height;
 
             var scaleHeight = windowAspect / TargetAspect;

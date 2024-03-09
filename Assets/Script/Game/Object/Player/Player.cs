@@ -1,3 +1,4 @@
+using System.Collections;
 using Script.Data;
 using Script.Game.Object.Player.Action;
 using UnityEngine;
@@ -7,7 +8,7 @@ namespace Script.Game.Object.Player
     public class Player : MonoBehaviour
     {
         private Rigidbody2D _rigidBody2D;
-
+        private Animator _animator;
         private int _hp;
         public static PlayerData PlayerData;
         public bool jumping;
@@ -33,15 +34,24 @@ namespace Script.Game.Object.Player
         [SerializeField] private BoxCollider2D rightCollider;*/
         private bool _leftWallJump;
         private bool _rightWallJump;
+        private static readonly int Jump1 = Animator.StringToHash("isJumping");
 
 
         private void Awake()
         {
             _dash = GetComponent<Dash>();
+            _animator = GetComponent<Animator>();
             _rigidBody2D = GetComponent<Rigidbody2D>();
             _rigidBody2D.freezeRotation = true;
         }
 
+        public int Damage(int beHurtNum)
+        {
+            _animator.SetTrigger("Hurt");
+            
+            return _hp-=beHurtNum;
+        }
+        
         //保存数据用Trigger方法
         public void SaveData()
         {
@@ -76,10 +86,18 @@ namespace Script.Game.Object.Player
 
             //玩家开始下落（物体达到高度峰值），完成了完整跳跃
             if (!(_rigidBody2D.velocity.y < 0)) return;
+            
             jumping = false; //物体开始下落就设置为false
             _rigidBody2D.gravityScale = fallGravityScale;
         }
 
+        private IEnumerator JumpAnimationTimer()
+        {
+            _animator.SetBool(Jump1,true);
+            yield return new WaitForSeconds(1f);
+            _animator.SetBool(Jump1,false);
+        }
+        
         private void Jump()
         {
             jumpingSource.Play();
@@ -103,7 +121,7 @@ namespace Script.Game.Object.Player
 
             _coyoteTime = 0;
             _rigidBody2D.gravityScale = gravityScale;
-
+            StartCoroutine(JumpAnimationTimer());
             _rigidBody2D.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             jumping = true;
             buttonPressTime = 0; //重置
@@ -155,7 +173,7 @@ namespace Script.Game.Object.Player
             }
             else
             {
-                temp.x = Mathf.Clamp(temp.x, -7, 7);
+                temp.x = Mathf.Clamp(temp.x, -6, 6);
             }
 
             _rigidBody2D.velocity = temp;
@@ -168,9 +186,7 @@ namespace Script.Game.Object.Player
                 _canJump = false;
             }
         }
-
-        //玩家转身
-
+        
 
         private void FixedUpdate()
         {
