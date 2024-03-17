@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using Script.Data;
 using Script.Game.Object.Player.Action;
@@ -10,7 +11,7 @@ namespace Script.Game.Object.Player
         private Rigidbody2D _rigidBody2D;
         private Animator _animator;
         private int _hp;
-        public static PlayerData PlayerData;
+        public PlayerData PlayerData;
         public bool jumping;
         public float gravityScale;
         public float jumpHeight;
@@ -35,14 +36,23 @@ namespace Script.Game.Object.Player
         private bool _leftWallJump;
         private bool _rightWallJump;
         private static readonly int Jump1 = Animator.StringToHash("isJumping");
+        private KeySettingManager _keySettingManager;
 
-
+        private SAL _sal;
+        
         private void Awake()
         {
+            _sal = GameObject.FindWithTag("Global").GetComponent<SAL>();
+            _keySettingManager = GameObject.FindWithTag("KeySettingManager").GetComponent<KeySettingManager>();
             _dash = GetComponent<Dash>();
             _animator = GetComponent<Animator>();
             _rigidBody2D = GetComponent<Rigidbody2D>();
             _rigidBody2D.freezeRotation = true;
+        }
+
+        private void Start()
+        {
+            LoadData();
         }
 
         public int Damage(int beHurtNum)
@@ -57,19 +67,27 @@ namespace Script.Game.Object.Player
         {
             //todo 完成玩家阶段储存
             PlayerData.Hp = _hp;
-            PlayerData.PlayerTransform = transform;
+            PlayerData.PlayerPosition = transform.position;
+            _sal.Save();
         }
 
+        public void LoadData()
+        {
+            _sal.Load();
+            gameObject.transform.position = PlayerData.PlayerPosition;
+            _hp = PlayerData.Hp;
+        }
+        
         private void JumpTime()
         {
-            if (!_canJump && Input.GetKeyDown(KeyCode.K) && !_isPreJumpEnable)
+            if (!_canJump && Input.GetKeyDown(_keySettingManager.GetKey("Jump")) && !_isPreJumpEnable)
             {
                 _isPreJumpEnable = true;
             }
 
             if (_canJump || _leftWallJump || _rightWallJump)
             {
-                if (Input.GetKeyDown(KeyCode.K))
+                if (Input.GetKeyDown(_keySettingManager.GetKey("Jump")))
                 {
                     Jump();
                 }
@@ -79,7 +97,7 @@ namespace Script.Game.Object.Player
             buttonPressTime += Time.deltaTime; //开始计时
 
             //在上升过程中松开按键
-            if (buttonPressTime < buttonPressWindow && Input.GetKeyUp(KeyCode.K))
+            if (buttonPressTime < buttonPressWindow && Input.GetKeyUp(_keySettingManager.GetKey("Jump")))
             {
                 _rigidBody2D.gravityScale = fallGravityScale;
             }

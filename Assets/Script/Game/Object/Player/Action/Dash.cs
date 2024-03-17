@@ -14,10 +14,12 @@ namespace Script.Game.Object.Player.Action
         private bool _canDash = true;
         private static readonly int Dash1 = Animator.StringToHash("Dash");
         private ShadowPool _shadowPool;
+        private KeySettingManager _keySettingManager;
         [SerializeField]private AudioSource audioSource;
         
         private void Awake()
         {
+            _keySettingManager = GameObject.FindWithTag("KeySettingManager").GetComponent<KeySettingManager>();
             _shadowPool = GameObject.FindWithTag("Player").GetComponent<ShadowPool>();
             _rigidBody2D = GameObject.FindWithTag("Player").GetComponent<Rigidbody2D>();
             _animator = GameObject.FindWithTag("Player").GetComponent<Animator>();
@@ -26,7 +28,7 @@ namespace Script.Game.Object.Player.Action
 
         private void PlayerDash()
         {
-            if (Input.GetKeyDown(KeyCode.L) && !isDashing && _canDash)
+            if (Input.GetKeyDown(_keySettingManager.GetKey("Dash")) && !isDashing && _canDash)
             {
                 isDashing = true;
                 _canDash = false;

@@ -1,4 +1,5 @@
-﻿using UnityEngine.SceneManagement;
+﻿using System;
+using UnityEngine.SceneManagement;
 
 namespace Script.Init
 {
@@ -19,6 +20,12 @@ namespace Script.Init
                 case Scene.MainMenu:
                     SceneManager.LoadScene("MainMenu");
                     break;
+                case Scene.Level2:
+                    break;
+                case Scene.Level3:
+                    break;
+                default:
+                    throw new ArgumentOutOfRangeException(nameof(scene), scene, null);
             }
         }
     }

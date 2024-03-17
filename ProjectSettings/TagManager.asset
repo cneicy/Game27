@@ -8,6 +8,8 @@ TagManager:
   - Wall
   - VAttack
   - Enemy
+  - KeySettingManager
+  - Global
   layers:
   - Default
   - TransparentFX

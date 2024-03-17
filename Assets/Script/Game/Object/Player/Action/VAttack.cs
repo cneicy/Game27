@@ -13,9 +13,10 @@ namespace Script.Game.Object.Player.Action
         private AudioSource _audioSource;
         private static readonly int IsAttacking = Animator.StringToHash("isAttacking");
         //private PolygonCollider2D _polygonCollider2D;
-
+        private KeySettingManager _keySettingManager;
         private void Awake()
         {
+            _keySettingManager = GameObject.FindWithTag("KeySettingManager").GetComponent<KeySettingManager>();
             _audioSource = GetComponent<AudioSource>();
             _animator = GetComponent<Animator>();
             _playerFlip = GameObject.FindWithTag("Player").GetComponent<Flip>();
@@ -30,8 +31,9 @@ namespace Script.Game.Object.Player.Action
 
         private void Update()
         {
-            if (Input.GetKeyDown(KeyCode.J) && canAttack)
+            if (Input.GetKeyDown(_keySettingManager.GetKey("Attack")) && canAttack)
             {
+                
                 _animator.SetBool(IsAttacking,true);
                 _audioSource.Play();
                 canAttack = false;
