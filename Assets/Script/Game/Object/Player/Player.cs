@@ -1,4 +1,3 @@
-using System;
 using System.Collections;
 using Script.Data;
 using Script.Game.Object.Player.Action;
@@ -18,12 +17,13 @@ namespace Script.Game.Object.Player
         public float fallGravityScale;
         public float buttonPressTime;
         public float buttonPressWindow;
-        private bool _canJump;
+        public bool canJump;
         private bool _isCoyoteTimeEnable;
         private bool _isPreJumpEnable;
         private float _coyoteTime;
         private float _preJumpTime;
         private Dash _dash;
+        private bool _isJumpCooling;
         [SerializeField] private float preJumpTimeMax;
         [SerializeField] private float coyoteTimeMax;
 
@@ -33,8 +33,8 @@ namespace Script.Game.Object.Player
 
         /*[SerializeField] private BoxCollider2D leftCollider;
         [SerializeField] private BoxCollider2D rightCollider;*/
-        private bool _leftWallJump;
-        private bool _rightWallJump;
+        public bool leftWallJump;
+        public bool rightWallJump;
         private static readonly int Jump1 = Animator.StringToHash("isJumping");
         private KeySettingManager _keySettingManager;
 
@@ -43,6 +43,7 @@ namespace Script.Game.Object.Player
         private void Awake()
         {
             _sal = GameObject.FindWithTag("Global").GetComponent<SAL>();
+            _sal.InitPlayer();
             _keySettingManager = GameObject.FindWithTag("KeySettingManager").GetComponent<KeySettingManager>();
             _dash = GetComponent<Dash>();
             _animator = GetComponent<Animator>();
@@ -53,13 +54,6 @@ namespace Script.Game.Object.Player
         private void Start()
         {
             LoadData();
-        }
-
-        public int Damage(int beHurtNum)
-        {
-            _animator.SetTrigger("Hurt");
-            
-            return _hp-=beHurtNum;
         }
         
         //保存数据用Trigger方法
@@ -77,18 +71,26 @@ namespace Script.Game.Object.Player
             gameObject.transform.position = PlayerData.PlayerPosition;
             _hp = PlayerData.Hp;
         }
-        
+        private IEnumerator JumpCoolDown()
+        {
+            yield return new WaitForSeconds(0.2f);
+            _isJumpCooling = false;
+        }
         private void JumpTime()
         {
-            if (!_canJump && Input.GetKeyDown(_keySettingManager.GetKey("Jump")) && !_isPreJumpEnable)
+            if (!canJump && Input.GetKeyDown(_keySettingManager.GetKey("Jump")) && !_isPreJumpEnable && !_isJumpCooling)
             {
+                _isJumpCooling = true;
+                StartCoroutine(JumpCoolDown());
                 _isPreJumpEnable = true;
             }
 
-            if (_canJump || _leftWallJump || _rightWallJump)
+            if (!_isJumpCooling && (canJump || leftWallJump || rightWallJump))
             {
                 if (Input.GetKeyDown(_keySettingManager.GetKey("Jump")))
                 {
+                    _isJumpCooling = true;
+                    StartCoroutine(JumpCoolDown());
                     Jump();
                 }
             }
@@ -102,7 +104,7 @@ namespace Script.Game.Object.Player
                 _rigidBody2D.gravityScale = fallGravityScale;
             }
 
-            //玩家开始下落（物体达到高度峰值），完成了完整跳跃
+            //玩家开始下落（达到高度峰值），完成了完整跳跃
             if (!(_rigidBody2D.velocity.y < 0)) return;
             
             jumping = false; //物体开始下落就设置为false
@@ -119,18 +121,18 @@ namespace Script.Game.Object.Player
         private void Jump()
         {
             jumpingSource.Play();
-            _canJump = false;
+            canJump = false;
             _isCoyoteTimeEnable = false;
             var jumpForce = Mathf.Sqrt(jumpHeight * (Physics2D.gravity.y * _rigidBody2D.gravityScale) * -2) *
                             _rigidBody2D.mass;
-            if (_leftWallJump)
+            if (leftWallJump)
             {
                 _rigidBody2D.AddForce(Vector2.right * 1200f);
                 _rigidBody2D.AddForce(Vector2.up * jumpForce / 1.5f);
                 _rigidBody2D.gravityScale = gravityScale;
             }
 
-            if (_rightWallJump)
+            if (rightWallJump)
             {
                 _rigidBody2D.AddForce(Vector2.left * 1200);
                 _rigidBody2D.AddForce(Vector2.up * jumpForce / 1.5f);
@@ -147,16 +149,17 @@ namespace Script.Game.Object.Player
 
         private void OnTriggerEnter2D(Collider2D other)
         {
+            
             if (other.gameObject.tag.Equals("Wall"))
             {
-                if (_preJumpTime < preJumpTimeMax && _isPreJumpEnable && !_leftWallJump && !_rightWallJump)
+                if (_preJumpTime < preJumpTimeMax && _isPreJumpEnable && !leftWallJump && !rightWallJump)
                 {
                     Jump();
                 }
 
                 _isCoyoteTimeEnable = false;
                 _isPreJumpEnable = false;
-                _canJump = true;
+                canJump = true;
             }
         }
 
@@ -166,7 +169,7 @@ namespace Script.Game.Object.Player
             _preJumpTime = 0;
             if (other.gameObject.tag.Equals("Wall"))
             {
-                _canJump = true;
+                canJump = true;
             }
         }
 
@@ -185,15 +188,7 @@ namespace Script.Game.Object.Player
         {
             var temp = _rigidBody2D.velocity;
             //玩家冲刺限速
-            if (_dash.isDashing)
-            {
-                temp.x = Mathf.Clamp(temp.x, -50, 50);
-            }
-            else
-            {
-                temp.x = Mathf.Clamp(temp.x, -6, 6);
-            }
-
+            temp.x = _dash.isDashing ? Mathf.Clamp(temp.x, -50, 50) : Mathf.Clamp(temp.x, -5.5f, 5.5f);
             _rigidBody2D.velocity = temp;
         }
 
@@ -201,7 +196,7 @@ namespace Script.Game.Object.Player
         {
             if (_coyoteTime > coyoteTimeMax)
             {
-                _canJump = false;
+                canJump = false;
             }
         }
         
@@ -235,24 +230,24 @@ namespace Script.Game.Object.Player
             {
                 if (leftRay.collider.tag.Equals("Wall"))
                 {
-                    _leftWallJump = true;
+                    leftWallJump = true;
                 }
             }
             else
             {
-                _leftWallJump = false;
+                leftWallJump = false;
             }
 
             if (rightRay.collider is not null)
             {
                 if (rightRay.collider.tag.Equals("Wall"))
                 {
-                    _rightWallJump = true;
+                    rightWallJump = true;
                 }
             }
             else
             {
-                _rightWallJump = false;
+                rightWallJump = false;
             }
         }
 

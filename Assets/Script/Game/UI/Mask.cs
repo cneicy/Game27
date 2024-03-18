@@ -15,7 +15,7 @@ namespace Script.Game.UI
         {
             if(_spriteRenderer.color.a<0) return;
             var color = _spriteRenderer.color;
-            color.a = Mathf.Lerp(color.a,TargetAlpha, 8f * Time.deltaTime);
+            color.a = Mathf.Lerp(color.a,TargetAlpha, 0.1f * Time.deltaTime);
             
             _spriteRenderer.color = color;
         }

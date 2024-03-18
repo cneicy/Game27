@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 196449363}
   - component: {fileID: 196449362}
   m_Layer: 5
-  m_Name: Loading
+  m_Name: Intro
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -743,7 +743,7 @@ GameObject:
   - component: {fileID: 2114299714}
   m_Layer: 5
   m_Name: Text (TMP)
-  m_TagString: Untagged
+  m_TagString: Tip
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -790,7 +790,7 @@ MonoBehaviour:
   m_text: 'Tip: '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b3cb5a46876cc1f4eafbd77ed9765802, type: 2}
-  m_sharedMaterial: {fileID: -7142806539000779661, guid: b3cb5a46876cc1f4eafbd77ed9765802, type: 2}
+  m_sharedMaterial: {fileID: -3550386573447590215, guid: b3cb5a46876cc1f4eafbd77ed9765802, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -887,6 +887,7 @@ GameObject:
   - component: {fileID: 2128454300}
   - component: {fileID: 2128454302}
   - component: {fileID: 2128454301}
+  - component: {fileID: 2128454303}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -933,10 +934,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Loading
+  m_text: "\u9053\u8DEF\u662F\u672A\u77E5\u7684\uFF0C\u65B9\u5411\u662F\u8FF7\u832B\u7684\uFF0C\u6307\u5F15\u662F\u7F3A\u5931\u7684\uFF0C\u4F46\u8FD9\u5E76\u4E0D\u59A8\u788D\u6211\u53BB\u63A2\u5BFB\u524D\u65B9\u3002\\n\u6211\u5728\u63A2\u5BFB\u4E2D\u4E86\u89E3\u9053\u8DEF\uFF0C\u5728\u63A2\u5BFB\u4E2D\u5F97\u77E5\u65B9\u5411\uFF0C\u5728\u63A2\u5BFB\u4E2D\u83B7\u5F97\u5149\u4EAE\u3002"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: b3cb5a46876cc1f4eafbd77ed9765802, type: 2}
-  m_sharedMaterial: {fileID: -7142806539000779661, guid: b3cb5a46876cc1f4eafbd77ed9765802, type: 2}
+  m_sharedMaterial: {fileID: -3550386573447590215, guid: b3cb5a46876cc1f4eafbd77ed9765802, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -996,7 +997,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -546.64386, y: 0, z: -551.3663, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1010,6 +1011,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2128454299}
   m_CullTransparentMesh: 1
+--- !u!114 &2128454303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2128454299}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 264812cfb0ae4a66aec3c5cdb5107ae0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

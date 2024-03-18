@@ -9,7 +9,7 @@ namespace Script.Game.Object.Player.Action
         private float _dashForce = 200f;
         private Rigidbody2D _rigidBody2D;
         private Animator _animator;
-        private VAttack _vAttack;
+        //private VAttack _vAttack;
         public bool isDashing;
         private bool _canDash = true;
         private static readonly int Dash1 = Animator.StringToHash("Dash");
@@ -23,7 +23,7 @@ namespace Script.Game.Object.Player.Action
             _shadowPool = GameObject.FindWithTag("Player").GetComponent<ShadowPool>();
             _rigidBody2D = GameObject.FindWithTag("Player").GetComponent<Rigidbody2D>();
             _animator = GameObject.FindWithTag("Player").GetComponent<Animator>();
-            _vAttack = GameObject.FindWithTag("VAttack").GetComponent<VAttack>();
+            //_vAttack = GameObject.FindWithTag("VAttack").GetComponent<VAttack>();
         }
 
         private void PlayerDash()
@@ -32,7 +32,7 @@ namespace Script.Game.Object.Player.Action
             {
                 isDashing = true;
                 _canDash = false;
-                _vAttack.canAttack = true;
+                //_vAttack.canAttack = true;
                 _animator.SetTrigger(Dash1);
                 audioSource.Play();
                 //取消跳跃力

@@ -10,6 +10,7 @@ TagManager:
   - Enemy
   - KeySettingManager
   - Global
+  - Tip
   layers:
   - Default
   - TransparentFX
@@ -44,6 +45,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 943911743
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0

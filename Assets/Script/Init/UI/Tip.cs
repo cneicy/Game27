@@ -13,11 +13,17 @@ namespace Script.Init.UI
         private void Awake()
         {
             _tipText = GetComponent<TMP_Text>();
-            _tips.Add("Hello World!");
+            _tips.Add("在墙边一直按跳跃可以进行超级跳！");
+            _tips.Add("也许这款游戏在手感上花费了很多开发时间。");
         }
 
         //随机加载tip
         private void Start()
+        {
+            Roll();
+        }
+
+        public void Roll()
         {
             _tipText.text = "Tips: "+_tips[Random.Range(0, _tips.Count)];
         }

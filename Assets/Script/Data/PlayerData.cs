@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Script.Init;
+using UnityEngine;
 
 namespace Script.Data
 {
@@ -7,10 +8,7 @@ namespace Script.Data
     {
         public int Hp;
         public Vector3 PlayerPosition;
-        public enum Stage
-        {
-            Level1, Level2, Level3
-        }
+        public Loader.Scene Scene;
         public bool IsFinish;
     }
 }
