@@ -1,0 +1,175 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 5,
+    "__cWid": 11,
+    "cachedPixelData": {
+      "opaqueTiles": "0000000000001000000000000000000000000000000000000000000",
+      "averageColors": "b666d555b6669777b666d555d555b666c666e3330000d444f000d444a666c444e222e222c444e333e3330000a555c333a5558666c555f222f222c555e333e444e4449777b66697778888a666c444c444a666b555e444d4440000000000000000c555e333e333c555d55500000000"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "Ground",
+    "padding": 0,
+    "pxHei": 80,
+    "pxWid": 176,
+    "relPath": "../../Free 1 Bit Forest/Free 1 Bit Forest/PNG/Tileset.png",
+    "savedSelections": [
+      {
+        "ids": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+          52,
+          53,
+          54
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+          30,
+          41,
+          31,
+          42,
+          32,
+          43
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+          9,
+          10
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+          19,
+          20,
+          21
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+          23,
+          37
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Stamp"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Stamp"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Stamp"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      },
+      {
+        "ids": [
+
+        ],
+        "mode": "Random"
+      }
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 16,
+    "uid": 9
+  }
+}

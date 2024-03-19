@@ -1,0 +1,2940 @@
+fileFormatVersion: 2
+guid: 64503e29054b3ad4c84510d7539e1b00
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 8
+  _sprites:
+  - name: _City_Layer_2_2_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 154
+      width: 16
+      height: 16
+    spriteID: c2712f2ff4d36db4b9aaeac56dcf1f31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 3552962fd7b60f143aa0a37de3b9c17f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 789a76597c772b24b83119760990f831
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 154
+      width: 16
+      height: 16
+    spriteID: b56ef265f8c784f4e9bf5d136ef37bbb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 07dd79c846a524846a7611792fdc0405
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 154
+      width: 16
+      height: 16
+    spriteID: d4a5a112d97ff874685253377d33aef3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 154
+      width: 16
+      height: 16
+    spriteID: a34d28b36468b0b44a6ea54a702fcead
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 154
+      width: 16
+      height: 16
+    spriteID: c1d3b12cce03da04b891ebbb5614aab1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 154
+      width: 16
+      height: 16
+    spriteID: a75077368e4c1834398dee50df74340e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 328a329887ed7954692746a47943976a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 3b68e028c94787e4a83c9a792c5bc7a1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 406167a59bfa97b49b5d6a7546ed2d82
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 43e2bf2b415fe3a49930fea13b5d5f58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 7e8c68a2b5e4ce5448042ea70ecdddc7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 1f567a2312db0a147aa12090c156fb26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 154
+      width: 16
+      height: 16
+    spriteID: b51e36b20c7720545a232644a5789089
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 0a6f9fd683dd0264292edbfa37eb672d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 154
+      width: 16
+      height: 16
+    spriteID: dfd71f71b7245794b918ff4fb49dbc25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 154
+      width: 12
+      height: 16
+    spriteID: bb616e8ab7c54b94c88da644d08d310c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 138
+      width: 16
+      height: 16
+    spriteID: e395fd34b62200f4289ce6a289ff356e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 3c1aa6b589e9baf4297a93d32039d497
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 084dba60897c26448b1e1ea9afdbea67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 768ac2c80d738494a8d4a722eda5ebe6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 2ddb3b2b23f06e3479e563cbcc1d3ae6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 138
+      width: 16
+      height: 16
+    spriteID: e0a20a0170830ab46a7c477cf97cda3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 138
+      width: 16
+      height: 16
+    spriteID: fa32c9fcb3720cd42a6d2eab7af1d22e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 59456587f09170442907596d91e2dad2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 970dfc6eb46c23d48bd5ff26db31ed1b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 3df7445652fd15e4ca17924ecceb2d1f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 10df5af26008fd9498caa7f0d318c34f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 8751529cc86f81c4d968ed766d541d5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 477b443315ac9954d9847ff5bebd79a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 6b32512fd755f0041aa70ee2d2a21fbf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 47e1a90f73b2e4742a0617d2c6e633b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 3c93c967141177644947aed87ea11f25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 0455aadb6a9c2724aa593e7119520e73
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 623635bb2e8250d468a71af0d16f442e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 138
+      width: 12
+      height: 16
+    spriteID: 12407a4192e5b4642b81ad40872b88cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 122
+      width: 16
+      height: 16
+    spriteID: d5d956dc80db34b43a566474427067ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 7ba78f56d8881cb47914ad81594a9831
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 02a1f504f7c892d4fb219fdfd662c369
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 122
+      width: 16
+      height: 16
+    spriteID: e2ad471ae2bb3c542a712260205f65fe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 5b8dcbb6ebbfeca4e8c41fc338465982
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 17b1ecd275740694cadfb4c70cbe921d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 4bf17b4c4ed1b734ca166c8e52b76e4b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 28c690821b4ad1e42bb5b106f2039ae9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 5633468e690f5954fa16842e0b9a8ed1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 071370ce950d9bd4bbc01bf807d0671c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 122
+      width: 16
+      height: 16
+    spriteID: a28ddab67dd41034ab73181f384bf00d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 122
+      width: 16
+      height: 16
+    spriteID: fa21f570d3102f4428cb9c14a2c042c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 9b8fea9f9a7a5494c8ad9d64f7dc59a7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 122
+      width: 16
+      height: 16
+    spriteID: e2e33fc1337ec1f4ea86619529045ea6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 122
+      width: 16
+      height: 16
+    spriteID: e030caffa372fe64c96c7750529be46b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 7cdec59d5969e4d458e876111cc05417
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 122
+      width: 16
+      height: 16
+    spriteID: d744188b625ce044e8c2a6b831b80a36
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 122
+      width: 16
+      height: 16
+    spriteID: e1801fe93a50c8243b2c22a0cfe4a843
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 122
+      width: 12
+      height: 16
+    spriteID: a6e7a4ccd4a01c149bbeb0576bf4c15c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 106
+      width: 16
+      height: 16
+    spriteID: fa243d3dbbe1e6545bdc8391541b880c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 106
+      width: 16
+      height: 16
+    spriteID: c24781b447a07ce4bb89e6e3e9767dba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 106
+      width: 16
+      height: 16
+    spriteID: ec8c697f9e7a79d478791d39f383d17c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 106
+      width: 16
+      height: 16
+    spriteID: c001730907a994a40aef6cb158a0973b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 292d8036ae9d46446a1abee56b238d20
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 4f8e48646570b9249b0ade90a7c804ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 2e56a5e96abe46a41a148f69c552bec0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 3686a3b52c26e6f42a0ef57da71944d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 926efab950e4e5e458d6ef90d50c30eb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 106
+      width: 16
+      height: 16
+    spriteID: cf5ea10a314997f4c9b9544e2daaf753
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 106
+      width: 16
+      height: 16
+    spriteID: a999b82cfb706f74c8c61e17caa0c62f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 32ab835559fcb424b908e035950a4805
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 4f7f88fdc8fd66143be49c056acaaeab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 106
+      width: 16
+      height: 16
+    spriteID: d8d1bb57a0656c2409b4641bd0cde332
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 106
+      width: 16
+      height: 16
+    spriteID: d73e7613d834a724abc45c6e278e9cda
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 66e44de2cd8701f449d5383cd24c6aff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 106
+      width: 16
+      height: 16
+    spriteID: f493ca11f2d1c544fab2268a0c106778
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 2dec511723f3d8642b23d4bee23f35e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 106
+      width: 12
+      height: 16
+    spriteID: 60d813025243dba4fb8cd650cff0cb39
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 29ef5fbb32f756e4c8053ca1a7f40423
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 90
+      width: 16
+      height: 16
+    spriteID: df76f26e53f7de84fb8796b4fc9033f1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 90
+      width: 16
+      height: 16
+    spriteID: a525d301be194654895ad10fac6111a7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 90
+      width: 16
+      height: 16
+    spriteID: b9da2cbd75d97154e82de605eaa0f390
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 0a92a77dea4d1c3408f145f8f47e7135
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 497a2649fb3cd51439ae0b3490c61932
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 022878f6f51c80540815c2f816f8033d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 3f1dff13568717d48b90ed0126f3fc6b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 1233037bdf8c6524d9c9859bad0cc7e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 9f488d74c9bb93a4d9b6c00028c627bf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 3df8a5c4f313b654b91da4c1dd6d6e6b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 90
+      width: 16
+      height: 16
+    spriteID: d5e289728d9965a46a7dd3c2ed1bd825
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 90
+      width: 16
+      height: 16
+    spriteID: fca47908496c4b24b92f8a167a5f2979
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 05fce60ab668c974085e659a255df4ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 990d1d1410d4e09498ec514a20f127f5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 9d6fe3e8fb5504c4cb30ec4960c833e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 3ef1cb1fe7efd5a4db0e86288cedd5c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 2b4981285482b0f468dc15b64a8cad33
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 90
+      width: 12
+      height: 16
+    spriteID: ccd4f6ae730352e40bc28c67a34e65d1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 34dca8e12e5888445a5000640ba5a855
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 74
+      width: 16
+      height: 16
+    spriteID: e3f4b169dc8ce454d94aa6bdff9f2681
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 74
+      width: 16
+      height: 16
+    spriteID: c4cd77666aba53d4fa40bd8e53f3d950
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 9b64199611b5f7c4686590f777d43400
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 4dbbaf01936cf88448085f51821e9ae0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 94b24d0942177ec4980575c193ce1003
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 37dbc192fe5f67049aeb532a324b9c98
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 176709473457cee4f9ae42821a124a80
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 9bfdfabf996cd6d4fb0ffa8eff4a1c26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 9fdf74e9d5f05664585b99cad70615cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 99bc91f717ec8a8498d3b8a1262010d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 39c8bb859fbd7c24d978fb8329e4bb78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 74
+      width: 16
+      height: 16
+    spriteID: e01676b2b2349d5499207c07ef1940b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 5b3f137a0a110024ba4f8443bc7208bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 2d122530b8884704d9ae276713de6374
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 2da90b006edf7f445b551fbd4e825dae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 74
+      width: 16
+      height: 16
+    spriteID: ccb86a8baa7fb3d45b28364493d9f3a2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 4077cb9806d01f946a3b40fb72e485e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 74
+      width: 12
+      height: 16
+    spriteID: 495e3abcd5c10d74a9fd61ccf50f4e90
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 60eac1956e3935f478a5c33fc41cb469
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 080155e4b16f9d642a01a9ec05ec82c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 58
+      width: 16
+      height: 16
+    spriteID: cb821b0c67f245446be10e0a794ef8a7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 58
+      width: 16
+      height: 16
+    spriteID: baa9712982402074f9504c0d935fe6b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 24a1acbe9b69c704eae7c55e2f6944bf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 58
+      width: 16
+      height: 16
+    spriteID: df60fb76d53e3c24082ce1ec03de7483
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 58
+      width: 16
+      height: 16
+    spriteID: da2d2d9a4a274e042a353bf44d38b4fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 58
+      width: 16
+      height: 16
+    spriteID: a54bdb5afe2896b429b1cbe1d09c528c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 865a740f8bd50204a96f8f9d2c7aaec3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 6750109727a437540b4324349d091ea3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 82ca0052b93c8814e8bf83397192e207
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 58
+      width: 16
+      height: 16
+    spriteID: cfac33af09155e843a357f6851ed0cb9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 420e79433f4aca746879f18acd60635b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 58
+      width: 16
+      height: 16
+    spriteID: abac1dde5dc6de446a21f069a2cd8f2f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 58
+      width: 16
+      height: 16
+    spriteID: f667c359fa5cc2e4d93d090c84d6fdea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 6615e30875c257142a21a43f66c39e70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 58
+      width: 16
+      height: 16
+    spriteID: bfa20de6a82b9004d9f983ee3911d6ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 58
+      width: 16
+      height: 16
+    spriteID: ab65cd3783d69744a8336893841abac4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 58
+      width: 12
+      height: 16
+    spriteID: 5d8f0cf7826377249964e845ccc8a7c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 42
+      width: 16
+      height: 16
+    spriteID: eb66d00b5a5dd2f488d48dd6f5c64cd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 103a0d8daba590143b90761561dcb898
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 42
+      width: 16
+      height: 16
+    spriteID: a296180f04d00084c96eb5d941989a5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 518826fd55cbda545925d0b6e6c2570e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 56bb3f46b9d599c43861891fec83f663
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 42
+      width: 16
+      height: 16
+    spriteID: d172377a8769c8a4796bff30c4f40f24
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 985d34d188f09914aa758581b5f79c97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 42
+      width: 16
+      height: 16
+    spriteID: cb20f4775b098ce4fb9ae88e03ac8aa1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 42
+      width: 16
+      height: 16
+    spriteID: b107b943fbdc1fb4a8861bd05230eca4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 7a7a1081b7fe90a4bae18dbf7c5b7bdf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 42
+      width: 16
+      height: 16
+    spriteID: ee33a902035d6de4ca9536234694174f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 86d8fc50b1558644ab66ae11c5eb506f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 42
+      width: 16
+      height: 16
+    spriteID: c68241ab381d89c4ea06535328337b54
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 42
+      width: 16
+      height: 16
+    spriteID: e4a7f6b11bb9eb74cb8de91d9f00dd56
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 42
+      width: 16
+      height: 16
+    spriteID: e0cbecbd5d1a50d498e1deb20ef27596
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 5a2acc54229ee8d4bb5dc5e1c170b089
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 0d4211a4afdb6224891fdebaa0bcc214
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 9c7c92ae59272874094a17f34b8a107b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 42
+      width: 12
+      height: 16
+    spriteID: 833d385a8fb7c7648bc78eb9bf6dbb3a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 54c1687477a1fd14cbf93bbfa61c38c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 287650fc13eed1845b5f2ed9d7161c5b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 365884f49064ab84e8b8909e9e471c3c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 5aaba39379105254aa6dab14cf93f3ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 26
+      width: 16
+      height: 16
+    spriteID: bb420e3b5bb3f4f4ca5c90a32f3eaec9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 26
+      width: 16
+      height: 16
+    spriteID: df3356e9c4efa4c49b667589ec3e8f58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 26
+      width: 16
+      height: 16
+    spriteID: e3bb02b010da0af488290585d1b88569
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 26
+      width: 16
+      height: 16
+    spriteID: e579d48f69dc0e045888d6af6fe9a973
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 26
+      width: 16
+      height: 16
+    spriteID: d0e72eda0d6b4824893fae9138d09682
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 2ae33ae60548d864a894bb42b3dae4fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 1989dd5c6ca0d624ea0a15bb388cbdba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 26
+      width: 16
+      height: 16
+    spriteID: fd4163d0e053cf34e8d7386298254e31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 26
+      width: 16
+      height: 16
+    spriteID: e928c7abdb53a5c42a48f3e5afa73c26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 55642ab6b1dea4246aa1593b9bacaabd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 11f563b717ceef842be8c8db3e321420
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 0e71cbb557452f04391d9bb41f40f86f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 84a83488fedd13940b7713d3714501c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 94038532cf9005944b5073aa9190ebcf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 26
+      width: 12
+      height: 16
+    spriteID: 73741e43bd1b30d4184150f3ccd62bb9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 9453efeb51614e346bf2539930a459f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 858ff97c6ac0b174e971992038eccc48
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 87c31c78ae1639e41be5c9221eca42c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 10
+      width: 16
+      height: 16
+    spriteID: bd7f60d4854630043bf9fc367974d311
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 449070e1e9b10de45904ea62c78dfc8a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 61adba9f73196444c9a52f83feba0d28
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 10
+      width: 16
+      height: 16
+    spriteID: a9527ef044aa1fb43bce15b123937408
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 8ce8dff21ea01494faaca7dfbff1222d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 9746e177f8df17146ace4253ac417a36
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 9c8d116df6134a44f8cde9da7c62d8ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 10
+      width: 16
+      height: 16
+    spriteID: adcf18a50237659499f0427812309788
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 41ba9b6bb2644074b91facdce392bbe1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 6c83384163e3ec54f8a759528d225580
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 10
+      width: 16
+      height: 16
+    spriteID: bc0b9a794be1118418be997294df98ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 5268a7014011ef843996e1091db5983e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 8c886f7efc43b204a99a2f5030667d59
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 7fb9466dfd54a4f4493d5c7991e732c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 5eb4cd00331466a47bf1d307c7d168e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 10
+      width: 12
+      height: 16
+    spriteID: 7d6d8cea3799eca4da4dc2937e3ecfcf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 10
+    spriteID: dbd4b260b13c1ee4bb923f6eff069361
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 6cb553c04e1fca84797153447e01d30d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 510c2dee2cb31f44fba2d2500402271a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 3f90df7269e384e45bc1bf53d44b10b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 10
+    spriteID: b99eaac4b9a819544a6a18de53262c2f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 1d61864eda0ad8148992dc894a7bfe2c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 4f95b6a1610a5b14dbb4b0f7a8cea0fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 38dc040e0542b144e860ba362cf5f1d7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 10
+    spriteID: b6def30c4f4a3ce429c777213d821c6e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 10
+    spriteID: e3ed0dd2e5dd48d468fa69069020557d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 10
+    spriteID: df20d860053367c41bc151ecde3bd714
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 0dc8715ad764348439ac22ed3e5fa3e3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 10
+    spriteID: b7d31954b8b27e748a38e8ce54994ad0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 9eb787a6c9b218e4b99139d844b52f25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 10
+    spriteID: bcf028160fa610a4f923837f7c243ec6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 5f7054ba6f7df8841b85d9f184dc6f1e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 16
+      height: 10
+    spriteID: f811abd6faf08f44791a594f0c2d8c0a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 7247b658e26c20c48a9d3885062789f5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _City_Layer_2_2_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 0
+      width: 12
+      height: 10
+    spriteID: f74db2c81266bdc45a958ed4b4a8b164
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []

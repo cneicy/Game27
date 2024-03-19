@@ -1,0 +1,2940 @@
+fileFormatVersion: 2
+guid: e0db9cef55ccd694a9add0982074e329
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 8
+  _sprites:
+  - name: _Houses_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 50c2cc9ca3cdf0e4f92dab7fc710df29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 154
+      width: 16
+      height: 16
+    spriteID: db4a0906b9485dc4d8840f87c2727ad4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 154
+      width: 16
+      height: 16
+    spriteID: e3671105839b6de489a9e5857a38d479
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 221d7954f1b414447a1237508b03cf9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 44c0bd92c1209314bb09f8e8b628c35a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 154
+      width: 16
+      height: 16
+    spriteID: ccd0d43a9350c164488f5205c6205eed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 251fe8e9eecf53d43ab8fafede4249de
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 3217e0e810e94b04db2b7877973f7127
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 528c5748c1d66d34fb7527843d8acbc8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 154
+      width: 16
+      height: 16
+    spriteID: e945d93c5cbd4d3458e5ba72b62ceb96
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 154
+      width: 16
+      height: 16
+    spriteID: aceedf2f21c9a3549a92bf82ade754d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 2fed54b2627c6d3449587c388c8a5640
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 62027da66dbb55a449df330b258c2c58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 154
+      width: 16
+      height: 16
+    spriteID: d9b655d1fe9c3aa429d553c8801c6ecd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 0944fc4c7e5643040958e55c79015d62
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 35c0d817a6acb124cb7e53ee362303f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 154
+      width: 16
+      height: 16
+    spriteID: b5a106b7217f49645af7a9f1fda886d1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 3b7afd096ed486b4687804256f10dbaf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 154
+      width: 12
+      height: 16
+    spriteID: 54eeb027f065761419e7cd7d69556a41
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 138
+      width: 16
+      height: 16
+    spriteID: fbe50e2e25d1b1d4b98f02bd67352f2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 138
+      width: 16
+      height: 16
+    spriteID: a3d3ea5b3348d3d40a4e82504209e400
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 138
+      width: 16
+      height: 16
+    spriteID: f6a23f0950c2a9a4ab4f4ac0559c701f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 138
+      width: 16
+      height: 16
+    spriteID: e2c2611402d28124da50cd0b1fd0f7e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 138
+      width: 16
+      height: 16
+    spriteID: cbd957f0f1681934597ffb73a83bccd7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 4a4d3c549765ae24d8e51a87760da9e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 90f53d418002bb847866171ed5be4ef5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 138
+      width: 16
+      height: 16
+    spriteID: e9248a6965f7df54cb9ad79a5aa8147c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 8357d5ae206884f4daf723cfb5167dd5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 280f10a0a9d2b344e89751efd85eb90a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 627ff4d50c4d7d34696b8f54904caf3c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 94f371e72ffe7264d92c50e3dafd491e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 9d09fb5c25cede54a8af41a5c6a60e3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 138
+      width: 16
+      height: 16
+    spriteID: d9e5adeaf8fc4924bb88f4be485e2034
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 138
+      width: 16
+      height: 16
+    spriteID: f216ad6a02f6c664eaee0dd7be547a30
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 138
+      width: 16
+      height: 16
+    spriteID: d1abffdf977ef214cb6d70490d6661ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 37e3d5d6d73090b428dd0e7b92b7427c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 138
+      width: 16
+      height: 16
+    spriteID: c717505e0cd03ca40a47860bd5506c0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 138
+      width: 12
+      height: 16
+    spriteID: 98c2fdc4e9cc461498e2d0584d9bb27b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 32f0b7660ade86a4db2771d43b1f7492
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 122
+      width: 16
+      height: 16
+    spriteID: f5620423858a08144bdec1e256f1a120
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 8e6045a235d61e543a7c43a5493757c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 2c6962c3ff823424394642ed48d96650
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 122
+      width: 16
+      height: 16
+    spriteID: fb86e870f0e648e4aba33c6310fc19a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 122
+      width: 16
+      height: 16
+    spriteID: bb69ae34f968d6b49aecd1cd0f02daed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 122
+      width: 16
+      height: 16
+    spriteID: ae34a38359600034698536e7387de6ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 8821c28912108ba47863208f8c4226a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 7e924d2bfbe24034cbcf5ce15668a0e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 8703af20e792a544ebc6935520f8d9db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 85b1e52d98b8a894ca81f13f47f29b1b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 122
+      width: 16
+      height: 16
+    spriteID: a15f6e4cf83609e4f88992c026b3120c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 786438baddca8f14485a30deb41182fd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 05c67388a5a9c3546a8ffb4b12518e88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 122
+      width: 16
+      height: 16
+    spriteID: d0f0447af62775145841cd4b3640d2be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 7066d67c25978264f8a563b6c395c835
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 837a5282805825940bb2b862306491e3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 8a241ad70f3a45447b43fc6b2d0194d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 122
+      width: 12
+      height: 16
+    spriteID: c43dadce187728445954c250d70f044d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 73fcc6c92bb0d2a4693c897bf21e36a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 106
+      width: 16
+      height: 16
+    spriteID: d28c76e9a54b5a94ab65878764b877d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 7f96aaffd28dbd14eb598b84f75a0fc1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 434cf260f57d1d340822c64e044f14e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 371c6df56d805a44eb27313bd771e13b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 106
+      width: 16
+      height: 16
+    spriteID: e0f403fe8333cee49802cf229529aee4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 9afc6a08d3aa7314ca687023228adff6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 106
+      width: 16
+      height: 16
+    spriteID: faba26ea5da00814899b8d4504b44c82
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 106
+      width: 16
+      height: 16
+    spriteID: def99aa96aab1cc4a8d8bc55bc8c0d99
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 56f1440b0de53044ab8cd3bd734f298d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 4188f81c5295aa54da6dd08960ff612a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 106
+      width: 16
+      height: 16
+    spriteID: fd33a4e23f8658347b6225bff6bf2ca1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 4e1929281113762428331a8bbf4da62f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 1998a908efc13864984d905efa85a644
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 4e2759691af4d21429ef15240d7be2f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 5f792884cd7b8b64a821ace446abee60
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 43d59c3c8062a1746a59af56dff761b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 529b42896b92d074787be6bf18e823c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 106
+      width: 12
+      height: 16
+    spriteID: 331091f51d4b3854e9fc5ba1e8bcb33b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 8402c756aec96ba46ab314599c8c7e84
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 7f89e2e1e73933a4a976818746bd0db6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 90
+      width: 16
+      height: 16
+    spriteID: c2e7a95d5960d9c4a8ece75c8be5f187
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 363461b5b0cfec14da327289813d36e5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 90
+      width: 16
+      height: 16
+    spriteID: cea474897738396498f7b984c0325f9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 90
+      width: 16
+      height: 16
+    spriteID: b94e778f3fcd9d548bd48b8a1f4b183e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 12190c640ddae6e43bff50251c65b8c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 90
+      width: 16
+      height: 16
+    spriteID: a0363de2a898c314bbb050844ce602f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 02b17b701cb62284da596ed6e5b5b99d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 4ae28f0b6c63c5446844d1551a787a40
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 90
+      width: 16
+      height: 16
+    spriteID: cebf6f13d9c336d44ba40a1a96d42c7b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 869340edb1f0c5f4ea99327b339e254a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 90
+      width: 16
+      height: 16
+    spriteID: b5d89dada6cd3824c8a39af62aa75df2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 69f865d4a55000d42b4ba9f774060d2d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 90
+      width: 16
+      height: 16
+    spriteID: f5d523dce11b67a46822073adafdf13f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 90
+      width: 16
+      height: 16
+    spriteID: a01a4aac7e1a52547b7a060be6862a78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 92dee2eb0b6b1114cafcf3d72c590f54
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 6c3e33ef75d25a04a9863f0a0ac86669
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 90
+      width: 12
+      height: 16
+    spriteID: 2924d4723e0176b45befd1d7bbe9d73f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 0d43e4344e7577c4796f7c3db7762678
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 4fdc156302f801342ae5f8757c429947
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 39d3a2df462c2544b9649d8ed61b1dbb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 6b3c8e56b4bc8af40a745753381af8c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 01a14a636dca8c94eaacc08dbfc24cbb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 8b34efb986e795f458150dd96da43500
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 9ab10f32c0b10584dbb1d7c2270ced11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 19d8b682a0ba079468e86952c2d62e52
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 0890d138a9398834793d0e44df3d4635
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 00da012e17c9791468e1fa7cd74a0a75
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 39525b0285dbb71468f41f6c4c43a048
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 74
+      width: 16
+      height: 16
+    spriteID: ab6bf848e9562dd4e882f7631390d7e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 647926ca6d281374c80228d44873693e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 39eb7f75c00a81549a3eba155fbc4cc3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 74
+      width: 16
+      height: 16
+    spriteID: b8a4037119a42904f937fc4384cb7ab9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 74
+      width: 16
+      height: 16
+    spriteID: cae149a7bd48a514aa99564b22163fe7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 74
+      width: 16
+      height: 16
+    spriteID: b981dae06505c9a47b2006ed30641c18
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 988919f87fd6e3c4ebd167f57e46446e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 74
+      width: 12
+      height: 16
+    spriteID: a5450ae35788b2840bd2afbdd5159eb8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 58
+      width: 16
+      height: 16
+    spriteID: bc4fd428ac890414382575490ceab226
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 58731f7804dd4294282ef19ddc689054
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 0fd31dc90a0b82047bc72c118da7539a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 8ef203a4d1cdc1147a71c3397843e267
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 1228eb29f693c104981eb2c1d7da0406
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 58
+      width: 16
+      height: 16
+    spriteID: c3a4b1dbe69d89e4fb204c8b51711bc8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 58
+      width: 16
+      height: 16
+    spriteID: e1f34e46ed8d25f4985ebe440b59ec8d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 30935c676f7af954da02b192944d30da
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 58
+      width: 16
+      height: 16
+    spriteID: f6638b996fe877947920ed56ff11be9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 50b60d572f0b9284386f31019753f75d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 4e430debe6e792846ac5555602e3d8fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 58
+      width: 16
+      height: 16
+    spriteID: b05072d66024bf245a8746e7896f27e3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 38bc8e6aed9e14248a4c7e77b78f6c9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 58
+      width: 16
+      height: 16
+    spriteID: f876db65b3fc76442839dee2a633412c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 58
+      width: 16
+      height: 16
+    spriteID: fe93212ca4c1c1a43aa672b5791e9f9d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 480fe174ffb00e64aac1870bff1aba4b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 58
+      width: 16
+      height: 16
+    spriteID: e3a9c610c203e4e44ab6d730116809e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 58
+      width: 16
+      height: 16
+    spriteID: a2f39d3f1a29604429906f7bc0722c27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 58
+      width: 12
+      height: 16
+    spriteID: 2765d9a0ff2b3ef498ec7fc34002073c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 942cd100eeb13c949b8aa3c97a9a117e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 42
+      width: 16
+      height: 16
+    spriteID: f444971d9df54e24ea0f078d54d1fb51
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 2dd8f55e9740ff74da823e2b39fdb37f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 42
+      width: 16
+      height: 16
+    spriteID: e55166310a4bc9f40b5f0cd2ab8a4e20
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 5aafdb386f7c9c84c8bfcf96f530b974
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 607411bdf90694d45bc0e966dad99125
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 292df003c09e6c747875b77183582d07
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 42
+      width: 16
+      height: 16
+    spriteID: c808b334ac15bb547b98eddf27a87e13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 42
+      width: 16
+      height: 16
+    spriteID: df327e576bf4c654c9479bd62fb7fcf3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 98cd5b71f6e41f64c9b52360cf61ec4f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 42
+      width: 16
+      height: 16
+    spriteID: a968cef4dd064624baea959c18e5fecb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 67a30e8c20f830547b3b9cbd37be5efd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 4809ef327caa2f548b5816c8cf2e48b2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 11034b2d88ab2524184753be30afddef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 15303dd013061404499c5ae2ca267bbf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 5dfb3146d8b4c9e4883764513a35c876
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 8817fe15c878d2e47ab47b5e88c0d0be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 42
+      width: 16
+      height: 16
+    spriteID: da98f8d91ba654847a482ed1b2b0bdb4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 42
+      width: 12
+      height: 16
+    spriteID: d1370ef622f21aa4d971da4f7a3ff06f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 24b09894d8e0bb94cbf6293cb5e40f0a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 5efea32047df1fd4588c2d3d3acbd5ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 26d5c2e6e62b4a1429dde33757fdbf45
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 66be27e162c358e42a306f9ad215b458
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 8ba8018b4fcb47a49b5300e77532e470
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 26
+      width: 16
+      height: 16
+    spriteID: bccb0f6e504d0ab4887e746633748854
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 26
+      width: 16
+      height: 16
+    spriteID: ffa4de7529df79945ac2d7b0bb112e9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 348c6729109d89a48b3c2ba3691a022e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 457eea34f1780c1409486240985bcc26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 4ad67b3f84c89a44e9a56b659bfda39f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 91f8b8e7d00379f4696ea772f709eb54
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 197ad73824116b046b151d3caea21548
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 1c12e4440cec17347ac7db5f23cf9ecf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 26
+      width: 16
+      height: 16
+    spriteID: a5b630b1a7e12394baf7beaf71d38bae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 2cc9cffc654809b418a9cf0fd8d15e50
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 1f06ff450fd1be046963acd822cb1d0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 5fd3b8fcdb4479b4d8623be5936c3afc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 183db22ef952e084286d85ca4a4e0732
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 26
+      width: 12
+      height: 16
+    spriteID: c2d7dcd1cbd03784da16ad2376aba3e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 10
+      width: 16
+      height: 16
+    spriteID: f1d6b52adb6474b4d89e8892ec6bb715
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 3a99399262bed474787796afe0d6d0f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 512494dcb6350094395805d99591bb29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 5cf8e397f4cd66d4ab5e8e77df1261af
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 940c8ae6a0b4e5d4c941eb2c8fb68431
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 5cb2cbd8f5d048140a2f0339db4a8d60
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 10
+      width: 16
+      height: 16
+    spriteID: a80e4130d2b8f874eadaf45adb40cbb0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 10
+      width: 16
+      height: 16
+    spriteID: bfb684c06e7763f41979e1a6a29ed73e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 4e1e325aa9676714aa32c6581327dd12
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 10
+      width: 16
+      height: 16
+    spriteID: d5c15959d3575314396dad5126ab472f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 10
+      width: 16
+      height: 16
+    spriteID: ca442641779e77c45ba8c88b12220abc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 10
+      width: 16
+      height: 16
+    spriteID: b8d8bdae47b555949b134e3497a82077
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 96ea54d67652ee248b3a3c4964cd20ab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 10
+      width: 16
+      height: 16
+    spriteID: dd1735920899bbb47810f032b0c0b677
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 123cd65a4a8ed5849aa8a6694ce22463
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 2da7d33112de9764ea7ee81b9daf96cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 889079ec5a49d9a4883586d50c854cc5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 10
+      width: 16
+      height: 16
+    spriteID: c7e9b9728a3ad5440b6d8b1ccfc1f1c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 10
+      width: 12
+      height: 16
+    spriteID: bf391a0a27258244bafdfd180ebb7426
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 10
+    spriteID: f7a7448a8cf4af54f9420431a6713590
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 745153183d8926c42a0fe64e21aa5d71
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 10
+    spriteID: a1428b80e4fd579478f24d2261bcbe00
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 92e8d51225912d448abf5fe23741bed5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 74f1ddbd6d4427e44a624c4c90d16052
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 572a3aa7626fbae44b3ac0c793733aef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 22ed905e414a74040bc2ac1345e752a2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 82614c3352d590c468ac43594bfaf6cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 14d383017dd2caa49b88a6db456dc068
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 692eca25f7317144588b7f270071c6ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 37ac2fdae6baed54facb7cac3dc97fc7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 10
+    spriteID: d4494e378a97b6d4da17664510788cd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 507a928193c44ff4fa281b6b369d80f8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 10
+    spriteID: fcb987824c1231f47bb926a5dd9dcbad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 258e358e2db351546929edfdf937f36a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 790c9663c346718468e6d390f7071ab5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 16
+      height: 10
+    spriteID: a182d8daa5497df4f9acbe5a89b2303d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 2e66377d776122a4abf4867bae8d3997
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Houses_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 0
+      width: 12
+      height: 10
+    spriteID: 55b0bfaa9dc54d24b9ffaec2ea1e07a1
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []

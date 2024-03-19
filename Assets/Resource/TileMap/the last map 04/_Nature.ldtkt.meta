@@ -1,0 +1,2940 @@
+fileFormatVersion: 2
+guid: 5eacff2d135bdff4baa793933c5ddb77
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 8
+  _sprites:
+  - name: _Nature_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 794c63bc0f7a2344c97ce94ad001c2ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 33e5cae5e4c10234d9b8a9308705eff2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 697481cd59f2e9741bd4ad349f2c36f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 154
+      width: 16
+      height: 16
+    spriteID: ec41c22f52aa52b42a12ac86872914b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 154
+      width: 16
+      height: 16
+    spriteID: d90b499327d7a1549a5a9275b8405c44
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 0756e9eff40d0cf4cbd817053c2d8c57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 173d374bb98f39944b7a0c54f1738cbc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 3e0957cbf5dc1b44287596896c0ea076
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 154
+      width: 16
+      height: 16
+    spriteID: b4a495e3c5590e746a58cfe95882b734
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 77305620451cf284d86885df890328ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 7999b6117d483ee47b4f03b1b48eccf6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 6aed90e538f942443b563205b54955ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 5aa209ab9b4d7cc4896451d8e4bec607
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 9cdcc7f918dbbf641bae4325bab94872
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 154
+      width: 16
+      height: 16
+    spriteID: ae921bea5ac9abc48b23fa4092cb9bd0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 9a080a2b03127eb4bba0b10d329cea83
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 6f7b5208af0d64d458a4b89b7f4d7fa5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 952f977241f7b7242854ecbdfaeeaa12
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 154
+      width: 12
+      height: 16
+    spriteID: cba2f694e3665964591960b5973c9fa8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 138
+      width: 16
+      height: 16
+    spriteID: f4880b17d6753a845bee16e3f4a5eef3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 2286ecb16a365374ca08838a8266e0e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 820644f5cd82e9d438f355a96063f284
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 138
+      width: 16
+      height: 16
+    spriteID: d0d258335e61fdd41b7fdcc2fdb7d6b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 47c4c4b1472e1904991fe6a657d6cd06
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 138
+      width: 16
+      height: 16
+    spriteID: bb42dfa698d759240861847bbd86e9d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 2bd69c48a54fdcb4494c4b41e95a8d8b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 138
+      width: 16
+      height: 16
+    spriteID: ccff35b24c5f29b429b592ff7a63d4f2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 138
+      width: 16
+      height: 16
+    spriteID: c2aec37a875313343b63416beabb91f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 143f8937b0f07d149bc3d1cbd2707680
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 4124fdcec1d987548b2ee216493969e9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 41c203bf8a7170848a017769798140c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 138
+      width: 16
+      height: 16
+    spriteID: b97dcbafb17d8864ea194f3a9cd19d90
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 5e6b5ca63cffa664e87891e002d53517
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 138
+      width: 16
+      height: 16
+    spriteID: c98e5053ecdb20349a3ea06b83a8726e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 205bd3c1aac249743922e8cb4c502761
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 138
+      width: 16
+      height: 16
+    spriteID: f0a71153b29997240a5e4efdc9e1d2f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 3773579282a71a0468f3865e48995450
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 138
+      width: 12
+      height: 16
+    spriteID: 67d35cea80cd8aa4aa68c9190bd83c97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 122
+      width: 16
+      height: 16
+    spriteID: caaf065b12c060d468ace21f9201bd1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 122
+      width: 16
+      height: 16
+    spriteID: a234d0b9c7005f342893293b709a37a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 0acf8bbdc2cf98343993ae80f733fba5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 9be534d3081a92a478738ebbcb9be01f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 122
+      width: 16
+      height: 16
+    spriteID: ea02014c857fcdd4481ad3ae44e93e85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 122
+      width: 16
+      height: 16
+    spriteID: b172a8d8593afa9478b80990677a5fd6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 8d35ba4065bf3864783d1c0d1819311c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 122
+      width: 16
+      height: 16
+    spriteID: fb8dfa100b25f6d4f969b76a5c4c1a1c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 122
+      width: 16
+      height: 16
+    spriteID: c9bea434813004945ae6f9fe6b203c04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 7ddc6e129389e7d4487f271edc314c3a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 9ab69b0e82f561f4d97f9ae92c4f0421
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 122
+      width: 16
+      height: 16
+    spriteID: c4933f6125f69b54b88edc88dff1b0c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 206479ce138c251459f3a24f3a60be67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 2181cfd4c9a25864388a2f8090d9ddd0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 6cd9345ff6924824d81a768ab96b9573
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 1c3962934262cd643860ce3593980476
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 45f4f61adb524524e8adefae3641251c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 122
+      width: 16
+      height: 16
+    spriteID: e63ea8b975ed3a7469143cc33942e338
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 122
+      width: 12
+      height: 16
+    spriteID: a90fab41f0f7c7c49beef615489460e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 11bb6c60458fff44691dfbc85d7bc320
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 106
+      width: 16
+      height: 16
+    spriteID: d7db45264328c5343be6662eba8cd3a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 106
+      width: 16
+      height: 16
+    spriteID: ffeb52c3fbcf0c24bbc8364d58dc29b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 21062fce8be68734fa79f382a9a82495
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 106
+      width: 16
+      height: 16
+    spriteID: f98b424e80e9c5748bb6746b648c4645
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 106
+      width: 16
+      height: 16
+    spriteID: b27726b1a57a57b419481a0572754d97
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 106
+      width: 16
+      height: 16
+    spriteID: e61575f41bb3edb44a09bec653566499
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 8c30bdae65465cc4ba16f777e2ddd011
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 98d093ecbf2afcd49acdb0f7d9270f8d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 106
+      width: 16
+      height: 16
+    spriteID: e8fa6fc05ab9e3544a6926b16c5becb4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 904c978dd534cf142935b1c227933df8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 5a7e6803b5f53214d967e02c85108b96
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 7f48dc34992b5364aab81f67c9bc6620
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 293f3fb34c8eb3e4f8b7096350a2975c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 8b87a4455ebcd7a44aa6de8c6dd60198
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 106
+      width: 16
+      height: 16
+    spriteID: b8231c360fb5d7c42a1761a69aeaee57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 3d5c18a46f30ac749b4743acfa4ea402
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 565b92fc569cc5c428d9cf74a0a429e1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 106
+      width: 12
+      height: 16
+    spriteID: a08435bea0c94224f838c6167e8a3aed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 736939f83ef9f5f4abc76ba98d72c643
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 90
+      width: 16
+      height: 16
+    spriteID: c779f17048df4a747af17a21f3309587
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 3a47aed3aa60375429c9fa8dfd76cb31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 694f83a56d6c0a9488d3320a5f9b0dc5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 90
+      width: 16
+      height: 16
+    spriteID: bf75f9ef388ffc94c917e942cc9b0af4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 90
+      width: 16
+      height: 16
+    spriteID: acff1fac289572049b280a05d59230cb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 7859999a04698194cad3a439b89b82b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 6bafafe76a1068940b3483d8b7e7a28b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 5536cec8290d17848a6bed965450a2be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 75cb96d5ff6bd89469cd3b98e488e0b0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 36e66390016f4d14cbfc8319748ca8f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 4bb0847edcbd90746aa0cd93fef962e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 90
+      width: 16
+      height: 16
+    spriteID: b03e97ef01389c04cbfe421bbc0f3e3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 08bb01ce5d911364593d89f7aeb59d9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 8c324b81788ce5441812cb9e798beb9f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 8cae7d128b6296543a8a4090a2c16991
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 90
+      width: 16
+      height: 16
+    spriteID: e14bb22cde9822745b5ea3f46f7156ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 90
+      width: 16
+      height: 16
+    spriteID: ac1e1a8b2d6ec20459d52263219d7859
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 90
+      width: 12
+      height: 16
+    spriteID: f6384cc844036f74f82dc9d75ffea894
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 74
+      width: 16
+      height: 16
+    spriteID: b51c19f3510fa134ca74380ce4c758fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 083ef93b01b7a894696798b05396b87e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 7cd7a488daf88dd42941be39f251f189
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 74
+      width: 16
+      height: 16
+    spriteID: fda2e75663932a04a93fb30b14cb4df7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 74
+      width: 16
+      height: 16
+    spriteID: c38346587f26cc0429c30801cc3d7c3d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 74
+      width: 16
+      height: 16
+    spriteID: ad83c039da95cdf41bc6d74be8fd4c90
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 74
+      width: 16
+      height: 16
+    spriteID: b123dccc707c911499b7d5c6fa44f030
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 74
+      width: 16
+      height: 16
+    spriteID: d911b9c68ca67654a92f3b23aaa01bca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 74
+      width: 16
+      height: 16
+    spriteID: d136ef4f135e1ac44b7257e2b97e5089
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 0de06543992fd8746a25c5129697cc0e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 66bf4d1632910df47bdc04ffa92bd9c9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 37111a66904a52a4b9ecce023847a955
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 75811ac31936887489aedd3ff40001aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 74
+      width: 16
+      height: 16
+    spriteID: c6e0118824e702045aa845e2753d738f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 74
+      width: 16
+      height: 16
+    spriteID: c1a7fcda89b55304ca7bf35ae267d5e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 28d322db79d8e514299de80b2614646e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 39a7c679424480747b9678374c8d57bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 76a9f667206907d4d9a5c76e73b03d83
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 74
+      width: 12
+      height: 16
+    spriteID: 0905a3b2eaf46cd4ea819957c743345f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 58
+      width: 16
+      height: 16
+    spriteID: aefc75965df2bb8438a040cd356fb9c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 235737d32e604234893d4355b71c66b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 58
+      width: 16
+      height: 16
+    spriteID: b2fb64bac2c33b14fb719e6c5c4f9582
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 58
+      width: 16
+      height: 16
+    spriteID: bd14172a6c6bb3644b0e0db9c57f9a23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 58
+      width: 16
+      height: 16
+    spriteID: f354475fe16d16048a74c98c8cb4e56c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 9c828ac1d03bc7945bb33e20992f495e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 383ee980b4ba7f740a8e3af7167d2d39
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 9355336fa11528047b7015c0ecd5babe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 58
+      width: 16
+      height: 16
+    spriteID: d3e1ffd7222c27440be0830d8eef4bc2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 447e01f410c1cc241b60262eab34591c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 58
+      width: 16
+      height: 16
+    spriteID: ecd58147449b2b44a8b6396204965bff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 0b5af765e649e9449a552fcb81e0a016
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 0bcdf952f6495b0499cccc2a5281c39c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 833ff39fed4864249af4e88ccc510c0d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 58
+      width: 16
+      height: 16
+    spriteID: b87ae7f678b3f6449a8aa405124839db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 1f73c11c56e212a4c915c3a420775231
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 58
+      width: 16
+      height: 16
+    spriteID: cf203d35b03be754bab83f9548ac2c7b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 026fd8307bf8637438c25fc33be79c9d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 58
+      width: 12
+      height: 16
+    spriteID: b60710b195049ce4dbf84f210e41dff9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 3abc7c85f99d254459d5fe010e69bbec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 42
+      width: 16
+      height: 16
+    spriteID: fba96cfcf0a7c53448322b1d7dc22795
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 894af090b79cc9c4c89c038cb33a7136
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 42
+      width: 16
+      height: 16
+    spriteID: d831a2b8771ae604ab37326a6cd934d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 6594cff5d81b6dd4e870f6795638e12f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 42
+      width: 16
+      height: 16
+    spriteID: a6497f79bf318024da856cdeccad247c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 42
+      width: 16
+      height: 16
+    spriteID: f6a3bb1ffabccb747895d0c9ac753b11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 42
+      width: 16
+      height: 16
+    spriteID: e7faf65795a1a0f4f846c8c5a137a549
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 42
+      width: 16
+      height: 16
+    spriteID: aa434896f9f3f0f4287a8a4558f565e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 42
+      width: 16
+      height: 16
+    spriteID: d7ffd25f175aea448b4a2cfc07592fd4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 66aad3ea7f201fc4ba083566488f52de
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 004a7929f3a00cc41b3f58488a4f0aab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 9f17207df1324c74d907270308c1993e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 42
+      width: 16
+      height: 16
+    spriteID: b11b6e9be788d3f40864fdf3c83a3368
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 886552881b520af4fa1b485d6f1c4236
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 35f666ff6f16c434a9604e3d1d736376
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 42
+      width: 16
+      height: 16
+    spriteID: d7749671010b32a49b386f6a12b0ae27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 42
+      width: 16
+      height: 16
+    spriteID: e12ccd9574608fb40959d69f69c4e139
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 42
+      width: 12
+      height: 16
+    spriteID: ee854d0584361e64f931b70cbca06539
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 16
+      height: 16
+    spriteID: acc2ff78f46e3434396098c6ac193d72
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 26
+      width: 16
+      height: 16
+    spriteID: b9e8aca3bf1b5ed48907fd9f0a1b1420
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 382321ae3d9190248ac91fe3059a7581
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 8b582ad3024a15b4eb0ab2864444b1cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 7e8c7a6f444c20a4bab5bab91fc47f34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 32b88c38678769944bba5a7a3e7bb071
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 26
+      width: 16
+      height: 16
+    spriteID: b351c3045d0187e4797bc295456dfd6c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 0eda489cc7dd0c649a9a3cfd7b6b0e77
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 269bfe6a50792dd4ea4772a263435ae6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 7e3ec37e32422714ea5a5c231578b99c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 993482ed8b9f61b459c83fce12b168ab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 7d1aaa78cdce7c64eaacb6b0248da92d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 26
+      width: 16
+      height: 16
+    spriteID: febb85f966b10f348875696542f7d165
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 3a2180c8a686d0b41bf36de2d09a0fff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 6479f9f6276d0354881fb3a9adce71fa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 6d7a344f21dac6b4896df1dfb29a57ef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 26
+      width: 16
+      height: 16
+    spriteID: e0fc7c4e54eef0444846c0423334ad9a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 5cbcceff598c2bf499f25d2fdbe7d723
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 26
+      width: 12
+      height: 16
+    spriteID: aa6ccd765d210604eafb1b515fa0c686
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 72bad8d36415ab641a7dbc27e82dd893
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 10
+      width: 16
+      height: 16
+    spriteID: a6fca863a5e320b419d12a9ea4ceb0a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 5a2b41546a1fa5246a0ee1cca53fb7b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 10
+      width: 16
+      height: 16
+    spriteID: c5def959ff1ca3f49956a9b3dcd4f3ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 77af48f4000aa8a41bf7a8bf12cb5b07
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 20fcb58bea74b5e47af0a3bf6e51ea21
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 10
+      width: 16
+      height: 16
+    spriteID: f14f9860b9ce51f4d847243e77d90835
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 9ca4b6108580709468ccefd31dbf8c4e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 90446cd64a3c18740b741e98847ceb59
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 366b025ee3f80fe448edffedfcf5169e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 10
+      width: 16
+      height: 16
+    spriteID: e2632b10ea3b6ee42b4fe9bccb7c41ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 0644ef6679118dc4ea56d2b32f3822ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 10
+      width: 16
+      height: 16
+    spriteID: d8cd4135238a5e14e909f86d2e7396f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 109c90acfb9d65a4b844a86ac6685975
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 47b11458f5ab9b54b839203d146bfe88
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 0bcf0df08b1d00f4abdf3d904c5e3837
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 0a02d0d2ad2de784a9348f912a0a62ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 74af7ef82efa2cf46bb394212af1d836
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 10
+      width: 12
+      height: 16
+    spriteID: 7213c4ef977fce54fae4125e03522dc4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 6a24cc3022690ac42b842a2cbff951aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 10
+    spriteID: e442919c6561d4c42beb07e0d57b5674
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 53b4e5a5b5f7e4d48b8a7e95d88bbe98
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 9573427ace9a4e345a5dd352fd8df19a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 10
+    spriteID: c5a1380716ea0f44ab9927f52abc9a44
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 871a420eba1a03348aceb3d342e53e63
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 714007703715dbf479ca8d6f92cc8944
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 10
+    spriteID: d7244f953ec993d438dd5ce66ef8e22a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 2861f1e3f309f32468a4476026604f74
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 10
+    spriteID: a2e701ca9233acc489a7e948678601be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 7ea3d5dbe48731446af3fc81b8bb0634
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 5f93777319804f3409e989976f0d3817
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 80f09f777e1264b46828a5d1e4158b20
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 6c890ee868443974fae8eca22847f66c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 10
+    spriteID: d2a9bba46eb5f1545b7af2f241c4af27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 533b288b949b0194885b0f0c39ed7efc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 98dc616adf77c9e4a862efc9bdd39131
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 405ae891745cfe8489baece863705602
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Nature_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 0
+      width: 12
+      height: 10
+    spriteID: 72b22e214dda2304db14acdb065849a7
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []

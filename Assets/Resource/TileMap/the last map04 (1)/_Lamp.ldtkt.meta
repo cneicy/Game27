@@ -1,0 +1,2940 @@
+fileFormatVersion: 2
+guid: 787a5080aba1b39469b8b4a357c0f6db
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 8
+  _sprites:
+  - name: _Lamp_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 9ba760eadcd1a0544b5d5767a587cafd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 7298256a89a34bb4189b83e42b0d56d1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 28eeb24d7502d87429d90d0dfe3f2fcc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 34d040ffd40c3264d86f99b8433fe1b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 10266aec2782c684781906a21ff779c2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 154
+      width: 16
+      height: 16
+    spriteID: b77e82cba0f29c84a9f6f227100d9600
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 154
+      width: 16
+      height: 16
+    spriteID: e09aad0e3aa6da94c8c306e1f7618868
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 31f98a87cfc126e40869768fb684bad0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 2bed81a8700f9a9408690699ea579510
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 77f94d68e4219b4489a108c6f8e2a912
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 154
+      width: 16
+      height: 16
+    spriteID: c64e785b5111a47409ce4d0295961a67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 7f865006f16d1f54dbaf8973d8cc563c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 154
+      width: 16
+      height: 16
+    spriteID: ae94cbcd6cf5bac4fbedaf4372cb8715
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 280483eb34cb87049997b0129d7c954a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 154
+      width: 16
+      height: 16
+    spriteID: c839852791da7234b8e3f61b25662e75
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 8b96d3bf73bbeaa429205b76c5ca604f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 65f1c782467a3284085eea66d996b56f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 154
+      width: 16
+      height: 16
+    spriteID: 537ef1d268e129040b3c6da834bc2e1b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 154
+      width: 12
+      height: 16
+    spriteID: f67e7eadf46e78b47a3a83c67c711d28
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 7ddc0273183cf1e4b8a09c70c0702956
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 756aff674005d7a4e89158664d233f23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 866251ab6d8c72b49b589dcab8d694f7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 31fb7c8564ceeaa45aeabfe56f720e04
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 8b3401a920e7f4f4e9a93fdb68df62a0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 138
+      width: 16
+      height: 16
+    spriteID: a7196fba73ce449448bf931022e41d44
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 9106a988821b05545bc6dfb46cff1377
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 5bc3bb53c6d98c9439963f62834151e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 2a2d0b34e0b46c04caba6a01e141f0a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 008731a21ced21a46a18d2008e3a83b9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 138
+      width: 16
+      height: 16
+    spriteID: f3bf858916bf2c74fa7136c252b97ed2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 138
+      width: 16
+      height: 16
+    spriteID: f482d10a3dcabae4fba8f0ce4e7b7e4a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 107900bdb89486544b54c3c49e04042b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 8c274b7fc06ace849896b8f0619c5974
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 138
+      width: 16
+      height: 16
+    spriteID: ad4f4ee777b0665418880d39f5a55d25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 0d07e5cb55d4da7499792470d91b779d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 3272206c37b5f7e498e4deb919d2a1bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 138
+      width: 16
+      height: 16
+    spriteID: 981c2e114a2b3a447833906d9155d9ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 138
+      width: 12
+      height: 16
+    spriteID: 4dec8a7f4297b3847a45b55821c18c4e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 122
+      width: 16
+      height: 16
+    spriteID: b7574b64b5c9cc34f8026c9c24f3799f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 9aa19003aed42814f807acb681ca5637
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 9d1ed20850155ec43b164b15366da7f9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 2abc42c3f9f88bc4eb9ebf5631acf5ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 122
+      width: 16
+      height: 16
+    spriteID: fe62e7e32e4198745bc417aa5365e84f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 0782e16808d09bc4189c964f5610d163
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 122
+      width: 16
+      height: 16
+    spriteID: d32baeb6ce1dc104bb198fcf5a0f2501
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 9f78e822ad8e9cc48bd82c4accabf4db
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 122
+      width: 16
+      height: 16
+    spriteID: a82a00cc47961f540bf303b89ab4b735
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 4064f42817eee7d478b8b2690e4fc0b2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 9d85ab4303ed4ff48a6e7a218c1b43d9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 798758361db26134b8dd9e8e21b1a91b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 020055d4d419a3845845ffbb4bfb784b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 14b8b76f67c24c94f9fa738813e4ef71
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 82da7947ac8652f498d5786e086dca53
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 05d54ea6dcd4f7948b72864e40bfb7ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 122
+      width: 16
+      height: 16
+    spriteID: 2450a270f74b8814fa9e22a7d345234d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 122
+      width: 16
+      height: 16
+    spriteID: c9813f94f95a00948a372a20c03c4bc3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 122
+      width: 12
+      height: 16
+    spriteID: 8b13d2f9a83b3a94e91f28b9054f45d0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 4301b4134586b5f4f9ac638a7fab83b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 3ec5c8eceb6c439479812aeeca87e742
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 106
+      width: 16
+      height: 16
+    spriteID: ef85214007dc5f3438de98b8a73649d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 50bfb9c6917e3a64794686888c515497
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 02c3dfefc4bc0fd428b3101c17644a58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 3f0c491ca814e074d9fbf5b8d22f03b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 106
+      width: 16
+      height: 16
+    spriteID: d4d009da7e76d1a47b7bceedba1d2eff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 19c0981e867bceb47a2a159b2f523b70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 623f8efead72aec458018f842f7249a4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 15c201541308f5a4282473199776fdb1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 2cd98dccf2b00734399e9db02848aef1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 6a44c66809db6c94eb8928fb02479100
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 80de5a2272f37d74b8ee9884322edcb0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 2d212f3f4fc393740a86d2485620113c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 106
+      width: 16
+      height: 16
+    spriteID: ebe6c5eb3e3ad2b46b3998e3c39a1be0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 129c28c7fb9a2074a8a3af1f63000965
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 1d5822a8420c24940b51b35c70b28193
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 106
+      width: 16
+      height: 16
+    spriteID: 7255c0dd8551d51438450e414426cabe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 106
+      width: 12
+      height: 16
+    spriteID: dda0d6de919eb29438c931ccbf6bf201
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 0fc55c908c5db8c4e8590e1bbbc23645
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 3528d331ffcd51c49bf7bfc2376f7f0e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 89eb0f72ee89cd44cbad6f65c556ef6e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 86a7c86325865314185cba578c563c42
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 1e226f3329b07694f86c49b6aa887b7b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 90
+      width: 16
+      height: 16
+    spriteID: fdc536d336d9b184f811a7efd0acede6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 12a750c6ace1fd94d85a78af92023066
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 90
+      width: 16
+      height: 16
+    spriteID: e965c716b3b488340b971ad805593590
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 2babf9b7b5052b6409f3e4605c070f68
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 90
+      width: 16
+      height: 16
+    spriteID: d4fa95ea6b15b4f4f97d3e676ca13bf8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 90
+      width: 16
+      height: 16
+    spriteID: a667f8ffbb88ee143bc1427347bb1581
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 90
+      width: 16
+      height: 16
+    spriteID: fc271e269313a1a4fa24b06c7ea606f0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 90
+      width: 16
+      height: 16
+    spriteID: f537d76c34e66364bbf7c8e591b6f522
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 699d10f876a317047adfef7e3e99c549
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 86f963231aa0e2846930f5b042d28971
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 90
+      width: 16
+      height: 16
+    spriteID: 253a4f9cbfeb8624e961befebee2d96d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 90
+      width: 16
+      height: 16
+    spriteID: c091fb899cec04943a53a50c58930d3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 90
+      width: 16
+      height: 16
+    spriteID: be53014ffe3f4194895dfccd3688eed1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 90
+      width: 12
+      height: 16
+    spriteID: 758d154046277bd4bb1a121e60a91f8e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 9e2339b4d7c5bd348b720147698fc823
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 74
+      width: 16
+      height: 16
+    spriteID: a539e3a0a940d334b8f700a805cb8e70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 5e8a5eaa7b516df4bb26a6a370b11e1e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 7ee87b956e6aa5b40a5d0af9f3cf3696
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 74
+      width: 16
+      height: 16
+    spriteID: a1ad2ece214a8a74aad1dba939f3418b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 74
+      width: 16
+      height: 16
+    spriteID: d11a383b1a823f843b5b2209fbfa009c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 8d5d855ca1f5e1940b990e2fdd2432e9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 74
+      width: 16
+      height: 16
+    spriteID: c53c9d63120fc354180a0c5977a2486b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 3d0b9057d53dd194883cf0dd46944609
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 926c8cf3d89dbd94d9ecba29fc62f4d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 4309262f987841744922abff1be31072
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 9a52bbe9f1fca2842a4116f8e07419ec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 35470a0a301bfa64685e8ddf6645fe7e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 8b7a5f7c54115134388aec5d99ca4dda
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 07a03c7225d4f144dbc3f7dd7de599ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 74
+      width: 16
+      height: 16
+    spriteID: f9cbae0250fd52a4f871972e21093cab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 253aecbeec8fcd44c842b50b2c2839e9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 74
+      width: 16
+      height: 16
+    spriteID: 1dd6a5bebca8bdc4ea1b608de721ede5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 74
+      width: 12
+      height: 16
+    spriteID: fbc4243188b56c94d9db8decc926efd6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 12c4d359cf303694ba8aabfa2f90f1a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 58
+      width: 16
+      height: 16
+    spriteID: fa02fed19946e154fa2fcb691d7e1909
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 5299d28d0a83cb64e9d9f890239ff5de
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 8c5d484f58263494db1a965a628f738e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 6277593c49facb14389a739f57aadffc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 10227103ff52f8f48917d45132dae23d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 6bdec2bce248ce14e86445f70615789f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 2ecbc19021afcde4790742cc378e5ff4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 2b9b912b1de8d604cad81b7e886c0f0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 58
+      width: 16
+      height: 16
+    spriteID: ab099827c368c7347bcd5927a15f1cdf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 58
+      width: 16
+      height: 16
+    spriteID: cdb09609c64222f4e9c4e70409af21c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 3dd078631bf7a7547ace0fa273128d29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 54896a25fff7d774184f3f36cb8ad976
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 58
+      width: 16
+      height: 16
+    spriteID: afe334af172c307498417aaf8915dcf7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 58
+      width: 16
+      height: 16
+    spriteID: c171a72469ab06d4fa18952851ce2a8b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 397238d8e40d47643950b2d077007d25
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 58
+      width: 16
+      height: 16
+    spriteID: 2f8ba6527f3e5c248a86b95e0f3f9129
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 58
+      width: 16
+      height: 16
+    spriteID: bdef414e526de844cb97cd5b0e8690c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 58
+      width: 12
+      height: 16
+    spriteID: 666fb4b5253e8894cbdbc7c4a182c013
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 6027c6eceefd1fb4f9f47cd65074861b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 841f7d7d9d546ed4da58ef912a633d37
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 13778b4cdafb2284c93987651fe64809
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 005740611dba9c740aaa39dfd0b89ff8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 30989fd4081cbf549ab5bcfdd12cce05
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 42
+      width: 16
+      height: 16
+    spriteID: dd9725b3d99711448aaf36f66453fdb6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 42
+      width: 16
+      height: 16
+    spriteID: e40fc6fd9ff6bc74f9be75019a79aca2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 42
+      width: 16
+      height: 16
+    spriteID: a867bcc0a03591b41aefcad1528da465
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 42
+      width: 16
+      height: 16
+    spriteID: e58f7247f55c5ae48a2f2402b254272d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 42
+      width: 16
+      height: 16
+    spriteID: ceb0def197961dd49ba002ce5fa0c640
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 6295f154b0b437d418a18d53d8fdf918
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 42
+      width: 16
+      height: 16
+    spriteID: c8ba27d5d575d4a4fb5a18689c77221f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 42
+      width: 16
+      height: 16
+    spriteID: b1a46d37aea51e24985d0a33df367665
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 42
+      width: 16
+      height: 16
+    spriteID: db0e9cf3b4c467e458851d939bfdbda6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 48957355af352e243a14642157dc2307
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 4fafb61b3a22d9944a1010d6718fb4ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 42
+      width: 16
+      height: 16
+    spriteID: 627c506effb89dd4d938ca8d0be6543d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 42
+      width: 16
+      height: 16
+    spriteID: cb9bea34c7d8a154cab8d608259c66d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 42
+      width: 12
+      height: 16
+    spriteID: b575ab87f939cbf43babf72906212017
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 28594a4ee50b9a840b034c2800970a2f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 7bb44921925064e4694238dba0084992
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 26
+      width: 16
+      height: 16
+    spriteID: c108e0cee65d5934fb1bf3455c02fad4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 26
+      width: 16
+      height: 16
+    spriteID: e768e67b439bf7d4b903292e8126835a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 06c11b4af2381884fa4414c48ee934fd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 26
+      width: 16
+      height: 16
+    spriteID: a75f18982b04f8949b3215fc6fa6657c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 168fe5274f5c124439af588e33d8a99c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 04e7f73b0dd6fa14d9794640037f842f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 03f28e54f677230438a7b0a1afc7d0c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 26
+      width: 16
+      height: 16
+    spriteID: f35c38eaa1355534fbbe8491b16c4496
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 5de6864cede88b9418ce5b6583a23d95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 6ef811d1dd8fcdc42942bbfb9862d1b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 38f45324e88430b4bbe33a504d7a0343
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 79203018b3ed6ee43b6b9e07b546421f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 26
+      width: 16
+      height: 16
+    spriteID: 88b37c06dfa6e6e4491884f921f7a3c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 26
+      width: 16
+      height: 16
+    spriteID: a2468ae9fe1eec849895ef378fd757c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 26
+      width: 16
+      height: 16
+    spriteID: ae97ee0357095c242aa039f59c32a2ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 26
+      width: 16
+      height: 16
+    spriteID: fbee3b0083cc25945b951ab8e6c38c54
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 26
+      width: 12
+      height: 16
+    spriteID: 5c5052e177ac0b64db95aaf139dd7084
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 60552404a1c16fd4f82464568ce0db02
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 10
+      width: 16
+      height: 16
+    spriteID: d712f5a180bda10458d41fcbf4f33f17
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 10
+      width: 16
+      height: 16
+    spriteID: fffc5b8a4a01790489b3d775855f40ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 4eed3768c309612429db0ce1e7323eed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 58041355fd1026540855e9cb0e08b241
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 7fdcb7a4be3c7634aaf8a6ccb45e6902
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 0c42c2574cc46364d8e5a63637eb2548
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 48d28f551e971e7479ae0c3318b18e45
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 8db4362c81208a3448aced99b005fb21
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 87de4d9286998754a9f1321efa57f1ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 215934f26f347204ab3c605ef1ae9ef4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 4c8f1a17aa32c264dbbf2390f693ef11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 53f4628e83212c34faba130cf7f8ffdb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 456cafd3b0810f44dbd725c962c218ee
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 83087d9e9630aee4ca28be47c0efc2c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 010a0ed900b7fb34ba7808651ff5c372
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 10
+      width: 16
+      height: 16
+    spriteID: d6fea80b429a4944b9d3663c4165cc5f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 10
+      width: 16
+      height: 16
+    spriteID: 1dbfe00f1c24f8840bb4d4906c6fbad0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 10
+      width: 12
+      height: 16
+    spriteID: 6b87d63818062b8458cc8abd63069ba8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 10
+    spriteID: b68e00da0e3c6d54397091adcd740f13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 15449a679edb0794c8b99c1e8b46aafa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 70ca00da96f4ddc40bbdad5ffa959fa0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 6bd6c7794ed6a4247969c81430f2a829
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 6682b79890cbfb94fb56943a38d10b64
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 1795ffd5dab0eda4f8ec240704c21d34
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 3c838c372fc8c6e419ade25d8fef9560
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 10
+    spriteID: f19e2610222b69f459bb2c62d7b3acff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 343567db0b1edb0439aaae1be49060bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 24e9faae97b640f428cb913ebe13bc78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 10
+    spriteID: edf4c5bf7f128a949b5fcfbd17645f85
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 24e9b54bfa603a34fb0e2180c7bc59fd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 10
+    spriteID: b5c055ed52855fd43a7b95868c1a8b41
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 2173d20d4badc164ca1b4d197c5debb3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 8c4f899aa158a474d8867e5b4b1196bb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 803a5f322b7767241bbac1f24443e091
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 5b5e97424709bd346bb9b27c0ec19e78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 0
+      width: 16
+      height: 10
+    spriteID: 13a01dbdefdd7cf40a1e5e44a8c4cbed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Lamp_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 0
+      width: 12
+      height: 10
+    spriteID: eb63d66bdf0d8b041acdfad0a5134c74
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
