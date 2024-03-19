@@ -23,7 +23,7 @@ namespace Script.MainMenu.UI
         public void StartGame()
         {
             _sal.InitLoad();
-            StartCoroutine(Load(_sal._playerData.Scene));
+            StartCoroutine(Load(_sal.PlayerData.Scene));
             _loadTrigger = true;
         }
 

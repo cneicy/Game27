@@ -127,14 +127,14 @@ namespace Script.Game.Object.Player
                             _rigidBody2D.mass;
             if (leftWallJump)
             {
-                _rigidBody2D.AddForce(Vector2.right * 1200f);
+                _rigidBody2D.AddForce(Vector2.right * 2000f);
                 _rigidBody2D.AddForce(Vector2.up * jumpForce / 1.5f);
                 _rigidBody2D.gravityScale = gravityScale;
             }
 
             if (rightWallJump)
             {
-                _rigidBody2D.AddForce(Vector2.left * 1200);
+                _rigidBody2D.AddForce(Vector2.left * 2000);
                 _rigidBody2D.AddForce(Vector2.up * jumpForce / 1.5f);
                 _rigidBody2D.gravityScale = gravityScale;
             }

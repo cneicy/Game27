@@ -19,7 +19,7 @@ namespace Script.Init
 
         private IEnumerator WaitForLoad()
         {
-            yield return new WaitForSeconds(2);
+            yield return new WaitForSeconds(5);
             GameObject.FindWithTag("Tip").GetComponent<Tip>().Roll();
             Loader.Load(Scene);
         }

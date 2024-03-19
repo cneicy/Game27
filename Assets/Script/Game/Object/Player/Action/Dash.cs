@@ -6,7 +6,7 @@ namespace Script.Game.Object.Player.Action
 {
     public class Dash : MonoBehaviour
     {
-        private float _dashForce = 200f;
+        private const float DashForce = 200f;
         private Rigidbody2D _rigidBody2D;
         private Animator _animator;
         //private VAttack _vAttack;
@@ -43,7 +43,7 @@ namespace Script.Game.Object.Player.Action
                 StartCoroutine(DashTimer(gTemp));
                 StartCoroutine(DashCoolDown());
                 _rigidBody2D.gravityScale = 0;
-                _rigidBody2D.AddForce(Vector2.right * (KeyGetter.PlayerDir.x * _dashForce), ForceMode2D.Impulse);
+                _rigidBody2D.AddForce(Vector2.right * (KeyGetter.PlayerDir.x * DashForce), ForceMode2D.Impulse);
             }
             //冲刺残影
             if (isDashing)

@@ -24,8 +24,11 @@ namespace Script.Init
                     SceneManager.LoadScene(3);
                     break;
                 case Scene.Level3:
+                    SceneManager.LoadScene(4);
                     break;
                 case Scene.Level4:
+                    SceneManager.LoadScene(5);
+                    break;
                 default:
                     throw new ArgumentOutOfRangeException(nameof(scene), scene, null);
             }

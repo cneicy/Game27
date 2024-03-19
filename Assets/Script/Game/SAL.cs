@@ -9,10 +9,10 @@ namespace Script.Game
     //Save And Load 游戏保存与加载类
     public class SAL : MonoBehaviour
     {
-        public static string _json;
-        public static string _filePath;
+        private static string _json;
+        private static string _filePath;
         private Player _player;
-        public  PlayerData _playerData;
+        public  PlayerData PlayerData;
         private void Awake()
         {
             DontDestroyOnLoad(gameObject);
@@ -29,7 +29,7 @@ namespace Script.Game
         public void InitLoad()
         {
             _json = File.ReadAllText(_filePath);
-            _playerData = JsonConvert.DeserializeObject<PlayerData>(_json);
+            PlayerData = JsonConvert.DeserializeObject<PlayerData>(_json);
         }
         
         public void InitPlayer()
@@ -39,10 +39,10 @@ namespace Script.Game
         //数据保存Trigger方法
         public void NewGame()
         {
-            _playerData.PlayerPosition = Vector3.zero;
-            _playerData.Hp = 3;
-            _playerData.Scene = 0;
-            _json = JsonUtility.ToJson(_playerData);
+            PlayerData.PlayerPosition = Vector3.zero;
+            PlayerData.Hp = 3;
+            PlayerData.Scene = 0;
+            _json = JsonUtility.ToJson(PlayerData);
             File.WriteAllText(_filePath,_json);
         }
         public void Save()
