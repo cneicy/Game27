@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace Script.Game.Object
 {
@@ -14,6 +13,7 @@ namespace Script.Game.Object
             _player = GameObject.FindWithTag("Player").GetComponent<SpriteRenderer>();
         }
 
+        //引导光点复位
         private void OnTriggerEnter2D(Collider2D other)
         {
             _audioSource.Play();

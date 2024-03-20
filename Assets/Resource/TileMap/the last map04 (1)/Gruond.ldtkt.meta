@@ -22,7 +22,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: ecc80f5edca8492498c848656da2d843
+    spriteID: dee27488bdb7ab1419e699397d34fb43
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_1
@@ -36,7 +36,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: 74f90d8b5e40c964ba6c00703e517075
+    spriteID: 27687fe7e1c4731478ca2b6e22ad76be
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_2
@@ -50,7 +50,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: 35faa7acbde9a184fbfac55f6ca81204
+    spriteID: d09fc0fe922ca60418d02b825272450c
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_3
@@ -64,7 +64,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: e90c469e7e6195c48a98bae6a0dbb1dd
+    spriteID: b6b3c3429e4f16c4c8b7a4ad47d2fea0
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_4
@@ -78,7 +78,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: c32f369d3d212ae45814cc229c85c54b
+    spriteID: 19dd05b5bb6aeb747a3b963cea0163bf
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_5
@@ -92,7 +92,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: 50143e93fecb8af45b921eae881083e1
+    spriteID: f24424b48bc50e449b98a81be958c0a6
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_6
@@ -106,7 +106,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: 3948e19a674f7ee448a3f2aaccb31317
+    spriteID: 87c1747203da44743a0ba9719cecff79
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_7
@@ -120,7 +120,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: d70bc633cc1016f478a05b26623bbda6
+    spriteID: 24e1bdbf7ca286b498ba1331dbdecf81
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_8
@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: 1fb6263d01f131249b060766420ad36a
+    spriteID: 2ad3c7efda120334a83ba81afaaf2600
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_9
@@ -148,7 +148,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: add6ec97861fba3458605cc3ea978bf5
+    spriteID: 32cc7c7d812cabb4396d791ee51fbdcf
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_10
@@ -162,7 +162,7 @@ ScriptedImporter:
       y: 64
       width: 16
       height: 16
-    spriteID: 2f02e59c39a752e4c9e04baf67454ad8
+    spriteID: adffe5d08f9d61a4f9973ff7ce725ed4
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_11
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 3e4e1958c2e181345bc9dce175b6f500
+    spriteID: 7765464bcf870374b8a77ac2c110d8a3
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_12
@@ -190,7 +190,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 9e741b22c9920494b905d74f74e2d6aa
+    spriteID: bd37286ce6f0225428c37296adfde069
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_13
@@ -204,7 +204,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 9f97ecbcba87cc544a551094b815e0a4
+    spriteID: c3ea65da92637a54f9d886bc6f1a9fae
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_14
@@ -218,7 +218,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 36909d151fbf9cb4492d5c652ef88b0e
+    spriteID: 18e34a1d86b27ac45bec3f0c7d61bba6
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_15
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 820253f2396300541956545b94736bbc
+    spriteID: c53456224e321324180165283e553805
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_16
@@ -246,7 +246,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: b01fd22ba1d5eb14c85f0a9de3d834e6
+    spriteID: 497172c43e7c8414b965f58cfd2340ca
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_17
@@ -260,7 +260,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 26fd70434d2b32a418fd51cf0a6aedc7
+    spriteID: 55de6da8b023e2a438479f2d41b4046d
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_18
@@ -274,7 +274,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: f1992cef168c1914894a824853f00413
+    spriteID: f5a637c8cd2a54146b08c07dd9db89b8
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_19
@@ -288,7 +288,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 22f140912871c8b43aa264b307bd31c8
+    spriteID: 40bd5948b29273f41a349fef88d6ca56
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_20
@@ -302,7 +302,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: 5156667050400a8498d70d790ad55141
+    spriteID: a250c76d31b1e79499806954f65b53ca
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_21
@@ -316,7 +316,7 @@ ScriptedImporter:
       y: 48
       width: 16
       height: 16
-    spriteID: bd72ee106ceaba04c83b3c5a2a2b6ff2
+    spriteID: a03854ae9fdf6064e8806cbf67a7070b
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_22
@@ -330,7 +330,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 8f4fd666b9df7d04da1907d8806f7f7a
+    spriteID: bc9f847310b66fc46abfc608ccfbc7a1
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_23
@@ -344,7 +344,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: d2e7c0499397ce842ab7f2baa4667046
+    spriteID: 2415e14f8981a9846b7b228646978144
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_24
@@ -358,7 +358,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 552993dc0de7dbf4785b8220cee13d03
+    spriteID: 5146a9fdbd04fc041b7c244abe4d56eb
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_25
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 17594dc0e56dca94386d3b2b3429f6ce
+    spriteID: a75b922c39a16b94f876324c89dddbea
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_26
@@ -386,7 +386,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: ae5ade229f435c849ac7643989a7e433
+    spriteID: 7f01f643b453d7643805a35ab3aff227
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_27
@@ -400,7 +400,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: e4540ee398306a849803aed5dfa9987f
+    spriteID: c30d44c7b433a6642b691295951d18af
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_28
@@ -414,7 +414,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 3523dabe929a76c47a97f943098387d4
+    spriteID: bd112dec7f72a4341b86239a9be58182
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_29
@@ -428,7 +428,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 2faaca497226b0e4d93b8dd9b4ed2989
+    spriteID: bdc6c41831fd74a49946c8eb77873f88
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_30
@@ -442,7 +442,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: ef32e762090ff5c41bf52211beae9564
+    spriteID: 5e40d110304aca348b3a7af5810c11f7
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_31
@@ -456,7 +456,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 724db2dd822db98499c96a8e9dbcc962
+    spriteID: e6ac91f203671fd43bce0e7f6ecbbc04
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_32
@@ -470,7 +470,7 @@ ScriptedImporter:
       y: 32
       width: 16
       height: 16
-    spriteID: 4f288f24b68dc5b429bcedf5b63ccb8e
+    spriteID: 69a594f62c5d8bd43bbde11b54d66630
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_33
@@ -484,7 +484,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 2328f097e8a2e984284a3c14cd38cecd
+    spriteID: 412db685bf76e3f48bae52a19e3f97e8
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_34
@@ -498,7 +498,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: ea4083e78548f2d4d9713c314a5830cb
+    spriteID: 3e99de8458a4f624a83664419d1a6b17
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_35
@@ -512,7 +512,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: a98028ed10ee55c4280a605f6f86fad1
+    spriteID: c2a6ab5b949588e4aae00912b6cbd387
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_36
@@ -526,7 +526,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 725f90f4239715645bee6a023de88ec1
+    spriteID: 673caf59870eea84fb2caad51918592a
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_37
@@ -540,7 +540,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 1dd955ca8cc1ba34880286ae28bb66b7
+    spriteID: be1406b63bac2a14f94cd560d6041c9e
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_38
@@ -554,7 +554,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 58813e46e3fe0f84388bcb5d42e06291
+    spriteID: a8cd5ec369d98484090cff9a5f074dcf
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_39
@@ -568,7 +568,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 241d22229b26e824597050cfa66a39bf
+    spriteID: 423804efc11ba294b8677a5bb409be9c
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_40
@@ -582,7 +582,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 19b31f3634d9f6043a2692773c1a2931
+    spriteID: 53885b4d7904fa04d8ddd9eba9db10d0
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_41
@@ -596,7 +596,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: 6d037ff02819d6647afdde269dae961a
+    spriteID: 120aae900c7bc9f41bfad4e2e9bb9731
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_42
@@ -610,7 +610,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: a348213932c556947afb27ae6063fecc
+    spriteID: 2e2f2fc83dcadf0458368ede59112581
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_43
@@ -624,7 +624,7 @@ ScriptedImporter:
       y: 16
       width: 16
       height: 16
-    spriteID: ae7c802b8fe7e0247a1f54be0e5cfb89
+    spriteID: ebcf7db6913b72c4e9c7bb00869f8edb
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_44
@@ -638,7 +638,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: c5825a128cc80304e9608ac6902b9e51
+    spriteID: 400d4f192fa60b4469365febed9e3922
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_45
@@ -652,7 +652,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 1dddf8c0684250b45b296abb66e81b49
+    spriteID: 4955b400516adbf4ab5e6ff5c43131b1
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_46
@@ -666,7 +666,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: dd5b8de7c5c134e4ea6b328046dd798c
+    spriteID: 14dbd75d788599b4e8c2d87afd6a5a36
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_47
@@ -680,7 +680,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 6ee3051141e0bcd4cbc55c30447a48fe
+    spriteID: 5952d61fab5e0d147a1965a389382ad0
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_48
@@ -694,7 +694,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 9db96ca8165ae414cb67068b6d99612c
+    spriteID: 2497192f7d7530b41afce656bc70bdaa
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_49
@@ -708,7 +708,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: ca25defac41740f4bbd74f1164d1df76
+    spriteID: aa68f08170091f04cbd13d8af626c13f
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_50
@@ -722,7 +722,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: cd6c5de2beb77f148ad8117b7cd15af2
+    spriteID: 4f07f88af76717a449bdfffa6e22a035
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_51
@@ -736,7 +736,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 9ad30f90fd7f8084e9855db8e1c069db
+    spriteID: e28c89655418bd44cbe40dd1e418e139
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_52
@@ -750,7 +750,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: d62aa1400f1d38f45b5ab0088e100d6c
+    spriteID: 0d84d906765846b4eb7ecae4ecd59d48
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_53
@@ -764,7 +764,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: e0b7ddd5288753443a10a0d9ad4aacdf
+    spriteID: a4efaee6e80709d44ad4fbd871962425
     spriteOutline: []
     tessellationDetail: 0
   - name: Gruond_54
@@ -778,7 +778,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 16
-    spriteID: 48d21b4906fb3f341a187918545b0057
+    spriteID: 553e34458ea61ed4bb20ec5db2d75363
     spriteOutline: []
     tessellationDetail: 0
   _secondaryTextures: []

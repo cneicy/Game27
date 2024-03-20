@@ -22,7 +22,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 9ba760eadcd1a0544b5d5767a587cafd
+    spriteID: fe977535bc5ff0e4f81d73da25c4ab2f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_1
@@ -36,7 +36,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 7298256a89a34bb4189b83e42b0d56d1
+    spriteID: f4dd25fadc2f065499c20f2771c73bee
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_2
@@ -50,7 +50,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 28eeb24d7502d87429d90d0dfe3f2fcc
+    spriteID: b1f7e21c7e2c8aa4da9adb773b86d434
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_3
@@ -64,7 +64,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 34d040ffd40c3264d86f99b8433fe1b9
+    spriteID: df1ace8d5f9fa094a87f7448d3e16e74
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_4
@@ -78,7 +78,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 10266aec2782c684781906a21ff779c2
+    spriteID: 185a07e54114b2b44ae77cc6ff4750ab
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_5
@@ -92,7 +92,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: b77e82cba0f29c84a9f6f227100d9600
+    spriteID: 61a8656849bc9aa449f571eb4e7b1562
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_6
@@ -106,7 +106,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: e09aad0e3aa6da94c8c306e1f7618868
+    spriteID: f469a1ff47c91d74ca56fe276c5c03db
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_7
@@ -120,7 +120,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 31f98a87cfc126e40869768fb684bad0
+    spriteID: 18509db80f09ca246a1e6a42d5df66a9
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_8
@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 2bed81a8700f9a9408690699ea579510
+    spriteID: b4904b8211a420d4baa6dad2eac3bd2d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_9
@@ -148,7 +148,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 77f94d68e4219b4489a108c6f8e2a912
+    spriteID: 56e6229995a9d8547a73f237387251a6
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_10
@@ -162,7 +162,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: c64e785b5111a47409ce4d0295961a67
+    spriteID: 50aca51d45dedf94e9d40e52599a2a29
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_11
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 7f865006f16d1f54dbaf8973d8cc563c
+    spriteID: 15a552d4dd02e2b4b9362d132ddee843
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_12
@@ -190,7 +190,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: ae94cbcd6cf5bac4fbedaf4372cb8715
+    spriteID: c85983d60ca038f4d824a7c23e725cec
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_13
@@ -204,7 +204,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 280483eb34cb87049997b0129d7c954a
+    spriteID: 7e2a2e5644ad7054d9a08cf242c0d860
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_14
@@ -218,7 +218,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: c839852791da7234b8e3f61b25662e75
+    spriteID: adfae96fb616d9448a84b9ae1529b99d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_15
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 8b96d3bf73bbeaa429205b76c5ca604f
+    spriteID: ba268a67fe0aa39429c7a4de1b8ef818
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_16
@@ -246,7 +246,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 65f1c782467a3284085eea66d996b56f
+    spriteID: 753bcff0017498142ad1372d05357168
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_17
@@ -260,7 +260,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 537ef1d268e129040b3c6da834bc2e1b
+    spriteID: bcdcd8ece43482943a2384053852ba65
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_18
@@ -274,7 +274,7 @@ ScriptedImporter:
       y: 154
       width: 12
       height: 16
-    spriteID: f67e7eadf46e78b47a3a83c67c711d28
+    spriteID: 1dedcaf17261e25458e0d27ebb31ce67
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_19
@@ -288,7 +288,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 7ddc0273183cf1e4b8a09c70c0702956
+    spriteID: 09c1010282a002842ab45c803f37a433
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_20
@@ -302,7 +302,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 756aff674005d7a4e89158664d233f23
+    spriteID: f828b1b146a95ae4db587517fd9d53ea
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_21
@@ -316,7 +316,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 866251ab6d8c72b49b589dcab8d694f7
+    spriteID: 7f6d8138cf8fc2f4a852dc7000d80087
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_22
@@ -330,7 +330,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 31fb7c8564ceeaa45aeabfe56f720e04
+    spriteID: 901e92fb78c70ed4cb17b5bf4cb48e4f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_23
@@ -344,7 +344,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 8b3401a920e7f4f4e9a93fdb68df62a0
+    spriteID: fa15e575f90b0454d97daf22b0408b71
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_24
@@ -358,7 +358,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: a7196fba73ce449448bf931022e41d44
+    spriteID: a7d137eccecdb904ab30c5f23489ac4c
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_25
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 9106a988821b05545bc6dfb46cff1377
+    spriteID: 061a1b6db09c9f642afbf0e9b393bee7
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_26
@@ -386,7 +386,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 5bc3bb53c6d98c9439963f62834151e8
+    spriteID: da5f1a523f751d842be62e480b8bb94d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_27
@@ -400,7 +400,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 2a2d0b34e0b46c04caba6a01e141f0a3
+    spriteID: 02292224e6dc92042bb3b17fa40878f4
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_28
@@ -414,7 +414,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 008731a21ced21a46a18d2008e3a83b9
+    spriteID: 558f1f992f74d5445a80098714efd470
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_29
@@ -428,7 +428,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: f3bf858916bf2c74fa7136c252b97ed2
+    spriteID: 664773cbf5a44e24e90d045726d4595f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_30
@@ -442,7 +442,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: f482d10a3dcabae4fba8f0ce4e7b7e4a
+    spriteID: 25677921103af0445a421ad2a50b381b
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_31
@@ -456,7 +456,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 107900bdb89486544b54c3c49e04042b
+    spriteID: fa720e9967194a846bd541ad2e070825
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_32
@@ -470,7 +470,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 8c274b7fc06ace849896b8f0619c5974
+    spriteID: 752f842c7f20d944abea54570530d3d8
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_33
@@ -484,7 +484,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: ad4f4ee777b0665418880d39f5a55d25
+    spriteID: 5de21736b0f62ea42a4cd550d91fa289
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_34
@@ -498,7 +498,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 0d07e5cb55d4da7499792470d91b779d
+    spriteID: 3dd82935dd38abc4fb33d44aba9f9147
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_35
@@ -512,7 +512,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 3272206c37b5f7e498e4deb919d2a1bd
+    spriteID: 165b93734e39b844bafba1dacb2c2087
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_36
@@ -526,7 +526,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 981c2e114a2b3a447833906d9155d9ed
+    spriteID: f48718f5409c7c34dbb089731e13be83
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_37
@@ -540,7 +540,7 @@ ScriptedImporter:
       y: 138
       width: 12
       height: 16
-    spriteID: 4dec8a7f4297b3847a45b55821c18c4e
+    spriteID: 4eb6037c844a18a4bbb412d913871cea
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_38
@@ -554,7 +554,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: b7574b64b5c9cc34f8026c9c24f3799f
+    spriteID: 25e18b12925c0be4493f91337c58ece8
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_39
@@ -568,7 +568,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 9aa19003aed42814f807acb681ca5637
+    spriteID: 7f58b35f2e8c8af4a9d73e19af114515
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_40
@@ -582,7 +582,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 9d1ed20850155ec43b164b15366da7f9
+    spriteID: 1bb52c9709164104cb3954eb1b81a18d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_41
@@ -596,7 +596,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 2abc42c3f9f88bc4eb9ebf5631acf5ee
+    spriteID: b60c157061fa89c47aa8e8ed49b0a0af
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_42
@@ -610,7 +610,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: fe62e7e32e4198745bc417aa5365e84f
+    spriteID: 814e9e0fdbf181446acc2316e0a219c9
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_43
@@ -624,7 +624,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 0782e16808d09bc4189c964f5610d163
+    spriteID: 680ed03aee5c61b45897a059e7171d1d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_44
@@ -638,7 +638,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: d32baeb6ce1dc104bb198fcf5a0f2501
+    spriteID: 41efc6c21387cc343bfb6cfd97554f6e
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_45
@@ -652,7 +652,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 9f78e822ad8e9cc48bd82c4accabf4db
+    spriteID: d7ee60ebcdd1eed4cbda79938fe10cae
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_46
@@ -666,7 +666,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: a82a00cc47961f540bf303b89ab4b735
+    spriteID: fb2ecdbdfa6987c4cbdf4b542f9b2852
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_47
@@ -680,7 +680,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 4064f42817eee7d478b8b2690e4fc0b2
+    spriteID: 5e7760e51007f014e96912d537ef3c80
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_48
@@ -694,7 +694,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 9d85ab4303ed4ff48a6e7a218c1b43d9
+    spriteID: 7b48a34bbd2594946a5633b90fe6a788
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_49
@@ -708,7 +708,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 798758361db26134b8dd9e8e21b1a91b
+    spriteID: 7b00b37597de8e1429dceec80edbaa7d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_50
@@ -722,7 +722,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 020055d4d419a3845845ffbb4bfb784b
+    spriteID: 919b18ef3a9c2044ca40314efe257601
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_51
@@ -736,7 +736,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 14b8b76f67c24c94f9fa738813e4ef71
+    spriteID: 821fb73baa750814893594939e3c8df7
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_52
@@ -750,7 +750,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 82da7947ac8652f498d5786e086dca53
+    spriteID: f9c79a7d3ac4d3e47a98d2a56b82a308
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_53
@@ -764,7 +764,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 05d54ea6dcd4f7948b72864e40bfb7ce
+    spriteID: 148b31d77d0d4294bba76878ad6b0789
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_54
@@ -778,7 +778,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 2450a270f74b8814fa9e22a7d345234d
+    spriteID: 9863210f120fbfd43aed170fd8731d52
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_55
@@ -792,7 +792,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: c9813f94f95a00948a372a20c03c4bc3
+    spriteID: 9aceccb9c360c5f48be5901fda0472cc
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_56
@@ -806,7 +806,7 @@ ScriptedImporter:
       y: 122
       width: 12
       height: 16
-    spriteID: 8b13d2f9a83b3a94e91f28b9054f45d0
+    spriteID: 9b4e0c49c1ba3de44af3b5ba57540f97
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_57
@@ -820,7 +820,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 4301b4134586b5f4f9ac638a7fab83b8
+    spriteID: b3a7741beb750ba4499a0c5fa9e180cd
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_58
@@ -834,7 +834,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 3ec5c8eceb6c439479812aeeca87e742
+    spriteID: 2065a12badb0e534ab2df010dd324792
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_59
@@ -848,7 +848,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: ef85214007dc5f3438de98b8a73649d3
+    spriteID: 2e631e5056848f44397fe864ce74cdf3
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_60
@@ -862,7 +862,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 50bfb9c6917e3a64794686888c515497
+    spriteID: fcabcd53d91f3584890c9ca8ef9e9f9a
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_61
@@ -876,7 +876,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 02c3dfefc4bc0fd428b3101c17644a58
+    spriteID: 1dc901cc7a8cf894b88891cf3cf10caa
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_62
@@ -890,7 +890,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 3f0c491ca814e074d9fbf5b8d22f03b1
+    spriteID: e5d9edecc8f79b247902c19284702ccf
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_63
@@ -904,7 +904,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: d4d009da7e76d1a47b7bceedba1d2eff
+    spriteID: c3516fa8ab0400a4480fb253c5d13cae
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_64
@@ -918,7 +918,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 19c0981e867bceb47a2a159b2f523b70
+    spriteID: 0170d9b9c5dcdf7429db52d79d2bc7c6
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_65
@@ -932,7 +932,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 623f8efead72aec458018f842f7249a4
+    spriteID: 31d7ec621cd69a34fb2511045234169d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_66
@@ -946,7 +946,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 15c201541308f5a4282473199776fdb1
+    spriteID: f80fef7672ee2334089827626f0ae340
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_67
@@ -960,7 +960,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 2cd98dccf2b00734399e9db02848aef1
+    spriteID: 885a4ead993daaf459bb645dbe5c9f9a
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_68
@@ -974,7 +974,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 6a44c66809db6c94eb8928fb02479100
+    spriteID: 01609c0d20fe0374ea6c7d812a8aa996
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_69
@@ -988,7 +988,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 80de5a2272f37d74b8ee9884322edcb0
+    spriteID: 4453b2b96c11d0949a4974714284dea2
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_70
@@ -1002,7 +1002,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 2d212f3f4fc393740a86d2485620113c
+    spriteID: 20f741807a006a940ad67075398381f8
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_71
@@ -1016,7 +1016,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: ebe6c5eb3e3ad2b46b3998e3c39a1be0
+    spriteID: 57bd000ba2e85c1428ca0327224d1ac6
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_72
@@ -1030,7 +1030,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 129c28c7fb9a2074a8a3af1f63000965
+    spriteID: dd01aa7129c105f48b7c1bdfcad3cc62
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_73
@@ -1044,7 +1044,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 1d5822a8420c24940b51b35c70b28193
+    spriteID: 033a07c48524ee446b6ba156f6e6d694
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_74
@@ -1058,7 +1058,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 7255c0dd8551d51438450e414426cabe
+    spriteID: 5da4e1e3a9439454f8dad8bf7afeb461
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_75
@@ -1072,7 +1072,7 @@ ScriptedImporter:
       y: 106
       width: 12
       height: 16
-    spriteID: dda0d6de919eb29438c931ccbf6bf201
+    spriteID: 883dade0b0bea6747a913b37ace9ebdc
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_76
@@ -1086,7 +1086,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 0fc55c908c5db8c4e8590e1bbbc23645
+    spriteID: 90824f1fa3ce5334f99d6d12b592f897
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_77
@@ -1100,7 +1100,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 3528d331ffcd51c49bf7bfc2376f7f0e
+    spriteID: 2a999d01950a6ef4b980cac1e8871c0a
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_78
@@ -1114,7 +1114,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 89eb0f72ee89cd44cbad6f65c556ef6e
+    spriteID: e433e12bde316be4a8cdfcb6fbeac318
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_79
@@ -1128,7 +1128,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 86a7c86325865314185cba578c563c42
+    spriteID: 042a6dc683e249f42ab79a0692494b8b
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_80
@@ -1142,7 +1142,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 1e226f3329b07694f86c49b6aa887b7b
+    spriteID: c3bd831191793904a8601ac873b62299
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_81
@@ -1156,7 +1156,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: fdc536d336d9b184f811a7efd0acede6
+    spriteID: 8340f6721cad660489402636d23b2c35
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_82
@@ -1170,7 +1170,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 12a750c6ace1fd94d85a78af92023066
+    spriteID: 4cc26ec6fc4449f408cfb74a96c32306
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_83
@@ -1184,7 +1184,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: e965c716b3b488340b971ad805593590
+    spriteID: 0ef5eb075899c874e8450c019e8c28e2
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_84
@@ -1198,7 +1198,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 2babf9b7b5052b6409f3e4605c070f68
+    spriteID: 2d6f533015fe6b84386edde319ac1d8f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_85
@@ -1212,7 +1212,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: d4fa95ea6b15b4f4f97d3e676ca13bf8
+    spriteID: 5f6e5ad8c9e89d14dbfd923c7bf1ca82
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_86
@@ -1226,7 +1226,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: a667f8ffbb88ee143bc1427347bb1581
+    spriteID: f3441da342d12ce42be40eea73fda98f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_87
@@ -1240,7 +1240,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: fc271e269313a1a4fa24b06c7ea606f0
+    spriteID: d333098f5322ac44c95fdc5e1989188d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_88
@@ -1254,7 +1254,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: f537d76c34e66364bbf7c8e591b6f522
+    spriteID: 2803e5632ded17d419239f5714de8faf
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_89
@@ -1268,7 +1268,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 699d10f876a317047adfef7e3e99c549
+    spriteID: 882279a66cde0fb48a3eaa6915f7e5c1
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_90
@@ -1282,7 +1282,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 86f963231aa0e2846930f5b042d28971
+    spriteID: 9e75345b9e46dad4f83de6f0c99603eb
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_91
@@ -1296,7 +1296,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 253a4f9cbfeb8624e961befebee2d96d
+    spriteID: 39784e7cc95704442b711e89fc018ceb
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_92
@@ -1310,7 +1310,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: c091fb899cec04943a53a50c58930d3b
+    spriteID: 5b52023610294a94e81421e6ec34511b
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_93
@@ -1324,7 +1324,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: be53014ffe3f4194895dfccd3688eed1
+    spriteID: 872d8388c6c5e184e80339e69e9ba5e3
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_94
@@ -1338,7 +1338,7 @@ ScriptedImporter:
       y: 90
       width: 12
       height: 16
-    spriteID: 758d154046277bd4bb1a121e60a91f8e
+    spriteID: a9a8a84112186244192b0b3331e64426
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_95
@@ -1352,7 +1352,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 9e2339b4d7c5bd348b720147698fc823
+    spriteID: 3cdc840cab36f4b44b7f3efb9434a033
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_96
@@ -1366,7 +1366,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: a539e3a0a940d334b8f700a805cb8e70
+    spriteID: d0bb86ab07c68284fb4ea822b34e4679
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_97
@@ -1380,7 +1380,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 5e8a5eaa7b516df4bb26a6a370b11e1e
+    spriteID: 49b474514ee7fe744bb60ec7d27deb57
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_98
@@ -1394,7 +1394,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 7ee87b956e6aa5b40a5d0af9f3cf3696
+    spriteID: 0f2ccc29194e467448c137d98b3ef236
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_99
@@ -1408,7 +1408,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: a1ad2ece214a8a74aad1dba939f3418b
+    spriteID: 90d885686c89f27478f4896682559369
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_100
@@ -1422,7 +1422,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: d11a383b1a823f843b5b2209fbfa009c
+    spriteID: 894077a36a574574290d0791d8e96478
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_101
@@ -1436,7 +1436,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 8d5d855ca1f5e1940b990e2fdd2432e9
+    spriteID: 5242a391246b64647ac9af523f3e45db
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_102
@@ -1450,7 +1450,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: c53c9d63120fc354180a0c5977a2486b
+    spriteID: 3081340f5194713418902fd375058c5c
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_103
@@ -1464,7 +1464,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 3d0b9057d53dd194883cf0dd46944609
+    spriteID: 779f020feca3d0b478adc59a03e0ad01
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_104
@@ -1478,7 +1478,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 926c8cf3d89dbd94d9ecba29fc62f4d2
+    spriteID: 0f777c4274b73b240a89af134a60ce25
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_105
@@ -1492,7 +1492,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 4309262f987841744922abff1be31072
+    spriteID: f54462327897b0542ba23d6d14297d6d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_106
@@ -1506,7 +1506,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 9a52bbe9f1fca2842a4116f8e07419ec
+    spriteID: d7e93e44f956c3b41a666327b4cfe114
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_107
@@ -1520,7 +1520,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 35470a0a301bfa64685e8ddf6645fe7e
+    spriteID: 980b61f9f37074049be825be5cafed43
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_108
@@ -1534,7 +1534,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 8b7a5f7c54115134388aec5d99ca4dda
+    spriteID: cf2b598a7d9a462409ca1a3edee74d63
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_109
@@ -1548,7 +1548,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 07a03c7225d4f144dbc3f7dd7de599ff
+    spriteID: 5b7e83118e6433348927f05c8f910c25
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_110
@@ -1562,7 +1562,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: f9cbae0250fd52a4f871972e21093cab
+    spriteID: e680756c46e40c242990df01115696b6
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_111
@@ -1576,7 +1576,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 253aecbeec8fcd44c842b50b2c2839e9
+    spriteID: 7497af350c1df854f901ba80e58237e5
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_112
@@ -1590,7 +1590,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 1dd6a5bebca8bdc4ea1b608de721ede5
+    spriteID: 768480b1c65c5714c9eeda701eca561f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_113
@@ -1604,7 +1604,7 @@ ScriptedImporter:
       y: 74
       width: 12
       height: 16
-    spriteID: fbc4243188b56c94d9db8decc926efd6
+    spriteID: eb1ab69d0eee7794f960c164a411539a
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_114
@@ -1618,7 +1618,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 12c4d359cf303694ba8aabfa2f90f1a8
+    spriteID: 9fca6f1a584d54f48a42f411361e9b49
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_115
@@ -1632,7 +1632,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: fa02fed19946e154fa2fcb691d7e1909
+    spriteID: e52de8461ac5f664ab91c5ba32a32cf6
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_116
@@ -1646,7 +1646,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 5299d28d0a83cb64e9d9f890239ff5de
+    spriteID: 05a641cd9ce17434399318bcaa08f2d9
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_117
@@ -1660,7 +1660,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 8c5d484f58263494db1a965a628f738e
+    spriteID: d25b1a1bf9d698749b9bedb3e7510fcb
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_118
@@ -1674,7 +1674,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 6277593c49facb14389a739f57aadffc
+    spriteID: 9300e8076e189b94db189d914b4da5df
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_119
@@ -1688,7 +1688,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 10227103ff52f8f48917d45132dae23d
+    spriteID: d0a49067cff626445843f564a8a0c183
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_120
@@ -1702,7 +1702,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 6bdec2bce248ce14e86445f70615789f
+    spriteID: e4a1845e18414ef4e9a01e618cb631d6
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_121
@@ -1716,7 +1716,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 2ecbc19021afcde4790742cc378e5ff4
+    spriteID: 5cf5adac5422005448e69ab0bb7344d7
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_122
@@ -1730,7 +1730,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 2b9b912b1de8d604cad81b7e886c0f0c
+    spriteID: 14e31d90b01b5814b8956f8845e02b8c
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_123
@@ -1744,7 +1744,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: ab099827c368c7347bcd5927a15f1cdf
+    spriteID: 14eb077966935394ab24c549f3f0fa6e
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_124
@@ -1758,7 +1758,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: cdb09609c64222f4e9c4e70409af21c6
+    spriteID: ed6462ce41793084590c64e0a75ae9f2
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_125
@@ -1772,7 +1772,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 3dd078631bf7a7547ace0fa273128d29
+    spriteID: dfcf42bccd30df143a7b2c9e486b1750
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_126
@@ -1786,7 +1786,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 54896a25fff7d774184f3f36cb8ad976
+    spriteID: a1c2e86972f2e4a4a95a08b10b037e30
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_127
@@ -1800,7 +1800,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: afe334af172c307498417aaf8915dcf7
+    spriteID: 842ed7121d47d5b4cbf437dafd792496
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_128
@@ -1814,7 +1814,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: c171a72469ab06d4fa18952851ce2a8b
+    spriteID: fe9973b98f4772947be91a8e1848d6c2
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_129
@@ -1828,7 +1828,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 397238d8e40d47643950b2d077007d25
+    spriteID: b8b67b7ea9d83714483f96127f3218fb
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_130
@@ -1842,7 +1842,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 2f8ba6527f3e5c248a86b95e0f3f9129
+    spriteID: 920f07ccbf7eece48aa65e5a30e685fa
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_131
@@ -1856,7 +1856,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: bdef414e526de844cb97cd5b0e8690c7
+    spriteID: 626710f6aeae5534a877bfc8166adb7c
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_132
@@ -1870,7 +1870,7 @@ ScriptedImporter:
       y: 58
       width: 12
       height: 16
-    spriteID: 666fb4b5253e8894cbdbc7c4a182c013
+    spriteID: c28df6aec0ee92f498630fdbeae76a2f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_133
@@ -1884,7 +1884,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 6027c6eceefd1fb4f9f47cd65074861b
+    spriteID: b40b0c537b94fa146af34ad84f7e5feb
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_134
@@ -1898,7 +1898,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 841f7d7d9d546ed4da58ef912a633d37
+    spriteID: c8cd6ff8c1ae63549b114b064acd4894
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_135
@@ -1912,7 +1912,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 13778b4cdafb2284c93987651fe64809
+    spriteID: 260af0f5379bebc45855b2f33c19a0dc
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_136
@@ -1926,7 +1926,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 005740611dba9c740aaa39dfd0b89ff8
+    spriteID: 9fa1e72d5336eea4f85b1721f32e13e7
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_137
@@ -1940,7 +1940,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 30989fd4081cbf549ab5bcfdd12cce05
+    spriteID: ea74dafcdb83f274998fa45b06a9e74d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_138
@@ -1954,7 +1954,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: dd9725b3d99711448aaf36f66453fdb6
+    spriteID: b4068cf3bbea7b4408ffa97ea4d0ea4b
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_139
@@ -1968,7 +1968,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: e40fc6fd9ff6bc74f9be75019a79aca2
+    spriteID: 06090ad809b0d7849a7c619ec7573c92
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_140
@@ -1982,7 +1982,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: a867bcc0a03591b41aefcad1528da465
+    spriteID: 98a3e0dc27f8b9a48970b5d2fdff5f30
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_141
@@ -1996,7 +1996,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: e58f7247f55c5ae48a2f2402b254272d
+    spriteID: 5dab5aa9f75688245b4b3429c3c17597
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_142
@@ -2010,7 +2010,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: ceb0def197961dd49ba002ce5fa0c640
+    spriteID: 80ea37fd49161b14780ea80cf24167d4
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_143
@@ -2024,7 +2024,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 6295f154b0b437d418a18d53d8fdf918
+    spriteID: 474b99016cedb294290a0a77ffa3718d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_144
@@ -2038,7 +2038,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: c8ba27d5d575d4a4fb5a18689c77221f
+    spriteID: d496e8e67d219ac41b78a1c5ff60de61
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_145
@@ -2052,7 +2052,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: b1a46d37aea51e24985d0a33df367665
+    spriteID: 59051c009113045439b0b132959e2159
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_146
@@ -2066,7 +2066,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: db0e9cf3b4c467e458851d939bfdbda6
+    spriteID: fd84a69829f12d64b80fe75ce6a257f1
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_147
@@ -2080,7 +2080,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 48957355af352e243a14642157dc2307
+    spriteID: 26a30e6a70523ba44a4a1e1d7c3e614d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_148
@@ -2094,7 +2094,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 4fafb61b3a22d9944a1010d6718fb4ae
+    spriteID: bbafba788ecd95a448d82486e72b8108
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_149
@@ -2108,7 +2108,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 627c506effb89dd4d938ca8d0be6543d
+    spriteID: 32460b184657b9f4e9e472d34452c2b9
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_150
@@ -2122,7 +2122,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: cb9bea34c7d8a154cab8d608259c66d3
+    spriteID: ea259d5ed36391044bcde0bec54b14dd
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_151
@@ -2136,7 +2136,7 @@ ScriptedImporter:
       y: 42
       width: 12
       height: 16
-    spriteID: b575ab87f939cbf43babf72906212017
+    spriteID: 278f3f3c658d486498f778423a0045e3
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_152
@@ -2150,7 +2150,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 28594a4ee50b9a840b034c2800970a2f
+    spriteID: 80b444fdde9177543bbd1f00c10381ef
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_153
@@ -2164,7 +2164,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 7bb44921925064e4694238dba0084992
+    spriteID: b15dc7ac892c3594186d5ddf37ada37f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_154
@@ -2178,7 +2178,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: c108e0cee65d5934fb1bf3455c02fad4
+    spriteID: 48ae50cf608f9a04a9ad0e58e972a91d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_155
@@ -2192,7 +2192,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: e768e67b439bf7d4b903292e8126835a
+    spriteID: 9a650de4f9184114c9f0d60a1753c724
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_156
@@ -2206,7 +2206,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 06c11b4af2381884fa4414c48ee934fd
+    spriteID: c8bf6071ef7d2c4419e59738f3afa55f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_157
@@ -2220,7 +2220,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: a75f18982b04f8949b3215fc6fa6657c
+    spriteID: c63822260805ca8408b15a9d65208f9d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_158
@@ -2234,7 +2234,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 168fe5274f5c124439af588e33d8a99c
+    spriteID: 2a6a96fad9a1b4b4b9fc6fdd95ffed0b
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_159
@@ -2248,7 +2248,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 04e7f73b0dd6fa14d9794640037f842f
+    spriteID: 525e754c6a6e3004e8a328ded165d605
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_160
@@ -2262,7 +2262,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 03f28e54f677230438a7b0a1afc7d0c1
+    spriteID: 619c4122f8fbb4b4fa2b7abe30615afc
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_161
@@ -2276,7 +2276,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: f35c38eaa1355534fbbe8491b16c4496
+    spriteID: d4f22aaaaef74e34f83f737a5b89e046
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_162
@@ -2290,7 +2290,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 5de6864cede88b9418ce5b6583a23d95
+    spriteID: 857e7c0cbfed4ab4a93a2f3e079ba964
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_163
@@ -2304,7 +2304,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 6ef811d1dd8fcdc42942bbfb9862d1b1
+    spriteID: 520b55f8da6aab943855e0f4fc299b8d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_164
@@ -2318,7 +2318,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 38f45324e88430b4bbe33a504d7a0343
+    spriteID: 10ffc43c990ca09449e464d139f4e3fc
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_165
@@ -2332,7 +2332,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 79203018b3ed6ee43b6b9e07b546421f
+    spriteID: bcaa351df1f54d447988b821c3504054
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_166
@@ -2346,7 +2346,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 88b37c06dfa6e6e4491884f921f7a3c3
+    spriteID: c29f0a84da8b35646a3949c97ded326a
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_167
@@ -2360,7 +2360,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: a2468ae9fe1eec849895ef378fd757c0
+    spriteID: fcb542234a87cd741bbc686646521a2b
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_168
@@ -2374,7 +2374,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: ae97ee0357095c242aa039f59c32a2ee
+    spriteID: a54c28df6d6d58844ae2f1ffbe18a4fd
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_169
@@ -2388,7 +2388,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: fbee3b0083cc25945b951ab8e6c38c54
+    spriteID: a467a749038739a47a8b78137a56847f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_170
@@ -2402,7 +2402,7 @@ ScriptedImporter:
       y: 26
       width: 12
       height: 16
-    spriteID: 5c5052e177ac0b64db95aaf139dd7084
+    spriteID: 3ff96ee30cede73479f20dfa48754b7d
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_171
@@ -2416,7 +2416,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 60552404a1c16fd4f82464568ce0db02
+    spriteID: d59c49f88678ca345902477267e06b2b
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_172
@@ -2430,7 +2430,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: d712f5a180bda10458d41fcbf4f33f17
+    spriteID: 80586d4d2d346d24a9decc4c30db7b6b
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_173
@@ -2444,7 +2444,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: fffc5b8a4a01790489b3d775855f40ce
+    spriteID: 6d01a796949ff3349ab655b98a2162dd
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_174
@@ -2458,7 +2458,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 4eed3768c309612429db0ce1e7323eed
+    spriteID: cbe2ce164f007f94ca06f84ba7e41212
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_175
@@ -2472,7 +2472,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 58041355fd1026540855e9cb0e08b241
+    spriteID: 3e8984c021dd4084ab66dfb1b0668dff
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_176
@@ -2486,7 +2486,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 7fdcb7a4be3c7634aaf8a6ccb45e6902
+    spriteID: 0a8a37a1dc194b54b98044574c29bba6
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_177
@@ -2500,7 +2500,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 0c42c2574cc46364d8e5a63637eb2548
+    spriteID: 29fdd52443a79334d833491dacd3921a
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_178
@@ -2514,7 +2514,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 48d28f551e971e7479ae0c3318b18e45
+    spriteID: 3121cb42613e3e741a43cb3de9a2669c
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_179
@@ -2528,7 +2528,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 8db4362c81208a3448aced99b005fb21
+    spriteID: dab113b535377074c93538fe8bf2f92f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_180
@@ -2542,7 +2542,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 87de4d9286998754a9f1321efa57f1ad
+    spriteID: 0061a73f4304caf46a2a59a0bef83dfb
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_181
@@ -2556,7 +2556,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 215934f26f347204ab3c605ef1ae9ef4
+    spriteID: bf3fde6216dba5c4eb3ef74f487133ed
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_182
@@ -2570,7 +2570,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 4c8f1a17aa32c264dbbf2390f693ef11
+    spriteID: b98f17b25b89f4f439d6899c33102d1e
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_183
@@ -2584,7 +2584,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 53f4628e83212c34faba130cf7f8ffdb
+    spriteID: 1104ec101b47eff4d8f1e64335f42c56
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_184
@@ -2598,7 +2598,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 456cafd3b0810f44dbd725c962c218ee
+    spriteID: cc247155620722441a67e3316466fb44
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_185
@@ -2612,7 +2612,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 83087d9e9630aee4ca28be47c0efc2c0
+    spriteID: 8b3602a4b3c09524da17bfbc6b4e6f97
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_186
@@ -2626,7 +2626,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 010a0ed900b7fb34ba7808651ff5c372
+    spriteID: b055ded2d145fdb40a944f40ac7e21f6
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_187
@@ -2640,7 +2640,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: d6fea80b429a4944b9d3663c4165cc5f
+    spriteID: 343b6979114d9614d86b6638689759d7
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_188
@@ -2654,7 +2654,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 1dbfe00f1c24f8840bb4d4906c6fbad0
+    spriteID: 1b1e5b7e8ac1ec74abe5dec3dcc15dc1
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_189
@@ -2668,7 +2668,7 @@ ScriptedImporter:
       y: 10
       width: 12
       height: 16
-    spriteID: 6b87d63818062b8458cc8abd63069ba8
+    spriteID: a26fc3d8bb3361b47bda068e9dea6114
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_190
@@ -2682,7 +2682,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: b68e00da0e3c6d54397091adcd740f13
+    spriteID: 1e9b3144e988d49458d0c0c80ebdea35
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_191
@@ -2696,7 +2696,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 15449a679edb0794c8b99c1e8b46aafa
+    spriteID: a40cc7443af1b5f4a8f5ba29c8cbadf2
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_192
@@ -2710,7 +2710,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 70ca00da96f4ddc40bbdad5ffa959fa0
+    spriteID: b5c559ee8658a1c4cab1f71f313a2ade
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_193
@@ -2724,7 +2724,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 6bd6c7794ed6a4247969c81430f2a829
+    spriteID: 5421fcef51c85ff4cbcc7f0b38973efe
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_194
@@ -2738,7 +2738,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 6682b79890cbfb94fb56943a38d10b64
+    spriteID: c262cfdb73a8fc547b75c5bd8383c20b
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_195
@@ -2752,7 +2752,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 1795ffd5dab0eda4f8ec240704c21d34
+    spriteID: 708d45f8107c6b64795567c7df1d3ae7
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_196
@@ -2766,7 +2766,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 3c838c372fc8c6e419ade25d8fef9560
+    spriteID: 6bcbc41b1f6acbc4e81f1836bd8744fc
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_197
@@ -2780,7 +2780,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: f19e2610222b69f459bb2c62d7b3acff
+    spriteID: 57498b4cfb1240f4ca0ffc2f45e32b11
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_198
@@ -2794,7 +2794,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 343567db0b1edb0439aaae1be49060bb
+    spriteID: 4ddb6ed74aa3e12498b3f2de5c014e70
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_199
@@ -2808,7 +2808,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 24e9faae97b640f428cb913ebe13bc78
+    spriteID: ed413a704c450b942b6aafcffc8f6784
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_200
@@ -2822,7 +2822,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: edf4c5bf7f128a949b5fcfbd17645f85
+    spriteID: d26b206980a4d144197b0473735bbfba
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_201
@@ -2836,7 +2836,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 24e9b54bfa603a34fb0e2180c7bc59fd
+    spriteID: 548860697ced9744289d93958c97d688
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_202
@@ -2850,7 +2850,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: b5c055ed52855fd43a7b95868c1a8b41
+    spriteID: b73eecf64b54556478463a8c3570f7f2
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_203
@@ -2864,7 +2864,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 2173d20d4badc164ca1b4d197c5debb3
+    spriteID: 376b871c9e413bd4e934ed0c7e4493b2
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_204
@@ -2878,7 +2878,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 8c4f899aa158a474d8867e5b4b1196bb
+    spriteID: 306611a633f2ebc4eb42daffb07e8e9c
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_205
@@ -2892,7 +2892,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 803a5f322b7767241bbac1f24443e091
+    spriteID: 7f165d35c61dead4fb7a0ed16a10b221
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_206
@@ -2906,7 +2906,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 5b5e97424709bd346bb9b27c0ec19e78
+    spriteID: ded112df263388d4a8d0ef960853bd0f
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_207
@@ -2920,7 +2920,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 13a01dbdefdd7cf40a1e5e44a8c4cbed
+    spriteID: 195601ebb0f61f142a3277d1f3dd78a5
     spriteOutline: []
     tessellationDetail: 0
   - name: _Lamp_208
@@ -2934,7 +2934,7 @@ ScriptedImporter:
       y: 0
       width: 12
       height: 10
-    spriteID: eb63d66bdf0d8b041acdfad0a5134c74
+    spriteID: a03c486fbe686944683789dea406c4c3
     spriteOutline: []
     tessellationDetail: 0
   _secondaryTextures: []

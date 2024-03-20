@@ -39,7 +39,8 @@ namespace Script.Game.Object.Player
         private KeySettingManager _keySettingManager;
 
         private SAL _sal;
-        
+        public bool isEnd;
+
         private void Awake()
         {
             _sal = GameObject.FindWithTag("Global").GetComponent<SAL>();
@@ -55,13 +56,14 @@ namespace Script.Game.Object.Player
         {
             LoadData();
         }
-        
+
         //保存数据用Trigger方法
         public void SaveData()
         {
             //todo 完成玩家阶段储存
             PlayerData.Hp = _hp;
             PlayerData.PlayerPosition = transform.position;
+            PlayerData.IsFinish = isEnd;
             _sal.Save();
         }
 
@@ -71,11 +73,13 @@ namespace Script.Game.Object.Player
             gameObject.transform.position = PlayerData.PlayerPosition;
             _hp = PlayerData.Hp;
         }
+
         private IEnumerator JumpCoolDown()
         {
             yield return new WaitForSeconds(0.2f);
             _isJumpCooling = false;
         }
+
         private void JumpTime()
         {
             if (!canJump && Input.GetKeyDown(_keySettingManager.GetKey("Jump")) && !_isPreJumpEnable && !_isJumpCooling)
@@ -106,25 +110,27 @@ namespace Script.Game.Object.Player
 
             //玩家开始下落（达到高度峰值），完成了完整跳跃
             if (!(_rigidBody2D.velocity.y < 0)) return;
-            
+
             jumping = false; //物体开始下落就设置为false
             _rigidBody2D.gravityScale = fallGravityScale;
         }
 
         private IEnumerator JumpAnimationTimer()
         {
-            _animator.SetBool(Jump1,true);
+            _animator.SetBool(Jump1, true);
             yield return new WaitForSeconds(1f);
-            _animator.SetBool(Jump1,false);
+            _animator.SetBool(Jump1, false);
         }
-        
+
         private void Jump()
         {
             jumpingSource.Play();
             canJump = false;
             _isCoyoteTimeEnable = false;
+            //经典力学公式
             var jumpForce = Mathf.Sqrt(jumpHeight * (Physics2D.gravity.y * _rigidBody2D.gravityScale) * -2) *
                             _rigidBody2D.mass;
+            //左右登墙跳
             if (leftWallJump)
             {
                 _rigidBody2D.AddForce(Vector2.right * 2000f);
@@ -149,7 +155,6 @@ namespace Script.Game.Object.Player
 
         private void OnTriggerEnter2D(Collider2D other)
         {
-            
             if (other.gameObject.tag.Equals("Wall"))
             {
                 if (_preJumpTime < preJumpTimeMax && _isPreJumpEnable && !leftWallJump && !rightWallJump)
@@ -188,10 +193,11 @@ namespace Script.Game.Object.Player
         {
             var temp = _rigidBody2D.velocity;
             //玩家冲刺限速
-            temp.x = _dash.isDashing ? Mathf.Clamp(temp.x, -50, 50) : Mathf.Clamp(temp.x, -5.5f, 5.5f);
+            temp.x = _dash.isDashing ? Mathf.Clamp(temp.x, -50, 50) : Mathf.Clamp(temp.x, -6.5f, 6.5f);
             _rigidBody2D.velocity = temp;
         }
 
+        //土狼时间trigger
         private void CoyoteTime()
         {
             if (_coyoteTime > coyoteTimeMax)
@@ -199,7 +205,7 @@ namespace Script.Game.Object.Player
                 canJump = false;
             }
         }
-        
+
 
         private void FixedUpdate()
         {

@@ -7,7 +7,6 @@ namespace Script.Init.UI
 {
     public class Tip : MonoBehaviour
     {
-        //todo 加载场景Tip
         private List<string> _tips = new();
         private TMP_Text _tipText;
         private void Awake()

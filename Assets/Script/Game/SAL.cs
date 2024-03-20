@@ -12,7 +12,8 @@ namespace Script.Game
         private static string _json;
         private static string _filePath;
         private Player _player;
-        public  PlayerData PlayerData;
+        public PlayerData PlayerData;
+
         private void Awake()
         {
             DontDestroyOnLoad(gameObject);
@@ -26,31 +27,38 @@ namespace Script.Game
             }
         }
 
+        //强加载玩家数据
         public void InitLoad()
         {
             _json = File.ReadAllText(_filePath);
             PlayerData = JsonConvert.DeserializeObject<PlayerData>(_json);
         }
-        
+
         public void InitPlayer()
         {
             _player = GameObject.FindWithTag("Player").GetComponent<Player>();
         }
+
         //数据保存Trigger方法
         public void NewGame()
         {
             PlayerData.PlayerPosition = Vector3.zero;
             PlayerData.Hp = 3;
             PlayerData.Scene = 0;
+            PlayerData.IsFinish = false;
             _json = JsonUtility.ToJson(PlayerData);
-            File.WriteAllText(_filePath,_json);
+            File.WriteAllText(_filePath, _json);
         }
+
+        //保存玩家数据
         public void Save()
         {
             _player.PlayerData.Scene = Init.Init.Scene;
-            _json =  JsonUtility.ToJson(_player.PlayerData);
-            File.WriteAllText(_filePath,_json);
+            _json = JsonUtility.ToJson(_player.PlayerData);
+            File.WriteAllText(_filePath, _json);
+            InitLoad();
         }
+
         //数据加载Trigger方法
         public void Load()
         {

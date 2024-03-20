@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.Rendering.Universal;
-using UnityEngine.Serialization;
 
 namespace Script.Game.Object
 {
@@ -26,6 +24,7 @@ namespace Script.Game.Object
             }
         }
 
+        //亮度缓慢增加
         private void LightOn()
         {
             if (light2D[0].intensity < targetIntensity && _lightOn)
@@ -35,6 +34,7 @@ namespace Script.Game.Object
             }
         }
 
+        //亮度缓慢降低
         private void LightOff()
         {
             if (light2D[0].intensity > 0 && _lightOff)
@@ -44,6 +44,7 @@ namespace Script.Game.Object
             }
         }
 
+        //复位
         private void OnEnable()
         {
             transform.position = startPoint.position;

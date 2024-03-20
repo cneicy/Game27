@@ -4,7 +4,7 @@ namespace Script
 {
     public class ScreenAspect : MonoBehaviour
     {
-        public static float TargetAspect = 16f / 9f;
+        private const float TargetAspect = 16f / 9f;
         private Camera _mainCamera;
 
         private void Awake()

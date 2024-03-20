@@ -8,8 +8,8 @@ namespace Script
 {
     public class KeySettingManager : MonoBehaviour
     {
-        public List<KeyMapping> keyMappings = new(); // 存储键位设置的列表
-        public string filePath; // JSON 文件路径
+        public List<KeyMapping> keyMappings = new();
+        public string filePath;
 
         private void Awake()
         {
@@ -18,7 +18,7 @@ namespace Script
             LoadKeySettings();
         }
 
-        // 加载键位设置
+        //加载键位设置
         private void LoadKeySettings()
         {
             if (File.Exists(filePath))
@@ -28,32 +28,33 @@ namespace Script
             }
             else
             {
-                // 如果文件不存在，则创建默认键位设置
-                keyMappings.Add(new KeyMapping("Jump"  , KeyCode.K));
+                //如果文件不存在，则创建默认键位设置
+                keyMappings.Add(new KeyMapping("Jump", KeyCode.K));
                 keyMappings.Add(new KeyMapping("Attack", KeyCode.J));
-                keyMappings.Add(new KeyMapping("Dash"   ,KeyCode.L));
-                keyMappings.Add(new KeyMapping("Left"   ,KeyCode.A));
-                keyMappings.Add(new KeyMapping("Right"  ,KeyCode.D));
-                keyMappings.Add(new KeyMapping("Up"     ,KeyCode.W));
-                keyMappings.Add(new KeyMapping("Down"   ,KeyCode.S));
+                keyMappings.Add(new KeyMapping("Dash", KeyCode.L));
+                keyMappings.Add(new KeyMapping("Left", KeyCode.A));
+                keyMappings.Add(new KeyMapping("Right", KeyCode.D));
+                keyMappings.Add(new KeyMapping("Up", KeyCode.W));
+                keyMappings.Add(new KeyMapping("Down", KeyCode.S));
                 SaveKeySettings();
             }
         }
 
-        // 保存键位设置
+        //保存键位设置
         private void SaveKeySettings()
         {
             var json = JsonConvert.SerializeObject(keyMappings, Formatting.Indented);
             File.WriteAllText(filePath, json);
         }
 
-        // 获取键位
+        //获取键位
         public KeyCode GetKey(string actionName)
         {
-            return (from mapping in keyMappings where mapping.actionName == actionName select mapping.keyCode).FirstOrDefault();
+            return (from mapping in keyMappings where mapping.actionName == actionName select mapping.keyCode)
+                .FirstOrDefault();
         }
 
-        // 设置键位
+        //设置键位
         public void SetKey(string actionName, KeyCode newKeyCode)
         {
             foreach (var mapping in keyMappings.Where(mapping => mapping.actionName == actionName))

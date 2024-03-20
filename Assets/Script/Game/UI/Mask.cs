@@ -11,6 +11,7 @@ namespace Script.Game.UI
         {
             _spriteRenderer = GetComponent<SpriteRenderer>();
         }
+        //缓慢变化alpha
         private void FixedUpdate()
         {
             if(_spriteRenderer.color.a<0) return;

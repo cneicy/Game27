@@ -7,7 +7,7 @@ namespace Script.Init
     {
         public enum Scene
         {
-            Level1, Level2, Level3, Level4, MainMenu
+            Level1, Level2, Level3, Level4, MainMenu, Credit
         }
 
         public static void Load(Scene scene)

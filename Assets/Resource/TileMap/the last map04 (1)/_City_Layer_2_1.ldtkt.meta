@@ -22,7 +22,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: c587cb3b91246bf45abc5b8fecdd7aac
+    spriteID: ac79cc0bf060cc24088f06c7c38dc49c
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_1
@@ -36,7 +36,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: d1874c6cff3d26845b9cbbfee89b02ac
+    spriteID: d272506644302ff4a97c66d17cf28086
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_2
@@ -50,7 +50,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: e96e1285a62739c4b9b14afb35128a4c
+    spriteID: 7416003e0b308dc478acda81d53e3fe5
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_3
@@ -64,7 +64,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 57c12be9b4888b249a95ac4137fda106
+    spriteID: 76e6a28a88ed45a47a9fb0dc43014741
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_4
@@ -78,7 +78,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 1a5d9c6b28b93ce4ab74f29d5a463e1f
+    spriteID: 830a799f50eeff84a82f9724b8f031ed
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_5
@@ -92,7 +92,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 6520fb524df2a0a44ae9ae30fe2ef185
+    spriteID: da287213864f93c4a9255fa053d3f3ee
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_6
@@ -106,7 +106,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: f7e1398f931f52c458e517ad20831e66
+    spriteID: 0d1d2456cfb0b4b4986e4cdc7c0ea3b8
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_7
@@ -120,7 +120,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 3d4544cc611c69247b321b428aedca5d
+    spriteID: 46b2fe22cb5e3f146ab32b5ae8ae653e
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_8
@@ -134,7 +134,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: b3ec55112446f6145b9d7bee072fc5f7
+    spriteID: 973cde15ea58b6341a3074f397bb3949
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_9
@@ -148,7 +148,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 089f877d178bdea4daa957a9217a1870
+    spriteID: 7b405d6ef6dc74546840d8d24909cfb5
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_10
@@ -162,7 +162,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 77fc1645adb83834fb79518fce42fc3f
+    spriteID: e6fdf8592c711754db637882da0343d3
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_11
@@ -176,7 +176,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 7e0a19b535c0bf948982cac23b720fda
+    spriteID: f56d7c5c8b004c249ba4cb29c96013af
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_12
@@ -190,7 +190,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 3a3e20d4cebf17e48bc228d7c587672f
+    spriteID: 0c3b49b0853a89b46980a6a7a7f42a8e
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_13
@@ -204,7 +204,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 5ac1c802c9f833b4780c2fdece310a5e
+    spriteID: 3645c86d71a58814481770ddd085d056
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_14
@@ -218,7 +218,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 58ce0b971467ddf4db74a91aece85adf
+    spriteID: 884a5f2441ae9df4898aa61dc93be47c
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_15
@@ -232,7 +232,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 2f9745ed200b3d34f9a5fb650983a271
+    spriteID: 68afe026b4b8b194daea270fc96461e1
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_16
@@ -246,7 +246,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: 897765de1f2bef24da632d723628a1c7
+    spriteID: c7731542496462247a4a84aa59c62f69
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_17
@@ -260,7 +260,7 @@ ScriptedImporter:
       y: 154
       width: 16
       height: 16
-    spriteID: fe5df43765250a440b65707447aededb
+    spriteID: cd6f5a5775154f4459bbcef82bf61d2b
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_18
@@ -274,7 +274,7 @@ ScriptedImporter:
       y: 154
       width: 12
       height: 16
-    spriteID: bf5c9efa6d37ebc48a837597ab9b5c5d
+    spriteID: 3b987cfb630185141844b8070c25eae6
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_19
@@ -288,7 +288,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: cfd09d160e3f02147b2442dd2ad1badc
+    spriteID: 1a785074307379c4c90b1ff0f7064324
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_20
@@ -302,7 +302,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 0f299a9a48399074c9b500ff782720fd
+    spriteID: 6ac5e65600d57a142bbf8e70f9f4f631
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_21
@@ -316,7 +316,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: d65de0b8c456c1b4a8ca34cd8cb6533b
+    spriteID: 12d7b487f484fdb47862a539ccefacae
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_22
@@ -330,7 +330,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 94b4b3604a10ec147a3cd1a881a5c7ff
+    spriteID: 9c8cc327d14ebb4498664eecb8b3d8cd
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_23
@@ -344,7 +344,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: e2e00861acc5f8a4b8df16364b4bfca5
+    spriteID: 0d5c9327152ec25468be40f3bfbd63b5
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_24
@@ -358,7 +358,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 6ba3c171946abca4db529fa6c3044495
+    spriteID: 8e301d8d738239644953a9767d43d45e
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_25
@@ -372,7 +372,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 64ea00d6ce01bbc4ca37e158219ff283
+    spriteID: d8b46ca99557b8940b1226b53bdb9cbd
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_26
@@ -386,7 +386,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: ffe0c86e51d75534f8163003a32862e8
+    spriteID: 0aadf759529809f4db586013472d6aed
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_27
@@ -400,7 +400,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: bc4cd34d2bdad4a468ba0a359488792b
+    spriteID: 93dc50a37a2976f4f9b8fd31a652a451
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_28
@@ -414,7 +414,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 08e3938a1da23554c95fb77b8b1f58bc
+    spriteID: a11d3f506384f13489a3dceb0521ddb8
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_29
@@ -428,7 +428,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 9048e809915cbf04a80de3b955d5ba2a
+    spriteID: eb7d2b86cb77f12468f041d463cb5752
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_30
@@ -442,7 +442,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: d8bbb6919f95ef24e8bf824b34ffe32e
+    spriteID: 90190a12a9aa0b54b8a0c7a4cb230003
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_31
@@ -456,7 +456,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 5bf9a94d44f7a294485eb6520364ace4
+    spriteID: 0dce11afeecc760449f03cc4b9b2c6b0
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_32
@@ -470,7 +470,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 9ea0425453e9bfa44b1c6b31f7d0d41e
+    spriteID: e693ed0c3379ffa4995d0b5d80cf6b03
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_33
@@ -484,7 +484,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 80e54b7653ded904f86286488d194f88
+    spriteID: bfde318b9d0baa3469b5cbfb8f84877f
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_34
@@ -498,7 +498,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: d2954d575e8ba86429cc62f644a3386f
+    spriteID: 494186af4e6d95f4385b1c8bf6ee0235
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_35
@@ -512,7 +512,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: cfeddd4f85d85314ab0e9ff72a3e0189
+    spriteID: ad7ec702315c07e498b3c11dc46e23dd
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_36
@@ -526,7 +526,7 @@ ScriptedImporter:
       y: 138
       width: 16
       height: 16
-    spriteID: 516f63108adbbde42820d7e739f172b3
+    spriteID: 8bc9e1cbde0932a4e928345cba8f7bde
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_37
@@ -540,7 +540,7 @@ ScriptedImporter:
       y: 138
       width: 12
       height: 16
-    spriteID: 7b373fba8334f4d40a92a55f9f3e74d8
+    spriteID: 503edffe86bd2cd4e8e7dbc883c715ca
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_38
@@ -554,7 +554,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: b321c83ff75588e4db310a89ef50d0a7
+    spriteID: a90668ab0d2a0074bbaace3dcf7907cf
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_39
@@ -568,7 +568,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: c2f5118b509067742862681bb9f63a02
+    spriteID: bd25fbc7eda00494b97804d8ec1b2491
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_40
@@ -582,7 +582,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 3daf5a1f26c4e644faa7249205df2eee
+    spriteID: 5ccae0cf16c8d92438f510be58a2e91c
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_41
@@ -596,7 +596,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 03e3dc10b2b6105428d34819a096593a
+    spriteID: 198c2b0bae3a0784abfc59239e0c3a4d
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_42
@@ -610,7 +610,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 579e48d2e4f228b4a9d8d76a5fee70ab
+    spriteID: 941541a2ac129e6419692270d2293324
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_43
@@ -624,7 +624,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: ca841fc8a4748fa4981744227fa97fbe
+    spriteID: 32dcfe078091ae94292468c12fe1910d
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_44
@@ -638,7 +638,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: e25c1607b98fcac40a083cd25a564b54
+    spriteID: 0aae5da2ae9efeb4e8b8cf7df0ca1bed
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_45
@@ -652,7 +652,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 3e5e39913c0af5c48a8db757b71fc37f
+    spriteID: 6e3aa41cec01d43408959de582cccf0a
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_46
@@ -666,7 +666,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 625ecca641503e543b7c41f5006b4e2c
+    spriteID: 5ae83f5d737de2e4e91f0a2c0be48c6d
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_47
@@ -680,7 +680,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: e9fb615af003277459d1b7799ff3250d
+    spriteID: 322ea62295f3c9143ab906694b2270ea
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_48
@@ -694,7 +694,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 5ddef0d8e05094a41a7cef08be2fc70b
+    spriteID: 1636bf1561f0a4149a1ff4bf374e7c8f
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_49
@@ -708,7 +708,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 3a455118889a95044982013e1ab9f64b
+    spriteID: 9e42f9485991b164b9c9e66f5854c52f
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_50
@@ -722,7 +722,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 51d17806edbd142488c87e745c88943d
+    spriteID: 155b166fd06b2be4d9f5a5bd0d956a1d
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_51
@@ -736,7 +736,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 512094dfe1422ea408d5467629d97fd2
+    spriteID: 85acaec3ad5f0054eacf2e806ece5247
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_52
@@ -750,7 +750,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 962753f264de4be4b83953425bf027d9
+    spriteID: 10f446a00a7f2ab4aabf3723ed7e0894
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_53
@@ -764,7 +764,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 9ce7332a13ae6fe4ea27b92ee9603c8d
+    spriteID: 8f567b40b8248094b8122ff07e23603d
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_54
@@ -778,7 +778,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: fb24a079fbd2011429f0b0787d09d2ed
+    spriteID: 641ced5107a5b7743a1730020fe5e4ed
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_55
@@ -792,7 +792,7 @@ ScriptedImporter:
       y: 122
       width: 16
       height: 16
-    spriteID: 62a24c0a58e29ad49aa3a36b1aa2ceb3
+    spriteID: 54c89da80ce09e84fa43bcee8f968858
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_56
@@ -806,7 +806,7 @@ ScriptedImporter:
       y: 122
       width: 12
       height: 16
-    spriteID: a1f48f1238fe64b46be29737ed46cabb
+    spriteID: 43888f55798fe7448abaf2892f169691
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_57
@@ -820,7 +820,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: fcf95aedfaf9c7740b7875497cf676a9
+    spriteID: 876ad7300c2dd834c87cb4011e6b9a6a
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_58
@@ -834,7 +834,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: c924d8fc6fca03947b23a173d7d30161
+    spriteID: 3c9e2adda81253d43bf6de91f44d112c
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_59
@@ -848,7 +848,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: a8553cf34f85f9e40b010d341d4585df
+    spriteID: 1908f34c83d3b8d45bf42d42a0a7a4ee
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_60
@@ -862,7 +862,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: eac5bf00746d03d41baa22ba91bade76
+    spriteID: 4517d0da558cbf548938cc27770e4032
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_61
@@ -876,7 +876,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: a4ac1f626b4042e4eaa1b7e5e78c8a48
+    spriteID: b95b3000e0ee1904a8d54fa32a2ab863
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_62
@@ -890,7 +890,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: f6137b1b830d81c40b627f2a1bb72387
+    spriteID: 20af8baf28281d94195fd7a3341f165b
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_63
@@ -904,7 +904,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: c9308d0aa1c92674f9bf9e5c32928920
+    spriteID: 3456e942d431b104caf48d688b41a2e4
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_64
@@ -918,7 +918,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 2306206cca8acb942a574d7d0aadd7a9
+    spriteID: 3ed529a3a436a43428f3a2599c3ff8a6
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_65
@@ -932,7 +932,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 0ee42a12b153f44488f933dce1ee7236
+    spriteID: ed479380ca65791489a2e75f1e1dcad2
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_66
@@ -946,7 +946,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 0447304c22c495d4eb93ee7defda1c8c
+    spriteID: e352db28d4ba0d040a80cb670f2b40fb
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_67
@@ -960,7 +960,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 6cfdd158d938e814bb23e956da1b9db0
+    spriteID: de5714bcf2b5d7248a315124aba7f982
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_68
@@ -974,7 +974,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 810054245fe48934d85f7d20bfc0a4d4
+    spriteID: ca8c86923f8ee674daf6f82a6c20e08b
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_69
@@ -988,7 +988,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 1e9e7ede884ce8144b4bbf19e36340f8
+    spriteID: b723d862f7b21b942a9d428955c6c399
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_70
@@ -1002,7 +1002,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: e567eacb2037b7646bbe68468bcf777c
+    spriteID: f152f1a3d4868d64da4a7e505ed66f9f
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_71
@@ -1016,7 +1016,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 6f61451d35a21794b82cd4bfb46a3250
+    spriteID: a35af448d4a23b6479f5fe1af4e20d32
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_72
@@ -1030,7 +1030,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: cfa1142d05c5db54aabb17701e36e1b3
+    spriteID: 84a80ad486e892449bbe135a67506acd
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_73
@@ -1044,7 +1044,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 4fb6e7839593cc14eaa200821f0dea85
+    spriteID: 20520ab94f4ff184f88fece181d10246
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_74
@@ -1058,7 +1058,7 @@ ScriptedImporter:
       y: 106
       width: 16
       height: 16
-    spriteID: 3127facda924a84478b8616b9e13e2b4
+    spriteID: c72a08d50a31c614b9b5f3474411d962
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_75
@@ -1072,7 +1072,7 @@ ScriptedImporter:
       y: 106
       width: 12
       height: 16
-    spriteID: 422a5efc0abcec348b2b6ad55472c82d
+    spriteID: 5adef9a28f3c4b344bdf4a180e847fed
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_76
@@ -1086,7 +1086,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: ffb66da4101f8b948a71ccd47f512188
+    spriteID: d44e8ac5eab8c4a459afaa0b87a4b533
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_77
@@ -1100,7 +1100,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 2c26034e9dacadb478e826520cad7f77
+    spriteID: 737f26c1ccaf6d64dadb5e887e3a4ac6
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_78
@@ -1114,7 +1114,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 127a06f9e2e917644a5ccbafdbb4b374
+    spriteID: 13f63da7d5aafbf4b9a4e4420afd991c
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_79
@@ -1128,7 +1128,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 584aeba408e95034bbf1baba9599e805
+    spriteID: b27300e5f1383654d86153e516ff8b34
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_80
@@ -1142,7 +1142,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: c372175acf343ef43b5eb2fd87ff2dc3
+    spriteID: 687af0544d0154146a641aacd04e3690
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_81
@@ -1156,7 +1156,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 209455c404768c74abe3a81eabdb86c6
+    spriteID: d6287baccdbea444e8fac3918ea2795d
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_82
@@ -1170,7 +1170,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 95c8355643abf63409d661e9f8d3a6fc
+    spriteID: 52371299e20d34447876d47ae3aef3b1
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_83
@@ -1184,7 +1184,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: d4e2d9083e2dac845a4b3fdbc3666a57
+    spriteID: d44defae6f576be4ba3564685f306f5c
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_84
@@ -1198,7 +1198,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 35a8ebf66830a01438f224c18c4b1ff5
+    spriteID: e9f07ed52c191d54cab2fef06748be92
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_85
@@ -1212,7 +1212,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: ceef9ef7f12de9b4fbf555aa3cba768a
+    spriteID: c823d567db0010140b58a73bd743a046
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_86
@@ -1226,7 +1226,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 9192a99a2d19dfe45962937c1b46d161
+    spriteID: 1c808da40cf827c4aa16ee3024d2c57a
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_87
@@ -1240,7 +1240,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 0f3c3113f9ca5704bbcadcf85a212893
+    spriteID: 7f31354f93655a342989c3e80ae2288a
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_88
@@ -1254,7 +1254,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 28a2708f3a7d6bc4594caca0660d9b7e
+    spriteID: 74be486981b2a054c965649133ce1717
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_89
@@ -1268,7 +1268,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: f0f5a55fae49cac4b95a40cc1bed2552
+    spriteID: 4bb2e3b08fb37644299773a0d4f95bc9
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_90
@@ -1282,7 +1282,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: c4bb28ef66b954b4ebfb6586969c953c
+    spriteID: 4e84053f0743feb44aabdc05e8739cfb
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_91
@@ -1296,7 +1296,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: e36ce414ceca96b48a7c4cb76291adb2
+    spriteID: 3b6eb7444a98be04a818c162f4b2dfc2
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_92
@@ -1310,7 +1310,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: 53d558f9790df624f9498ec3db2c768c
+    spriteID: 3a868bae4f308a94db4a670d50edefce
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_93
@@ -1324,7 +1324,7 @@ ScriptedImporter:
       y: 90
       width: 16
       height: 16
-    spriteID: d89280a679f9a974fae4a9a4d12daba1
+    spriteID: 08bf9357c0dfbb04b8ca6dd345e39dc7
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_94
@@ -1338,7 +1338,7 @@ ScriptedImporter:
       y: 90
       width: 12
       height: 16
-    spriteID: 179a4680d629d694abf8fb843b32f664
+    spriteID: 42e50b4a27e6cf646a3ceb0f376c9c73
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_95
@@ -1352,7 +1352,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: e858f1a20c2d2244eaeebfef44237a72
+    spriteID: f2eeb2f6380b3944abd25c7326808590
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_96
@@ -1366,7 +1366,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 6a58d2d447c2f824d8f64a410fe6c0f3
+    spriteID: d7f6a844cc603e146ac4e5a0e425b120
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_97
@@ -1380,7 +1380,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: b44e220bd70216c47b41758de6fd7b14
+    spriteID: e696bdc9d09c9b8429228f8608b10db3
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_98
@@ -1394,7 +1394,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 835b2ca1214f6ec4d8adc247b944341f
+    spriteID: 090febf083620bb42bc6fefabe62d6c1
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_99
@@ -1408,7 +1408,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 4c5ffc84ae0911e4f9784c7dfec83ee1
+    spriteID: c54ed82ebdb5b094e9c148418a882e24
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_100
@@ -1422,7 +1422,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 80ae9c63929cbf5449e822445f9b3468
+    spriteID: 875f4f19bb5abe84aad301edfdab77a3
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_101
@@ -1436,7 +1436,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: de4f32cbc2fe534429a4b1073b9ca18e
+    spriteID: 9d13ae3a3b904cb4c94b7b6b06bfe6cc
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_102
@@ -1450,7 +1450,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 57b686a6f505f9f4ca760fd42cace304
+    spriteID: 23fdd2ec01a41ef4d8d44bb89a43ee71
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_103
@@ -1464,7 +1464,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 80cf0e60b7cc98e46817600845c90dcb
+    spriteID: 3dab9472d5f0a4441ba98547c1f8d480
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_104
@@ -1478,7 +1478,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 61f9b928bb874d14b90e5e45a6353f53
+    spriteID: 241e909af077daa49b17ecb685ff9060
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_105
@@ -1492,7 +1492,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 720330ebe89764840ba84fb835d75add
+    spriteID: ad69ffd35b0fa0847ab0f45de5ce960e
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_106
@@ -1506,7 +1506,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: b1757464972548947a6916f000703fc5
+    spriteID: b76c5b51dae08ec4aba4959d63a9bfb0
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_107
@@ -1520,7 +1520,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 9e07e45ff570acd40af57d3a346163cc
+    spriteID: 3816ab34d5d8a7a4c86d19cd1a8b06c7
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_108
@@ -1534,7 +1534,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 4448c2ace5813f94bb8e75ba3f04f9ca
+    spriteID: f7a05a8eb636e5f4197234917964b48d
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_109
@@ -1548,7 +1548,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 9f23e37ef2d9f084ebf9e078ab05068d
+    spriteID: 3fe165ee23dd0bc48a109d954c0cc9e9
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_110
@@ -1562,7 +1562,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: a06e0f2d657269b44a209e2f4e487556
+    spriteID: de0d1cab15ed31648add449c8cdee778
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_111
@@ -1576,7 +1576,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 407c5822318f34649827a94d625ece61
+    spriteID: 1f73d0533b4712c419a125975bdeecb9
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_112
@@ -1590,7 +1590,7 @@ ScriptedImporter:
       y: 74
       width: 16
       height: 16
-    spriteID: 3ca07202f9e55c243a7e0a3513e847b5
+    spriteID: 945c1a421d9dbce4ca2670ba228ed006
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_113
@@ -1604,7 +1604,7 @@ ScriptedImporter:
       y: 74
       width: 12
       height: 16
-    spriteID: 7d7723671e41cdb449448b14656828c9
+    spriteID: 552bd5bd223d1f54db709fe3fc7df3d9
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_114
@@ -1618,7 +1618,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 3dc2fedd85a376e4db01f754bacab3cf
+    spriteID: 8efcca12861d1fa429fd6c56d8ad8398
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_115
@@ -1632,7 +1632,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: e4d55c98f90d10c4a9c134afc3217048
+    spriteID: b0de5fb65bf95f847af174291135163d
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_116
@@ -1646,7 +1646,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: fe4c2146e27657e4fb399824488cd98e
+    spriteID: 5b371f46dda41f9469de2639cf6cdd30
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_117
@@ -1660,7 +1660,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: a631bad555205ef46b0f1a26e12e83ed
+    spriteID: 07815e6c917aedb4fb812847b4903944
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_118
@@ -1674,7 +1674,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 592615551c7a12548be34972e4ea24df
+    spriteID: 4617a629f13a0c443a1e76de23bf6670
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_119
@@ -1688,7 +1688,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: ca925c0591a70724f908ff9f523ef3de
+    spriteID: 26a968e2f44b7674f8b72f88cd8801b4
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_120
@@ -1702,7 +1702,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 91c0664d3db0c824db4dabe5a61a0d70
+    spriteID: 5b8c59e12b56f0b439530ae78912ce7e
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_121
@@ -1716,7 +1716,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: eb2f40a00f1fbc94eb907df597d07a4b
+    spriteID: 9e97f7690fa88dd49b35830f1dd2fb85
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_122
@@ -1730,7 +1730,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 6e27ab83cfd0f614e8fefc3bbf16cb39
+    spriteID: 4b6264ad6238c104491e499cc20d045c
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_123
@@ -1744,7 +1744,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 166dbc71fddfdec4cabc6cdaac73a928
+    spriteID: 4b3eaefb32d68be4bb926f640b9b0428
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_124
@@ -1758,7 +1758,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 8e7caa6a8e50be74ea2bab12a1b85515
+    spriteID: 0bd8bc0433f0af24e922a8ccb733e9a0
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_125
@@ -1772,7 +1772,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: c5281e88b82071b4fafcb7131ec436a1
+    spriteID: ddd616f6d9736a94aaa54a731afdec5d
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_126
@@ -1786,7 +1786,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: a51df47a5c48e2345ba0cfde40ebd979
+    spriteID: bee4e2d723ea3e74db0e1ec925c73871
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_127
@@ -1800,7 +1800,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: dc6a73767514e2f429bcdc7fe08f50aa
+    spriteID: 5e2134f00d51a104a895f54eac7bd679
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_128
@@ -1814,7 +1814,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: b9cd272eb37e3d6419319c844fd046c2
+    spriteID: 2b3d4c7c39367d54c91835d49e83f7a5
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_129
@@ -1828,7 +1828,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: 4cd8e970cb214e9479e8c4de9966e59e
+    spriteID: 58d95a96367efb843a1e6069680874e7
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_130
@@ -1842,7 +1842,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: ecb8b5069250e794086e98cbe1ab30ea
+    spriteID: cb2b4c97e3f664645bde388a804c9db1
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_131
@@ -1856,7 +1856,7 @@ ScriptedImporter:
       y: 58
       width: 16
       height: 16
-    spriteID: b6309fadb75f728488506bd845f1bb9a
+    spriteID: 411ebf574790eab41a7f6eeeb6c11bc3
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_132
@@ -1870,7 +1870,7 @@ ScriptedImporter:
       y: 58
       width: 12
       height: 16
-    spriteID: 41753b97965f3514ea33c97a159f0fcc
+    spriteID: c9edc69725fcbdf45b73c2b7bd300725
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_133
@@ -1884,7 +1884,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 7e8d46cb0048e1b4181364805396b9de
+    spriteID: 7ebffbee5459b254b9b286393249d8aa
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_134
@@ -1898,7 +1898,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 5130934c6004e09418bc96e1f6aa38a5
+    spriteID: e7f33682ca411b54186e7cd8eb79e639
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_135
@@ -1912,7 +1912,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: e6d703c8eced1c3458268ec902ef8336
+    spriteID: 0017383391a051a44a44a3f830e94af3
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_136
@@ -1926,7 +1926,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 5c38507f48f2ffa488ac121c14ce12d8
+    spriteID: 9279320553ba1c74c862991a995e60d2
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_137
@@ -1940,7 +1940,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 89d8dcf1bcad80747bae3515c3892e28
+    spriteID: 584141c2d4debd045bfbc162967c0bd8
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_138
@@ -1954,7 +1954,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 488007eff0e334f4e8e3b37741f937f5
+    spriteID: 93c7f960b14825d49a1351166ecac888
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_139
@@ -1968,7 +1968,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 294707d29093f16468d9e1700d73ab75
+    spriteID: 1b28098e9c325024b9bc1a399f87c3c5
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_140
@@ -1982,7 +1982,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 963a2cd15d5fd854e9e1867eb7e46bb9
+    spriteID: 77060eefbd8eb6040af17314ce015454
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_141
@@ -1996,7 +1996,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: a0d6d6cc17fc9f6488f315da3493c6e2
+    spriteID: 65418acf02df25944988c69fd989770e
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_142
@@ -2010,7 +2010,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 61484085b1318994295a21c0314e2dab
+    spriteID: b27e1ae11bb4ebe4cac918ae472ff104
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_143
@@ -2024,7 +2024,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 55e3629cb48c90e4b9a8d08854c9b737
+    spriteID: 144189121b6403a4a91c979da14424ff
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_144
@@ -2038,7 +2038,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 94ca99b84db58c54c91c9b84d6f6af84
+    spriteID: 5e7e742ffd3352345a71e75c1f8b7d0b
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_145
@@ -2052,7 +2052,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 0e152aad798ae764793a93ad4d68a4ab
+    spriteID: 6e062b8720a7ebd4daddec203ad0a887
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_146
@@ -2066,7 +2066,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: cfd7ff7b949e3e14fb74b0c97f55e16c
+    spriteID: 9eb60a0e8dc064245b0d0d36be907879
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_147
@@ -2080,7 +2080,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 91d2430d4dfbefb48a14365fe01094e2
+    spriteID: 78040a5fe532923409b1831ebf34b871
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_148
@@ -2094,7 +2094,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 2fc4e4e8f9b32224fb158657736792d9
+    spriteID: 98d6d30b2b134844e822645ee28463c6
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_149
@@ -2108,7 +2108,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 8c7a9af51c36a45428f791933b3793fd
+    spriteID: 05a529ce5855bf044b1c5f9e568d2d91
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_150
@@ -2122,7 +2122,7 @@ ScriptedImporter:
       y: 42
       width: 16
       height: 16
-    spriteID: 03b82e63634d931439288dbf0c85ba9f
+    spriteID: 38fab7e21eff4dc459e1bf6f7b72902a
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_151
@@ -2136,7 +2136,7 @@ ScriptedImporter:
       y: 42
       width: 12
       height: 16
-    spriteID: a08ef5dcf594c6d49beeabf29f55f06e
+    spriteID: 7284982745bfe3d42a3974a453de0a1b
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_152
@@ -2150,7 +2150,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 950958903cfc61348a6491dcec2e8dc9
+    spriteID: c21af1aee79d22f47932832ca5dde962
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_153
@@ -2164,7 +2164,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 28472f8c5a771fa42a4852154a9df30b
+    spriteID: 55c9af05d685f6a439511e0c23677ec0
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_154
@@ -2178,7 +2178,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 97f71a4753ebbd647bfdc888884f148f
+    spriteID: 6d9866db2f0b7fa41a7137d72c1ccbf9
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_155
@@ -2192,7 +2192,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: e978becf49ae10b4cbf240642c16e675
+    spriteID: dd777ecdbcd9e3642a5de8a83bfc2b01
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_156
@@ -2206,7 +2206,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: cdbb515f6ce1e314094c49a7b829ab98
+    spriteID: 39ead6ae11d241548a2a76977a258d00
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_157
@@ -2220,7 +2220,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 6fc3134584749a34daddd9edd8c3f596
+    spriteID: 8cfdf359a6064494584f677b9d1fa261
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_158
@@ -2234,7 +2234,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 2f240470da67b564eaa767219be829ff
+    spriteID: cf2aa96a8db528c419ffb65f73bc1e05
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_159
@@ -2248,7 +2248,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: f9a076c1c41cca84fa215c50e381b013
+    spriteID: 2f85c19ff7f200e46af76433a0a7f26b
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_160
@@ -2262,7 +2262,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: f145a952c3012f74396a225d6cbf2d46
+    spriteID: 84d013f35a47ecf44aedb0bd398a5130
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_161
@@ -2276,7 +2276,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: fcbf1619d80a1e34cbff8a33a55003b2
+    spriteID: 524e0d1e5f551844186fb976492e56fb
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_162
@@ -2290,7 +2290,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: c06cc95e36085ff4d987951d077d7c72
+    spriteID: 085887897b5f494448b690e98760f573
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_163
@@ -2304,7 +2304,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 25187897bc82c224eb069a100d7f80d5
+    spriteID: d2ff0e7379f0bc74796bb13ce53ef26f
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_164
@@ -2318,7 +2318,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 74d78e41241aa144bb3d5666976869a1
+    spriteID: 1aa2672cc22321c4d971736d6039b162
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_165
@@ -2332,7 +2332,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 44b23ea4611c023498a434e22a4ec0dd
+    spriteID: ec8a7a7f7f867ec4da175513de137624
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_166
@@ -2346,7 +2346,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: e5848ff1af1c05242b817267fbdc2b3b
+    spriteID: b095d6a39c9438d44b5e448cca36b8fa
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_167
@@ -2360,7 +2360,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: 806c7f8363f25704d9be42985a432fa8
+    spriteID: 299764affb2c1ca41808e14f84b11e3b
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_168
@@ -2374,7 +2374,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: f393364da5b6c8d44b4d60c895724faa
+    spriteID: f0ce0b8138035664c8136081d6364924
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_169
@@ -2388,7 +2388,7 @@ ScriptedImporter:
       y: 26
       width: 16
       height: 16
-    spriteID: b71e24fe6b634e840b7e84b86c0d2a84
+    spriteID: 3a136d2ed97d4ed44b97bfc8859a33c6
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_170
@@ -2402,7 +2402,7 @@ ScriptedImporter:
       y: 26
       width: 12
       height: 16
-    spriteID: 93e18dfbac119f54da3c33b8a424a246
+    spriteID: a4bc49f74d1da1a4abbcce39d9e7be81
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_171
@@ -2416,7 +2416,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 4e4d23c73bce27b489833566aa4978a7
+    spriteID: 669ba0c6809853e4a861fb34965382b8
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_172
@@ -2430,7 +2430,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: ad77a2fe3819e064db92e7147c6344a7
+    spriteID: de1efb99fe3178044b3594e74a398abd
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_173
@@ -2444,7 +2444,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: d197b490679da004ab196c493810292c
+    spriteID: 05d616fd9ce35804e86da20f662dc43f
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_174
@@ -2458,7 +2458,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: a50172d314c8a954e8023051ebde9100
+    spriteID: 3899afda61dbae04f91db55a1d4c8b50
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_175
@@ -2472,7 +2472,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: b544265804b5a724488dc7ded66f7f01
+    spriteID: d33dc33b3476347468a97db3d529c9b3
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_176
@@ -2486,7 +2486,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 60401d8406fa0b543b6f844937a0f24f
+    spriteID: 4cf17e50bd78d9b459fa4e81e756e43c
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_177
@@ -2500,7 +2500,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 8d440b85ccc5f58448bee47c0f618055
+    spriteID: 33a65c5c0a4591c468c251ea040cecd7
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_178
@@ -2514,7 +2514,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: ca4ce57c4528386468cda0e6811cf1e7
+    spriteID: b992d4653a39cad47bd50826a5ff32cd
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_179
@@ -2528,7 +2528,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: de075663ca4c1ec44815f80dd5472732
+    spriteID: de106452b8a849647a41b7e24ace62e8
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_180
@@ -2542,7 +2542,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 87ec975ff6d94cd44970aaff684306ac
+    spriteID: a736a92d92dea9e499ab2befb82df200
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_181
@@ -2556,7 +2556,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: b3bd0d59fd0ca9140b59dd308a32e275
+    spriteID: c2e096fd0307979409f89ced673f5dda
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_182
@@ -2570,7 +2570,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: a389486cd658f2c46b312fbf9df985e5
+    spriteID: 897729c03094ca047819404d0f01a06a
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_183
@@ -2584,7 +2584,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 7de35d58c6112e04db10d2c471feb7d3
+    spriteID: da02aacafd3879648ae2ad032011453c
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_184
@@ -2598,7 +2598,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 077cc6ceb7312dc43bd8c2052b033eb5
+    spriteID: f35b7236aa0d46e47b478119fe6a9507
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_185
@@ -2612,7 +2612,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 1bd44d727274d79468642060b522b754
+    spriteID: e169336694d178644979c6f77d4a7134
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_186
@@ -2626,7 +2626,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 13a3fde6e3eb59845bb7531277f4d401
+    spriteID: a0828d9d796b90547982512e65e28466
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_187
@@ -2640,7 +2640,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: 61e07d388302aab458cc19b114a4ab9e
+    spriteID: 591ef3e82092c364a8077a03d3eb1f82
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_188
@@ -2654,7 +2654,7 @@ ScriptedImporter:
       y: 10
       width: 16
       height: 16
-    spriteID: f66ff5b0ee75bb842a8ded16cb86598a
+    spriteID: 8de7eeeff16d04e4fabfc70a61e79889
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_189
@@ -2668,7 +2668,7 @@ ScriptedImporter:
       y: 10
       width: 12
       height: 16
-    spriteID: 9d6e888eb7081884b99d5acb312beb49
+    spriteID: 0655198fd7e9d0040a01a80da1ad0c71
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_190
@@ -2682,7 +2682,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 02f67f3ae1855a64394bc2335b3644fb
+    spriteID: 2592617df60d0e54f9cd66697e0b7aa3
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_191
@@ -2696,7 +2696,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 57092e796d92c2c4cb02e528d1959641
+    spriteID: dac501ce4d1280f498e4117673515536
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_192
@@ -2710,7 +2710,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 65bc9127596cd19468e479ea47f29625
+    spriteID: 994448828d1eb1a44903809c62808bc9
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_193
@@ -2724,7 +2724,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 40f1f8ee7d4b96c448e4e7604ca0a03a
+    spriteID: 7c2163782bdce4a46a3147a82a52078e
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_194
@@ -2738,7 +2738,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: f7d673b4264150a4588743335e427118
+    spriteID: e7c395ec80a28d141855d57bd0911e2d
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_195
@@ -2752,7 +2752,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 8e5ab6772f6093743addc8158fdf5e0c
+    spriteID: 205ce214032741f419ac6dbef096e36f
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_196
@@ -2766,7 +2766,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: f1bd2a0e370b1664196ced7efa2f246e
+    spriteID: 27d63349465793f448102ccd9c1bfacc
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_197
@@ -2780,7 +2780,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: d70259801cb4fa144b39fc0d6121a8a6
+    spriteID: 8abbc9b9f3438184091e61516131fb0a
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_198
@@ -2794,7 +2794,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 75e20ccafa32dfc449dcf8a33f277550
+    spriteID: d201699e860d888448a7078db29f96c8
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_199
@@ -2808,7 +2808,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 3dc28e26c7217f34aa25197379708014
+    spriteID: cff5fc85512479e4783cdc3d4710e769
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_200
@@ -2822,7 +2822,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 8ff97e24ae8f5a54dbb33ab464f00168
+    spriteID: fa812771148c0b1438d6f6945f739f4c
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_201
@@ -2836,7 +2836,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: ffaa63dbe8a7111409e111d0597ed4b9
+    spriteID: 87ca35e7b3d542a4cb913e6de540e97a
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_202
@@ -2850,7 +2850,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 23b1aa1c5a5e9bc4ab3ec54ca3cfc5ce
+    spriteID: 42ab59350f3599d4e8877a4b70a33d55
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_203
@@ -2864,7 +2864,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 104d75907c90bfc44b231d4226e62606
+    spriteID: 49ad4de27fc7c484c89a60b11e7b9159
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_204
@@ -2878,7 +2878,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 81d4d72a360855044b4c524168debd06
+    spriteID: 3d836c25cc0e27c40a495325a06edb96
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_205
@@ -2892,7 +2892,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 360690fdb01fae04386bc79f5ada0bcf
+    spriteID: 485882655595d4241ab1c92a15b10d20
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_206
@@ -2906,7 +2906,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: aa12bde4f0e13bc4c90bf792a05bd173
+    spriteID: eaca94f41188be34eb3075f7e52acd48
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_207
@@ -2920,7 +2920,7 @@ ScriptedImporter:
       y: 0
       width: 16
       height: 10
-    spriteID: 919e820cf7929d44fb719fecf9807670
+    spriteID: f7bb2a8b669055a4e9c6dc881d26627f
     spriteOutline: []
     tessellationDetail: 0
   - name: _City_Layer_2_1_208
@@ -2934,7 +2934,7 @@ ScriptedImporter:
       y: 0
       width: 12
       height: 10
-    spriteID: 7e28f3391a57c2144b4230270765099d
+    spriteID: 525575a710e2f7247a0adbef7a7ae1b5
     spriteOutline: []
     tessellationDetail: 0
   _secondaryTextures: []

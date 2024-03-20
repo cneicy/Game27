@@ -6,7 +6,6 @@ namespace Script.Init.UI
 {
     public class Intro : MonoBehaviour
     {
-        //todo 加载场景Tip
         private List<string> _intro = new();
         private TMP_Text _introText;
         private void Awake()
