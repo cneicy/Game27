@@ -32,6 +32,7 @@ namespace Script.Game.Object
         private void OnTriggerEnter2D(Collider2D other)
         {
             _audioSource.Play();
+            
             //检查是否为第四关结束 如果为第四关结束则执行结束逻辑 如果不是则执行下一关加载
             if (Init.Init.Scene != Loader.Scene.Level4)
             {
@@ -40,6 +41,7 @@ namespace Script.Game.Object
             }
             else
             {
+                GameObject.FindWithTag("Moon").SetActive(false);
                 _isEnded = true;
                 StartCoroutine(Next());
             }

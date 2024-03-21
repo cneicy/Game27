@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
@@ -8,6 +9,7 @@ namespace Script.Init.UI
     {
         private List<string> _intro = new();
         private TMP_Text _introText;
+        private bool _isBlinking;
         private void Awake()
         {
             _introText = GetComponent<TMP_Text>();
@@ -17,8 +19,7 @@ namespace Script.Init.UI
             _intro.Add("第三幕\n亲爱的光亮，你填补我几近破损身体的缝隙。\n让我那颗半透明的心与你共鸣，让我在路上疾驰。");
             _intro.Add("第四幕\n我能化作光亮与你同行吗？\n我能化作光亮引领他人吗？");
         }
-
-        //随机加载tip
+        
         private void Start()
         {
             _introText.text = Init.Scene switch
@@ -30,7 +31,24 @@ namespace Script.Init.UI
                 Loader.Scene.Level4 => _intro[4],
                 _ => _introText.text
             };
-            
+            StartCoroutine(BlinkCursor());
+        }
+        private IEnumerator BlinkCursor()
+        {
+            while (true)
+            {
+                if (!_isBlinking)
+                {
+                    _introText.text += "|";
+                    _isBlinking = true;
+                }
+                else
+                {
+                    _introText.text = _introText.text[..^1];
+                    _isBlinking = false;
+                }
+                yield return new WaitForSeconds(1f); // 闪烁速度
+            }
         }
     }
 }

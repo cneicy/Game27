@@ -15,6 +15,7 @@ TagManager:
   - NoticeJump
   - NoticeWall
   - NoticeDash
+  - Moon
   layers:
   - Default
   - TransparentFX
