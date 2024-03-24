@@ -9,7 +9,7 @@ namespace Script.Credit.UI
         public TMP_Text textMeshPro;
 
         private const string IntroduceText =
-            "项目小组：为什么要演奏春日影  \n \n项目监督/主程序：孙玉杰  \n \n项目策划：米锦华 张梓彤  \n \n项目美术：吴张扬  \n \n开放源代码许可：\n \n      https://github.com/deepnight/ldtk\n \n      https://github.com/Cammin/LDtkToUnity \n \n \n \n \n \n \n \n \n \n \n愿我们成为光点，自由地飞翔。 ";
+            "我从我那半透明的心脏\n \n感受到了共鸣\n \n光成为我的羽翼\n \n让我在天地间飞翔\n \n指引迷途的人们\n \n请让我再明亮些吧\n \n \n \n \n \n \n \n \n \n \n让我们成为光点，自由地飞翔。 ";
 
         public float typingSpeed = 0.05f;
 
