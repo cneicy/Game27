@@ -1,16 +1,22 @@
-﻿using Script.Game.Getter;
+﻿using System;
+using System.Collections;
+using Script.Game.Getter;
+using Unity.Netcode;
+using Unity.Netcode.Components;
 using UnityEngine;
 
 namespace Script.Game.Object.Player.Action
 {
-    public class Flip : MonoBehaviour
+    public class Flip : NetworkBehaviour
     {
         private Quaternion _tempY;
         public bool canFlip = true;
+        
         private void Turn()
         {
             if (canFlip)
             {
+                
                 _tempY.y = KeyGetter.PlayerDir.x switch
                 {
                     < 0 => 180,
@@ -23,7 +29,8 @@ namespace Script.Game.Object.Player.Action
 
         private void Update()
         {
-            Turn();
+            if (IsOwner)
+                Turn();
         }
     }
 }

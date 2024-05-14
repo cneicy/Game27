@@ -92,6 +92,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5259672956248174022}
   - component: {fileID: 2646759245962622088}
+  - component: {fileID: 2822212761491193337}
   m_Layer: 3
   m_Name: CameraPoint
   m_TagString: LookPosition
@@ -166,6 +167,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2822212761491193337
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1985549874208778959}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18f74242b5dd4a028561562ad51e60ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4195164598735340177
 GameObject:
   m_ObjectHideFlags: 0
@@ -189,6 +202,9 @@ GameObject:
   - component: {fileID: 8714763073386557265}
   - component: {fileID: 4198485770553611653}
   - component: {fileID: 555842539841206800}
+  - component: {fileID: 4794972774383278204}
+  - component: {fileID: 7387877367054297656}
+  - component: {fileID: -1795017039064206682}
   m_Layer: 3
   m_Name: Player
   m_TagString: Player
@@ -311,6 +327,9 @@ MonoBehaviour:
   buttonPressTime: 0
   buttonPressWindow: 4
   canJump: 0
+  scene:
+    m_InternalValue: 0
+  playerArray: []
   preJumpTimeMax: 0.25
   coyoteTimeMax: 0.25
   jumpingSource: {fileID: 8365856908264242352}
@@ -868,3 +887,65 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.5969846, y: 3.2104807}
   m_EdgeRadius: 0
+--- !u!114 &4794972774383278204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4195164598735340177}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9baa8ea16675eda4ebf04a235a19c78f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SyncPositionX: 1
+  SyncPositionY: 1
+  SyncPositionZ: 1
+  SyncRotAngleX: 1
+  SyncRotAngleY: 1
+  SyncRotAngleZ: 1
+  SyncScaleX: 1
+  SyncScaleY: 1
+  SyncScaleZ: 1
+  PositionThreshold: 0.001
+  RotAngleThreshold: 0.01
+  ScaleThreshold: 0.01
+  UseQuaternionSynchronization: 0
+  UseQuaternionCompression: 0
+  UseHalfFloatPrecision: 0
+  InLocalSpace: 0
+  Interpolate: 0
+  SlerpPosition: 1
+--- !u!114 &7387877367054297656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4195164598735340177}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80d7c879794dfda4687da0e400131852, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &-1795017039064206682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4195164598735340177}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  GlobalObjectIdHash: 951099334
+  AlwaysReplicateAsRoot: 0
+  SynchronizeTransform: 1
+  ActiveSceneSynchronization: 0
+  SceneMigrationSynchronization: 1
+  SpawnWithObservers: 1
+  DontDestroyWithOwner: 0
+  AutoObjectParentSync: 1

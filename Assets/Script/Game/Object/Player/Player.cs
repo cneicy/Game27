@@ -1,11 +1,14 @@
 using System.Collections;
+using System.Collections.Generic;
 using Script.Data;
 using Script.Game.Object.Player.Action;
+using Script.Init;
+using Unity.Netcode;
 using UnityEngine;
 
 namespace Script.Game.Object.Player
 {
-    public class Player : MonoBehaviour
+    public class Player : NetworkBehaviour
     {
         private Rigidbody2D _rigidBody2D;
         private Animator _animator;
@@ -24,6 +27,9 @@ namespace Script.Game.Object.Player
         private float _preJumpTime;
         private Dash _dash;
         private bool _isJumpCooling;
+        public NetworkVariable<Loader.Scene> scene;
+        public List<GameObject> playerArray;
+
         [SerializeField] private float preJumpTimeMax;
         [SerializeField] private float coyoteTimeMax;
 
@@ -43,6 +49,7 @@ namespace Script.Game.Object.Player
 
         private void Awake()
         {
+            DontDestroyOnLoad(this);
             _sal = GameObject.FindWithTag("Global").GetComponent<SAL>();
             _sal.InitPlayer();
             _keySettingManager = GameObject.FindWithTag("KeySettingManager").GetComponent<KeySettingManager>();
@@ -54,7 +61,10 @@ namespace Script.Game.Object.Player
 
         private void Start()
         {
-            LoadData();
+            if (IsOwner)
+            {
+                LoadData();
+            }
         }
 
         //保存数据用Trigger方法
@@ -65,6 +75,47 @@ namespace Script.Game.Object.Player
             PlayerData.PlayerPosition = transform.position;
             PlayerData.IsFinish = isEnd;
             _sal.Save();
+        }
+
+        // 将本地数据发送到服务器的方法之一
+        private void SubmitToServer(Loader.Scene scene)
+        {
+            ChangeSceneValueServerRPC(scene);
+        }
+
+        [ServerRpc]
+        public void ChangeSceneValueServerRPC(Loader.Scene _scene)
+        {
+            scene.Value = _scene;
+        }
+
+        public void HideOtherPlayer()
+        {
+            SubmitToServer(Init.Init.Scene);
+            var temp = GameObject.FindGameObjectsWithTag("Player");
+
+            foreach (var player in temp)
+            {
+                if ((int)scene.Value != (int)player.GetComponent<Player>().scene.Value)
+                {
+                    playerArray.Add(player);
+                    player.SetActive(false);
+                }
+
+                if (player.GetComponent<Player>().scene.Value == Loader.Scene.Credit)
+                {
+                    player.SetActive(false);
+                }
+            }
+
+            foreach (var player in playerArray)
+            {
+                if (player)
+                    if (player.GetComponent<Player>().scene.Value == scene.Value)
+                    {
+                        player.SetActive(true);
+                    }
+            }
         }
 
         public void LoadData()
@@ -155,6 +206,7 @@ namespace Script.Game.Object.Player
 
         private void OnTriggerEnter2D(Collider2D other)
         {
+            if (!IsOwner) return;
             if (other.gameObject.tag.Equals("Wall"))
             {
                 if (_preJumpTime < preJumpTimeMax && _isPreJumpEnable && !leftWallJump && !rightWallJump)
@@ -170,6 +222,7 @@ namespace Script.Game.Object.Player
 
         private void OnTriggerStay2D(Collider2D other)
         {
+            if (!IsOwner) return;
             _coyoteTime = 0;
             _preJumpTime = 0;
             if (other.gameObject.tag.Equals("Wall"))
@@ -182,13 +235,13 @@ namespace Script.Game.Object.Player
         //当玩家离地自动启用土狼时间 允许玩家跳跃一次 土狼时间为10fixUpdate 如果玩家在10fixUpdate内跳跃过则禁用土狼时间
         private void OnTriggerExit2D(Collider2D other)
         {
+            if (!IsOwner) return;
             if (other.gameObject.tag.Equals("Wall"))
             {
                 _isCoyoteTimeEnable = true;
             }
         }
-
-
+        
         private void SpeedLimit()
         {
             var temp = _rigidBody2D.velocity;
@@ -209,6 +262,7 @@ namespace Script.Game.Object.Player
 
         private void FixedUpdate()
         {
+            if (!IsOwner) return;
             if (_isCoyoteTimeEnable)
             {
                 _coyoteTime += Time.fixedDeltaTime;
@@ -259,6 +313,8 @@ namespace Script.Game.Object.Player
 
         private void Update()
         {
+            if (!IsOwner) return;
+            HideOtherPlayer();
             SpeedLimit();
             ClimbJump();
             CoyoteTime();

@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using Script.Init;
+using Unity.Netcode;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -52,6 +53,12 @@ namespace Script.Game.UI
             Time.timeScale = 1;
             Init.Init.InitScene(Loader.Scene.MainMenu);
             SceneManager.LoadScene("Init");
+        }
+
+        public void StartServer()
+        {
+            NetworkManager.Singleton.Shutdown();
+            NetworkManager.Singleton.StartServer();
         }
     }
 }

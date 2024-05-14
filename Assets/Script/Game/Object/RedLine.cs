@@ -1,16 +1,35 @@
-﻿using UnityEngine;
+﻿using Unity.Netcode;
+using UnityEngine;
 
 namespace Script.Game.Object
 {
-    public class RedLine : MonoBehaviour
+    public class RedLine : NetworkBehaviour
     {
         private SpriteRenderer _player;
         private AudioSource _audioSource;
         [SerializeField] private GameObject[] directors;
+
         private void Start()
         {
             _audioSource = GetComponent<AudioSource>();
-            _player = GameObject.FindWithTag("Player").GetComponent<SpriteRenderer>();
+        }
+
+        private void Update()
+        {
+            try
+            {
+                var temp = GameObject.FindGameObjectsWithTag("Player");
+                foreach (var point in temp)
+                {
+                    if (point.GetComponent<Player.Player>().IsLocalPlayer)
+                    {
+                        _player = point.GetComponent<SpriteRenderer>();
+                    }
+                }
+            }
+            catch
+            {
+            }
         }
 
         //引导光点复位
@@ -21,6 +40,7 @@ namespace Script.Game.Object
             {
                 director.SetActive(true);
             }
+
             _player.transform.position = Vector2.zero;
         }
     }

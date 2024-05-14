@@ -7,15 +7,13 @@ namespace Script.Game.UI
     {
         [SerializeField] private GameObject pausePanel;
         private Player _player;
-
-        private void Awake()
-        {
-            _player = GameObject.FindWithTag("Player").GetComponent<Player>();
-        }
+        
 
         public void Pause()
         {
-            _player.SaveData();
+            if(_player)
+                _player.SaveData();
+            
             pausePanel.SetActive(true);
             Time.timeScale = 0;
             gameObject.SetActive(false);
@@ -23,6 +21,22 @@ namespace Script.Game.UI
 
         private void Update()
         {
+            try
+            {
+                var temp = GameObject.FindGameObjectsWithTag("Player");
+                foreach (var point in temp)
+                {
+                    if (point.GetComponent<Player>().IsLocalPlayer)
+                    {
+                        _player = point.GetComponent<Player>();
+                    }
+                }
+            }
+            catch
+            {
+            }
+            
+            
             if (Input.GetKeyDown(KeyCode.Escape))
             {
                 Pause();

@@ -1,28 +1,30 @@
 ﻿using System.Collections;
 using Script.Game.Getter;
+using Unity.Netcode;
 using UnityEngine;
 
 namespace Script.Game.Object.Player.Action
 {
-    public class Dash : MonoBehaviour
+    public class Dash : NetworkBehaviour
     {
         private const float DashForce = 200f;
         private Rigidbody2D _rigidBody2D;
         private Animator _animator;
+
+        private GameObject _player;
+
         //private VAttack _vAttack;
         public bool isDashing;
         private bool _canDash = true;
         private static readonly int Dash1 = Animator.StringToHash("Dash");
         private ShadowPool _shadowPool;
         private KeySettingManager _keySettingManager;
-        [SerializeField]private AudioSource audioSource;
-        
+        [SerializeField] private AudioSource audioSource;
+
         private void Awake()
         {
             _keySettingManager = GameObject.FindWithTag("KeySettingManager").GetComponent<KeySettingManager>();
-            _shadowPool = GameObject.FindWithTag("Player").GetComponent<ShadowPool>();
-            _rigidBody2D = GameObject.FindWithTag("Player").GetComponent<Rigidbody2D>();
-            _animator = GameObject.FindWithTag("Player").GetComponent<Animator>();
+
             //_vAttack = GameObject.FindWithTag("VAttack").GetComponent<VAttack>();
         }
 
@@ -45,6 +47,7 @@ namespace Script.Game.Object.Player.Action
                 _rigidBody2D.gravityScale = 0;
                 _rigidBody2D.AddForce(Vector2.right * (KeyGetter.PlayerDir.x * DashForce), ForceMode2D.Impulse);
             }
+
             //冲刺残影
             if (isDashing)
             {
@@ -67,7 +70,26 @@ namespace Script.Game.Object.Player.Action
 
         private void Update()
         {
-            PlayerDash();
+            try
+            {
+                var temp = GameObject.FindGameObjectsWithTag("Player");
+                foreach (var point in temp)
+                {
+                    if (point.GetComponent<Player>().IsLocalPlayer)
+                    {
+                        _player = point;
+                        _shadowPool = _player.GetComponent<ShadowPool>();
+                        _rigidBody2D = _player.GetComponent<Rigidbody2D>();
+                        _animator = _player.GetComponent<Animator>();
+                    }
+                }
+            }
+            catch
+            {
+            }
+
+            if (IsOwner)
+                PlayerDash();
         }
     }
 }

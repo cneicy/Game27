@@ -8,10 +8,7 @@ namespace Script.Game.Object.Player
     {
         private ShadowPool _shadowPool;
         private Quaternion _tempY;
-        private void Awake()
-        {
-            _shadowPool = GameObject.FindWithTag("Player").GetComponent<ShadowPool>();
-        }
+
 
         private void Start()
         {
@@ -26,6 +23,21 @@ namespace Script.Game.Object.Player
 
         private void FixedUpdate()
         {
+            try
+            {
+                var temp = GameObject.FindGameObjectsWithTag("Player");
+                foreach (var point in temp)
+                {
+                    if (point.GetComponent<Player>().IsLocalPlayer)
+                    {
+                        _shadowPool = point.GetComponent<ShadowPool>();
+                    }
+                }
+            }
+            catch
+            {
+            }
+
             StartCoroutine(Shrink());
         }
 

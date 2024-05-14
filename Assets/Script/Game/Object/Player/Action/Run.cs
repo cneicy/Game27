@@ -1,9 +1,10 @@
 ﻿using Script.Game.Getter;
+using Unity.Netcode;
 using UnityEngine;
 
 namespace Script.Game.Object.Player.Action
 {
-    public class Run : MonoBehaviour
+    public class Run : NetworkBehaviour
     {
         [SerializeField] private AudioSource walkingSource;
         [SerializeField] private AudioSource runningSource;
@@ -15,9 +16,6 @@ namespace Script.Game.Object.Player.Action
 
         private void Awake()
         {
-            _player = GameObject.FindWithTag("Player").GetComponent<Player>();
-            _rigidBody2D = GameObject.FindWithTag("Player").GetComponent<Rigidbody2D>();
-            _animator = GameObject.FindWithTag("Player").GetComponent<Animator>();
         }
 
         private void PlayerMove() //不能直接*KeyGetter.PlayerDir 会起飞
@@ -57,7 +55,21 @@ namespace Script.Game.Object.Player.Action
 
         private void Update()
         {
-            PlayerMove();
+            if (IsOwner)
+            {
+                var temp = GameObject.FindGameObjectsWithTag("Player");
+                foreach (var point in temp)
+                {
+                    if (point.gameObject.GetComponentInParent<Player>().OwnerClientId == NetworkObject.OwnerClientId)
+                    {
+                        _player = point.GetComponent<Player>();
+                        _rigidBody2D = point.GetComponent<Rigidbody2D>();
+                        _animator = point.GetComponent<Animator>();
+                    }
+                }
+
+                PlayerMove();
+            }
         }
     }
 }
