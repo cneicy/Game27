@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
+using System.Threading.Tasks;
 using Script.Init;
 using Unity.Netcode;
 using UnityEngine;
@@ -10,6 +12,7 @@ namespace Script.Game.UI
     {
         [SerializeField] private GameObject normalPanel;
         [SerializeField] private GameObject savingText;
+        private bool loadTrigger;
         private void Start()
         {
             Time.timeScale = 1;
@@ -34,6 +37,12 @@ namespace Script.Game.UI
             {
                 Continue();
             }
+
+            if (loadTrigger)
+            {
+                loadTrigger = false;
+                StartCoroutine(StopCamera());
+            }
         }
 
         public void Continue()
@@ -55,10 +64,27 @@ namespace Script.Game.UI
             SceneManager.LoadScene("Init");
         }
 
-        public void StartServer()
+        public async void StartServer()
         {
             NetworkManager.Singleton.Shutdown();
+            await Task.Delay(1);
             NetworkManager.Singleton.StartServer();
+            loadTrigger = true;
+        }
+
+        private IEnumerator StopCamera()
+        {
+            yield return new WaitForSeconds(1);
+            try
+            {
+                GameObject.FindGameObjectWithTag("MainCamera").SetActive(false);
+            }
+            catch
+            {
+                // ignored
+            }
+            
+            StartCoroutine(StopCamera());
         }
     }
 }
